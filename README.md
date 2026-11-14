@@ -124,7 +124,11 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    **Kiểm tra mã:** mọi mã dạng `ND-...`, `L...`, `TT-...` dùng trong module phải có trong cột Mã của danh mục.
 3. Chạy **bộ câu hỏi** trong `tests/bo-cau-hoi-kiem-thu.md`, ít nhất các câu 1, 5, 8, 9, 13. Chỉ phát hành khi các câu bẫy (8, 9) đạt.
 4. Nâng `VERSION`: sửa danh mục thì nâng bản vá (`1.0.1`); thêm tính năng thì nâng bản nhỏ (`1.1.0`). Ghi `CHANGELOG.md`. Đảm bảo phiên bản trong `VERSION` khớp với dòng `Phiên bản:` trong danh mục.
-5. **Đóng gói.** Chạy trong PowerShell, từ thư mục **chứa** thư mục skill:
+5. **Đóng gói.** Nếu thư mục skill là kho git, dùng lệnh sau để file zip không lẫn thư mục `.git`:
+   ```bash
+   git archive --format=zip --prefix=tu-van-phap-luat-doanh-nghiep/ -o ../tu-van-phap-luat-doanh-nghiep-v<phiên bản>.zip v<phiên bản>
+   ```
+   Nếu không dùng git, chạy trong PowerShell, từ thư mục **chứa** thư mục skill:
    ```powershell
    $v = (Get-Content tu-van-phap-luat-doanh-nghiep\VERSION).Trim()
    Compress-Archive -Path tu-van-phap-luat-doanh-nghiep -DestinationPath "tu-van-phap-luat-doanh-nghiep-v$v.zip" -Force
