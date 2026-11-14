@@ -51,4 +51,5 @@ Ghi trong báo cáo phát hành của từng phiên bản. Bản 1.0.0: xem `pla
 ## Ghi chú chấm điểm
 
 - Câu không đạt cột "Phải có" vì **không đọc được văn bản** (trang bị chặn, không có file gốc) vẫn tính là Không đạt. Ghi rõ nguyên nhân "dữ liệu" để phân biệt với lỗi hướng dẫn của skill. Cách xử lý: thêm link file gốc vào danh mục, hoặc thêm đoạn trích vào `references/trich-dan-xac-minh.md`.
-- Câu 7 và 12 phụ thuộc vào mục ND-QLT Điều 10 trong kho trích dẫn. Kho chưa có quy định khi hạn nộp trùng ngày nghỉ, nên câu trả lời phải ghi ❓ cho điểm này, không tự suy ra.
+- Câu 7 và 12 phụ thuộc vào mục ND-QLT Điều 10 và Điều 24 trong kho trích dẫn. Với trường hợp hạn nộp trùng ngày nghỉ: đạt nếu câu trả lời trích được quy tắc của BLDS (✅ hoặc ⚠️ tùy nguồn) hoặc ghi ❓ khi không tra được. Không đạt nếu tự suy ra ngày mà không có căn cứ.
+- Nhắc "lệ phí môn bài" ở mục "Không áp dụng" để nói là đã bãi bỏ thì **không** vi phạm cột Cấm của câu 12.

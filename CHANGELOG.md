@@ -1,5 +1,14 @@
 # Nhật ký thay đổi
 
+## 1.0.2 — 14/11/2026
+
+Đã chạy lại câu 7 (hạn nộp tờ khai GTGT quý 4) và câu 12 (lịch tuân thủ tháng 1/2027) trên bản 1.0.1: cả hai đều đạt. **Đủ 15/15 câu kiểm thử đạt.**
+
+- Kho trích dẫn: thêm điều về tạm nộp thuế TNDN theo quý (ND-QLT Điều 24). Ghi rõ Luật Quản lý thuế và nghị định hướng dẫn không có quy tắc riêng khi hạn nộp trùng ngày nghỉ, nên áp dụng quy tắc chung của Bộ luật Dân sự.
+- Lịch tuân thủ: thêm việc kiểm tra lịch nghỉ Tết cho các hạn nộp rơi vào tháng 1, tháng 2; thêm ngưỡng tạm nộp TNDN quý 4.
+- Danh mục: ghi các luật sửa Luật BHXH năm 2025 (chưa xác minh) và nguồn đọc được của Bộ luật Dân sự về cách tính thời hạn.
+- Bộ kiểm thử: thống nhất cách chấm trường hợp hạn nộp trùng ngày nghỉ, và cách chấm khi lệ phí môn bài được nhắc ở mục "không áp dụng".
+
 ## 1.0.1 — 14/11/2026
 
 Sửa sau khi chạy đủ 15 câu kiểm thử: 13 câu đạt ngay; 2 câu về hạn nộp thuế (7 và 12) chưa đạt vì không đọc được văn bản, và đã được khắc phục trong bản này.

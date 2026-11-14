@@ -9,7 +9,7 @@ Dùng khi người dùng hỏi "tháng hoặc quý này phải nộp gì", "hạ
 1. **Đọc hồ sơ doanh nghiệp.** Cần các thông tin: phương pháp và kỳ kê khai thuế GTGT (tháng hay quý), có người lao động không và có khấu trừ TNCN không, năm tài chính, loại hình, số lao động, có lao động nước ngoài không, có giao dịch liên kết không, doanh nghiệp có thuộc diện phải kiểm toán báo cáo tài chính không. Thiếu thông tin nào thì hỏi người dùng.
 2. **Xác định khoảng thời gian** người dùng hỏi: tháng, quý hay năm.
 3. **Lọc bảng nghĩa vụ** ở mục 2, chỉ giữ những nghĩa vụ áp dụng cho doanh nghiệp này.
-4. **Tra nguyên văn hạn nộp** của từng nghĩa vụ theo cột Căn cứ. Hạn nộp hồ sơ khai thuế theo tháng, quý, năm và quyết toán đã có nguyên văn trong `trich-dan-xac-minh.md` (mục ND-QLT Điều 10); hạn nộp tiền thuế trùng ngày cuối của hạn nộp hồ sơ khai (mục LQLT). Hạn nộp rơi vào ngày nghỉ thì tra quy định về cách tính thời hạn (LQLT, ND-QLT, BLDS) để xác định ngày làm việc tiếp theo.
+4. **Tra nguyên văn hạn nộp** của từng nghĩa vụ theo cột Căn cứ. Hạn nộp hồ sơ khai thuế theo tháng, quý, năm và quyết toán đã có nguyên văn trong `trich-dan-xac-minh.md` (mục ND-QLT Điều 10); hạn nộp tiền thuế trùng ngày cuối của hạn nộp hồ sơ khai (mục LQLT). Hạn nộp rơi vào ngày nghỉ: LQLT và ND-QLT không có quy định riêng, nên áp dụng quy tắc chung của BLDS về ngày cuối cùng của thời hạn là ngày nghỉ (xem `trich-dan-xac-minh.md`, mục ND-QLT Điều 10). Với hạn rơi vào tháng 1 hoặc tháng 2, kiểm tra thêm lịch nghỉ Tết của năm đó. Luôn khuyến nghị nộp trước ngày nghỉ. Tạm nộp TNDN quý 4 có ngưỡng tối thiểu tính trên số quyết toán năm (ND-QLT Điều 24, có trong kho trích dẫn).
 5. **Trả lời bằng bảng** sắp theo ngày:
 
 | Hạn | Việc | Ai làm | Căn cứ (trích dẫn) | Phạt nếu trễ (trích dẫn) | Nhãn |

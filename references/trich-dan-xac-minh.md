@@ -30,7 +30,17 @@ Các đoạn dưới đây đã được đọc **nguyên văn** từ file gốc
 
 Khoản 9: thời hạn của hộ, cá nhân kinh doanh thực hiện theo ND-THKD. Khoản 7: thời hạn báo cáo lợi nhuận liên quốc gia theo ND-GDLK.
 
-**Chưa đối chiếu:** quy định khi hạn nộp trùng ngày nghỉ. Phải tra khi cần.
+**Ngày nghỉ:** Luật Quản lý thuế và nghị định này (các phần đã đọc) **không có** quy định riêng khi hạn nộp trùng ngày nghỉ. Khi đó áp dụng quy tắc chung về cách tính thời hạn của Bộ luật Dân sự (BLDS, điều về ngày cuối cùng của thời hạn là ngày nghỉ). Nguyên văn BLDS chưa đọc được từ nguồn nhóm 1–3: ghi ⚠️ kèm điều luật, và khuyến nghị nộp trước ngày nghỉ.
+
+## ND-QLT — Điều 24. Tạm nộp theo quý
+
+Đối chiếu ngày 14/11/2026, từ file ký số (bản scan), trang 47–48.
+
+- **Khoản 1 điểm a:** "Thuế thu nhập doanh nghiệp;"
+- **Khoản 2:** "Thời hạn tạm nộp quý chậm nhất là ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ thuế, khoản thu khác."
+- **Khoản 3 điểm a:** "Người nộp thuế phải tự xác định số thuế, khoản thu khác tạm nộp hằng quý nhưng tổng số thuế, khoản thu khác đã tạm nộp của 04 quý không được thấp hơn 80% số thuế, khoản thu khác phải nộp theo quyết toán năm của người nộp thuế tự kê khai;"
+- **Khoản 3 điểm b:** nộp thiếu thì "phải nộp tiền chậm nộp [...] kể từ ngày tiếp theo liền kề của ngày cuối cùng của thời hạn tạm nộp quý 04 [...]"
+- **Khoản 4:** Bộ trưởng Bộ Tài chính hướng dẫn. Thông tư hướng dẫn **chưa có trong danh mục**.
 
 ## LQLT — Luật Quản lý thuế
 
