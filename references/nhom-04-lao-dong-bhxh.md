@@ -29,7 +29,7 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 | 2 | Loại hợp đồng lao động, nội dung bắt buộc | BLLD, ND-QHLD |
 | 3 | Hợp đồng lao động điện tử: điều kiện, nền tảng, chữ ký số, lộ trình | ND-HDLDDT, TT-HDLDDT, NQ-HDLDDT |
 | 4 | Lương không thấp hơn mức tối thiểu vùng tại thời điểm trả lương | ND-LTT, ND-LTT-2027 |
-| 5 | Tham gia BHXH, BHYT, BHTN: đối tượng, thời điểm, mức đóng | LBHXH, ND-BHXH, LVL, ND-BHTN |
+| 5 | Tham gia BHXH, BHYT, BHTN: đối tượng, thời điểm, mức đóng | LBHXH, ND-BHXH, TT-BHXH, LBHYT, LBHYT-SD, LVL, ND-BHTN |
 | 6 | Lao động nước ngoài: giấy phép lao động hoặc xác nhận miễn | ND-LDNN |
 
 ### 3.2 Xử lý kỷ luật lao động và sa thải
@@ -61,6 +61,9 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 | Tiền lương làm căn cứ đóng | LBHXH, ND-BHXH |
 | Chậm đóng, trốn đóng: định nghĩa, biện pháp xử lý, lãi | LBHXH, ND-XPLD |
 | Bảo hiểm thất nghiệp | LVL, ND-BHTN |
+| Hướng dẫn chi tiết BHXH bắt buộc (hồ sơ, thủ tục) | TT-BHXH |
+| BHYT cho người lao động: đối tượng, mức đóng (đóng cùng BHXH) | LBHYT, LBHYT-SD, ND-BHYT |
+| Sổ BHXH điện tử | TT-SOBHXH |
 
 ## 4. Điểm dễ sai
 

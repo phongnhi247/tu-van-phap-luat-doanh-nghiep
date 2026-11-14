@@ -1,5 +1,19 @@
 # Nhật ký thay đổi
 
+## 1.0.3 — 14/11/2026
+
+Rà soát lại nhóm thuế và BHXH.
+
+- **Thuế:**
+  - Thêm thông tư hướng dẫn Luật Quản lý thuế 2025 (mã TT-QLT, hiệu lực 01/07/2026). Thông tư này có biểu mẫu tờ khai mới và bãi bỏ 10 thông tư cũ, trong đó có thông tư hướng dẫn quản lý thuế năm 2021. Đây là khoảng trống lớn nhất của các bản trước.
+  - Xác định ngày hiệu lực của nghị định sửa đổi thuế TNDN năm 2026 (01/01/2026, hồi tố), nghị định sửa đổi thuế GTGT năm 2026 (20/06/2026) và nghị định sửa đổi xử phạt thuế (21/07/2026).
+  - Ghi chú: kỳ khai TNCN đối với tiền lương có thể đã thay đổi từ 01/07/2026; thông tư đăng ký thuế cần kiểm tra lại.
+- **BHXH:**
+  - Thêm Luật Bảo hiểm y tế, luật sửa đổi năm 2024 và nghị định hướng dẫn; thông tư hướng dẫn BHXH bắt buộc; thông tư về sổ BHXH điện tử.
+  - Nâng nhãn ✅ cho nghị định về bảo hiểm thất nghiệp.
+  - Ghi chú danh sách luật sửa Luật BHXH chưa xác minh, và dự thảo sửa Luật BHXH đang lấy ý kiến.
+- **Module:** nhóm 4, nhóm 5 và lịch tuân thủ trỏ tới các mã mới.
+
 ## 1.0.2 — 14/11/2026
 
 Đã chạy lại câu 7 (hạn nộp tờ khai GTGT quý 4) và câu 12 (lịch tuân thủ tháng 1/2027) trên bản 1.0.1: cả hai đều đạt. **Đủ 15/15 câu kiểm thử đạt.**

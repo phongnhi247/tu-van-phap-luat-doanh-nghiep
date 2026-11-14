@@ -3,7 +3,7 @@
 > Module chỉ ghi **mã căn cứ**. Tra số hiệu trong `danh-muc-can-cu.md`. Thuế suất, hạn nộp, ngưỡng doanh thu và mức phạt phải tra nguyên văn khi trả lời.
 >
 > **Năm 2025–2026 là giai đoạn chuyển đổi lớn.** Gần như toàn bộ hệ thống thuế đã thay đổi:
-> - Quản lý thuế: LQLT và ND-QLT có hiệu lực từ 01/07/2026, thay luật và nghị định cũ.
+> - Quản lý thuế: LQLT, ND-QLT và thông tư hướng dẫn TT-QLT có hiệu lực từ 01/07/2026, thay luật, nghị định và thông tư cũ.
 > - Thuế GTGT: luật mới có hiệu lực từ 01/07/2025.
 > - Thuế TNDN: luật mới áp dụng từ kỳ tính thuế 2025.
 > - Thuế TNCN: luật mới có hiệu lực từ 01/07/2026, một số khoản áp dụng từ kỳ tính thuế 2026.
@@ -32,7 +32,8 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 | Việc | Căn cứ |
 |---|---|
-| Hồ sơ khai, kỳ khai, hạn nộp hồ sơ và tiền thuế (từ 01/07/2026) | LQLT, ND-QLT. Thông tư hướng dẫn về hồ sơ khai thuế **chưa có trong danh mục**, phải tra |
+| Hồ sơ khai, kỳ khai, hạn nộp hồ sơ và tiền thuế (từ 01/07/2026). Hạn nộp đã có trong `trich-dan-xac-minh.md` | LQLT, ND-QLT |
+| Mẫu tờ khai, hồ sơ khai thuế cụ thể (Phụ lục I), khai thuế TNCN đối với tiền lương, tiền công (có thay đổi từ 01/07/2026) | TT-QLT. Phải đọc nguyên văn điều liên quan; chưa có trong kho trích dẫn |
 | Sự việc trước 01/07/2026 | Luật và nghị định quản lý thuế cũ (xem mục hết hiệu lực trong danh mục) cùng điều khoản chuyển tiếp của LQLT |
 | Tạm nộp TNDN theo quý, quyết toán năm | LTNDN, ND-TNDN, ND-TNDN-SD, TT-TNDN, LQLT |
 | Khấu trừ TNCN, quyết toán thay cho người lao động | LTNCN, ND-TNCN, LQLT |

@@ -23,14 +23,14 @@ Dùng khi người dùng hỏi "tháng hoặc quý này phải nộp gì", "hạ
 | Nghĩa vụ | Đối tượng | Căn cứ để tra hạn nộp và mẫu biểu |
 |---|---|---|
 | Tờ khai thuế GTGT theo tháng hoặc quý | Doanh nghiệp kê khai GTGT | LQLT, ND-QLT, LGTGT |
-| Tờ khai khấu trừ TNCN theo tháng hoặc quý (nếu phát sinh khấu trừ) | Tổ chức trả thu nhập | LQLT, ND-QLT, LTNCN, ND-TNCN |
+| Tờ khai khấu trừ TNCN (nếu phát sinh khấu trừ). **Từ 01/07/2026, kỳ khai với thu nhập từ tiền lương, tiền công có thể đã thay đổi** (một nguồn cho biết bỏ khai theo tháng): phải đọc nguyên văn TT-QLT trước khi khẳng định kỳ khai | Tổ chức trả thu nhập | LQLT, ND-QLT, TT-QLT, LTNCN, ND-TNCN |
 | Nộp thuế: hạn nộp tiền thuế theo từng kỳ | Người nộp thuế | LQLT, ND-QLT |
 | Tạm nộp thuế TNDN theo quý; tổng tạm nộp các quý đạt tỷ lệ tối thiểu theo quy định | Doanh nghiệp nộp TNDN | LTNDN, ND-TNDN, ND-TNDN-SD, LQLT |
 | Quyết toán thuế TNDN năm | Doanh nghiệp | LQLT, ND-QLT, LTNDN |
 | Quyết toán thuế TNCN năm, gồm cả quyết toán thay người lao động | Tổ chức trả thu nhập | LQLT, ND-QLT, LTNCN, ND-TNCN |
 | Phụ lục giao dịch liên kết (nộp cùng quyết toán TNDN) | Doanh nghiệp có giao dịch liên kết | ND-GDLK |
 | Báo cáo tài chính năm: nộp cho cơ quan thuế và các cơ quan khác theo quy định | Doanh nghiệp | LKT, TT-KTDN, TT-KTDNNV hoặc TT-KTSN, LQLT |
-| Đóng BHXH, BHYT, BHTN hằng tháng (hoặc theo phương thức đã đăng ký) | Người sử dụng lao động | LBHXH, ND-BHXH, LVL, ND-BHTN |
+| Đóng BHXH, BHYT, BHTN hằng tháng (hoặc theo phương thức đã đăng ký) | Người sử dụng lao động | LBHXH, ND-BHXH, TT-BHXH, LBHYT, LBHYT-SD, LVL, ND-BHTN |
 | Kinh phí công đoàn | Người sử dụng lao động | LCDOAN (⚠️ chưa kiểm tra trong đợt lập danh mục) |
 | Báo cáo tình hình sử dụng lao động (định kỳ) | Người sử dụng lao động | BLLD, ND-QHLD. Phải kiểm tra vì có dự thảo sửa đổi năm 2026 đơn giản hóa chế độ báo cáo |
 | Báo cáo sử dụng người lao động nước ngoài | Doanh nghiệp có lao động nước ngoài | ND-LDNN |
