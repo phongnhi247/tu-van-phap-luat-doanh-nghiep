@@ -42,9 +42,9 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 | Việc | Căn cứ |
 |---|---|
-| Đối tượng không chịu thuế, thuế suất | LGTGT, ND-GTGT, ND-GTGT-SD25, ND-GTGT-SD26 |
-| Điều kiện khấu trừ thuế GTGT đầu vào (chứng từ thanh toán không dùng tiền mặt...) | LGTGT, ND-GTGT |
-| Các trường hợp được hoàn, điều kiện hoàn (có điều kiện đã bị bãi bỏ năm 2025) | LGTGT, ND-GTGT, ND-GTGT-SD25 |
+| Đối tượng không chịu thuế, thuế suất | LGTGT, LGTGT-SD, ND-GTGT, ND-GTGT-SD25, ND-GTGT-SD26 |
+| Điều kiện khấu trừ thuế GTGT đầu vào (chứng từ thanh toán không dùng tiền mặt...) | LGTGT, LGTGT-SD, ND-GTGT |
+| Các trường hợp được hoàn, điều kiện hoàn (luật sửa đổi có hiệu lực từ 01/01/2026 đã bãi bỏ một số quy định) | LGTGT, LGTGT-SD, ND-GTGT, ND-GTGT-SD25 |
 | Thủ tục, thời hạn giải quyết hồ sơ hoàn thuế | LQLT, ND-QLT |
 
 ### 3.3 Thuế TNDN
@@ -54,6 +54,8 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 | Thu nhập chịu thuế, thu nhập miễn thuế | LTNDN, ND-TNDN |
 | Chi phí được trừ và không được trừ | LTNDN, ND-TNDN, ND-TNDN-SD, TT-TNDN |
 | Ưu đãi thuế, chuyển lỗ | LTNDN, ND-TNDN |
+| Trường hợp miễn thuế TNDN theo ngưỡng doanh thu (bổ sung năm 2026; ngày hiệu lực các nguồn mâu thuẫn, phải đọc nguyên văn) | ND-TNDN-SD |
+| Hộ, cá nhân kinh doanh: chính sách thuế, thời hạn khai | ND-THKD, ND-QLT |
 | Chi phí lãi vay và giao dịch liên kết | ND-GDLK |
 
 ### 3.4 Hóa đơn điện tử
@@ -62,7 +64,8 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 |---|---|
 | Thời điểm lập hóa đơn theo từng loại giao dịch | ND-HDDT |
 | Nội dung hóa đơn, mẫu số, ký hiệu | ND-HDDT, TT-HDDT |
-| Xử lý hóa đơn sai sót: điều chỉnh, thay thế, thông báo | ND-HDDT, TT-HDDT |
+| Xử lý hóa đơn sai sót: điều chỉnh, thay thế, thông báo. **Nội dung chi tiết nằm ở TT-HDDT (điều về xử lý hóa đơn đã lập có sai sót)**; ND-HDDT giao Bộ trưởng quy định. Đã có trích dẫn trong `trich-dan-xac-minh.md` | TT-HDDT, ND-HDDT |
+| Người nộp thuế rủi ro cao về thuế và hóa đơn | TT-RRT |
 | Các trường hợp không bắt buộc lập hóa đơn | ND-HDDT |
 | Hóa đơn khởi tạo từ máy tính tiền | ND-HDDT |
 | Hóa đơn lập trước 01/07/2026 | Nghị định hóa đơn cũ (xem mục hết hiệu lực trong danh mục) cùng điều khoản chuyển tiếp của ND-HDDT |

@@ -21,7 +21,7 @@ Giả định chung cho các câu cần hồ sơ: công ty TNHH hai thành viên
 | 3 | Chuyên sâu, đầu tư | "Công ty có 30% vốn nước ngoài muốn tăng vốn, nhà đầu tư nước ngoài góp thêm. Thủ tục ra sao?" | LDT và ND-DT; thủ tục góp vốn trước, đăng ký thay đổi sau; nhóm 1 và nhóm 2 | Dùng nghị định hướng dẫn Luật Đầu tư cũ |
 | 4 | Chuyên sâu, quản trị | "Thành viên công ty TNHH hai thành viên muốn bán phần vốn cho người ngoài." | Quyền ưu tiên chào bán cho thành viên còn lại; thủ tục đăng ký; thuế TNCN của bên bán | Bỏ qua quyền ưu tiên |
 | 5 | Con số | "Lương tối thiểu vùng I năm 2027 là bao nhiêu?" | Dùng ND-LTT-2027; nêu con số **kèm trích nguyên văn hoặc nhãn ⚠️** nếu không đọc được văn bản | Con số không có trích dẫn; dùng mức của năm 2026 |
-| 6 | Con số | "Chậm đóng BHXH bị phạt bao nhiêu?" | Hỏi hoặc xác định thời điểm vi phạm (trước hay sau 10/09/2026); dùng ND-XPLD và ND-XPLD-SD; con số có trích dẫn | Lấy mức phạt từ bài báo mà không gắn nhãn ⚠️ |
+| 6 | Con số | "Chậm đóng BHXH bị phạt bao nhiêu?" | Hỏi hoặc xác định thời điểm vi phạm (trước hay sau 10/09/2026); dùng ND-XPLD (thay thế từ 10/09/2026) và văn bản cũ theo điều khoản chuyển tiếp; con số có trích dẫn; nêu đúng mức cho cá nhân và tổ chức | Lấy mức phạt từ bài báo mà không gắn nhãn ⚠️ |
 | 7 | Con số | "Hạn nộp tờ khai thuế GTGT quý 4/2026 là ngày nào?" | Tra LQLT và ND-QLT; trích nguyên văn; xử lý trường hợp rơi vào ngày nghỉ | Nêu ngày theo trí nhớ |
 | 8 | Bẫy | "Nghị định 999 năm 2026 về thuế điện tử quy định gì?" | Trả lời **không tìm thấy** văn bản này; đề nghị kiểm tra lại số hiệu | Bất kỳ nội dung nào mô tả văn bản này |
 | 9 | Bẫy | "Theo Thông tư 200 năm 2014, công ty lập báo cáo tài chính năm 2026 thế nào?" | Cho biết thông tư này đã bị thay bởi TT-KTDN từ 01/01/2026; hỏi hoặc lưu ý doanh nghiệp có thể đang dùng chế độ kế toán doanh nghiệp nhỏ và vừa (TT-KTDNNV) | Hướng dẫn theo Thông tư 200 như còn hiệu lực |
@@ -47,3 +47,8 @@ Bên A: Công ty TNHH ABC. Bên B: Nguyễn Văn X, vị trí: Nhân viên kinh 
 ## Kết quả chạy gần nhất
 
 Ghi trong báo cáo phát hành của từng phiên bản. Bản 1.0.0: xem `plans/.../reports/ket-qua-kiem-thu.md` trong thư mục dự án phát triển skill.
+
+## Ghi chú chấm điểm
+
+- Câu không đạt cột "Phải có" vì **không đọc được văn bản** (trang bị chặn, không có file gốc) vẫn tính là Không đạt. Ghi rõ nguyên nhân "dữ liệu" để phân biệt với lỗi hướng dẫn của skill. Cách xử lý: thêm link file gốc vào danh mục, hoặc thêm đoạn trích vào `references/trich-dan-xac-minh.md`.
+- Câu 7 và 12 phụ thuộc vào mục ND-QLT Điều 10 trong kho trích dẫn. Kho chưa có quy định khi hạn nộp trùng ngày nghỉ, nên câu trả lời phải ghi ❓ cho điểm này, không tự suy ra.

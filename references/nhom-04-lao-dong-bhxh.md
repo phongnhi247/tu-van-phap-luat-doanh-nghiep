@@ -4,7 +4,7 @@
 >
 > **Mốc cần nhớ:**
 > - Lương tối thiểu: ND-LTT áp dụng đến hết 31/12/2026, ND-LTT-2027 áp dụng từ 01/01/2027.
-> - Xử phạt lao động và BHXH: văn bản sửa đổi ND-XPLD-SD có hiệu lực từ 10/09/2026. Hành vi xảy ra trước ngày này thì xem điều khoản chuyển tiếp.
+> - Xử phạt lao động và BHXH: ND-XPLD là nghị định **thay thế** có hiệu lực từ 10/09/2026. Hành vi xảy ra và kết thúc trước ngày này áp dụng nghị định cũ (xem mục 8 của danh mục); hành vi còn đang diễn ra áp dụng ND-XPLD.
 > - Bộ luật Lao động có thể đã được sửa bởi một số luật năm 2025 (xem cột Quan hệ của BLLD). Phải kiểm tra bản hiện hành.
 
 ## 1. Từ khóa nhận diện
@@ -59,7 +59,7 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 |---|---|
 | Đối tượng tham gia bắt buộc, kể cả các nhóm mới theo luật 2024 | LBHXH, ND-BHXH |
 | Tiền lương làm căn cứ đóng | LBHXH, ND-BHXH |
-| Chậm đóng, trốn đóng: định nghĩa, biện pháp xử lý, lãi | LBHXH, ND-XPLD, ND-XPLD-SD |
+| Chậm đóng, trốn đóng: định nghĩa, biện pháp xử lý, lãi | LBHXH, ND-XPLD |
 | Bảo hiểm thất nghiệp | LVL, ND-BHTN |
 
 ## 4. Điểm dễ sai
@@ -68,7 +68,7 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 - Xử lý kỷ luật khi đã quá thời hiệu. Căn cứ: BLLD.
 - Trả lương thấp hơn lương tối thiểu sau khi mức mới có hiệu lực. Mức mới áp dụng từ 01/01/2027. Căn cứ: ND-LTT-2027.
 - Ký hợp đồng cộng tác viên, khoán việc để tránh đóng BHXH trong khi bản chất là quan hệ lao động. Căn cứ: BLLD, LBHXH.
-- Chậm đóng BHXH. Từ 10/09/2026 chế tài tăng. Căn cứ: ND-XPLD-SD.
+- Chậm đóng BHXH. Từ 10/09/2026 chế tài tăng. Căn cứ: ND-XPLD.
 - Lao động nước ngoài làm việc khi giấy phép đã hết hạn hoặc làm sai vị trí công việc. Căn cứ: ND-LDNN.
 - Áp dụng mức phạt theo bài báo mà không đọc nguyên văn nghị định. Phải trích nguyên văn.
 

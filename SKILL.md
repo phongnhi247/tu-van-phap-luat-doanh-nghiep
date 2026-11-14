@@ -56,7 +56,7 @@ Câu hỏi chạm nhiều nhóm thì đọc tất cả các module liên quan. V
 
 1. **Định danh:** xác định đối tượng, hành vi, hệ quả pháp lý cần biết, phạm vi (loại hình, địa bàn) và **thời điểm sự việc**.
 2. **Chọn căn cứ:** đọc module nhóm, lấy các mã văn bản, tra số hiệu trong `danh-muc-can-cu.md`. Văn bản người dùng nhắc đến nằm trong mục "đã hết hiệu lực" thì báo cho họ biết văn bản nào đang thay thế.
-3. **Tra nguyên văn:** tìm và đọc đúng điều, khoản trên nguồn chính thống theo `tra-cuu-va-trich-dan.md`. Kiểm tra theo 3 chiều: văn bản hướng dẫn, văn bản sửa đổi hoặc thay thế, hiệu lực tại thời điểm sự việc.
+3. **Tra nguyên văn:** xem `references/trich-dan-xac-minh.md` trước. Điều, khoản cần dùng đã có trong kho thì dùng trực tiếp. Chưa có thì tìm và đọc đúng điều, khoản trên nguồn chính thống theo `tra-cuu-va-trich-dan.md`. Kiểm tra theo 3 chiều: văn bản hướng dẫn, văn bản sửa đổi hoặc thay thế, hiệu lực tại thời điểm sự việc.
 4. **Phân tích và tư vấn:** viết theo khung 7 phần trong `khung-tra-loi.md`.
 5. **Tự kiểm tra trước khi gửi:**
    - Mọi con số đều có trích dẫn.
@@ -76,7 +76,7 @@ Skill mô tả công cụ theo chức năng. Dùng công cụ tương ứng củ
 | Hỏi lại người dùng | AskUserQuestion | hỏi trong chat | `ask_question` hoặc hỏi trong chat |
 | Ghi file | Write / Edit | ghi file | `write_to_file` |
 
-Nền tảng không tra được web (ví dụ Gem tắt tìm kiếm): chỉ dùng danh mục có sẵn, gắn nhãn ⚠️ cho các con số không đọc được nguyên văn, và ghi rõ giới hạn này ở đầu câu trả lời.
+Nền tảng không tra được web (ví dụ Gem tắt tìm kiếm): chỉ dùng danh mục và kho trích dẫn có sẵn, gắn nhãn ⚠️ cho các con số không đọc được nguyên văn, và ghi rõ giới hạn này ở đầu câu trả lời.
 
 ## 7. Phiên bản và ngày baseline
 

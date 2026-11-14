@@ -34,6 +34,7 @@ khởi kiện, tòa án, tòa án nhân dân khu vực, trọng tài, hòa giả
 |---|---|---|
 | 1 | Kiểm tra quyết định thanh tra: thẩm quyền, phạm vi, thời hạn | LTTRA. Thanh tra, kiểm tra thuế thì thêm LQLT, ND-QLT |
 | 2 | Quyền và nghĩa vụ của doanh nghiệp được thanh tra; cung cấp tài liệu | LTTRA, LQLT |
+| 2a | **Khai bổ sung khi đang bị thanh tra, kiểm tra thuế:** với hồ sơ thuộc phạm vi, thời kỳ thanh tra, kiểm tra, doanh nghiệp không còn quyền khai bổ sung thông thường, chỉ được bổ sung hồ sơ giải trình, và vẫn bị xử lý như trường hợp cơ quan phát hiện. Cuộc kiểm tra có quyết định trước 01/07/2026 thì xem điều khoản chuyển tiếp. Trích dẫn có trong `trich-dan-xac-minh.md` | LQLT |
 | 3 | Biên bản vi phạm hành chính: nội dung, chữ ký, quyền ghi ý kiến | LXLVPHC, ND-XLVPHC, ND-XLVPHC-SD |
 | 4 | Quyền giải trình: thời hạn, hình thức | LXLVPHC, ND-XLVPHC |
 | 5 | Quyết định xử phạt: thời hạn ra quyết định, thời hiệu xử phạt | LXLVPHC, LXLVPHC-SD25 |

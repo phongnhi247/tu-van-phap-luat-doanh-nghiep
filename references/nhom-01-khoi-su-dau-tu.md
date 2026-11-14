@@ -35,7 +35,7 @@ thành lập công ty, đăng ký kinh doanh, giấy chứng nhận đăng ký d
 | Bước | Việc cần làm | Căn cứ |
 |---|---|---|
 | 1 | Kiểm tra điều kiện và hồ sơ chuyển đổi | LDN, ND-DKDN, ND-DKDN-SD |
-| 2 | Kiểm tra chính sách hỗ trợ (miễn, giảm thuế, phí cho doanh nghiệp chuyển đổi) | NQ-KTTN, LTNDN, ND-TNDN |
+| 2 | Kiểm tra chính sách hỗ trợ (miễn, giảm thuế, phí cho doanh nghiệp chuyển đổi) | NQ-KTTN, ND-KTTN, LTNDN, ND-TNDN |
 | 3 | Chốt nghĩa vụ thuế của hộ kinh doanh, chuyển sang kê khai theo doanh nghiệp | LQLT, ND-QLT |
 
 ### 3.3 Nhà đầu tư nước ngoài

@@ -10,6 +10,10 @@ Theo thứ tự ưu tiên:
 2. **chinhphu.vn** và **vanban.chinhphu.vn** (Cổng Thông tin điện tử Chính phủ), cùng cổng thông tin của các bộ (Bộ Tài chính, Bộ Nội vụ, Bộ Công Thương...).
 3. **thuvienphapluat.vn** và **luatvietnam.vn**: được dùng khi trang hiển thị toàn văn và tình trạng hiệu lực.
 
+**File có chữ ký số** của Văn phòng Chính phủ, Công báo hoặc bộ ban hành được coi như nguồn nhóm 1, **dù tải từ đâu** (cổng tỉnh, trang phần mềm, trang đăng lại), miễn là đã thấy thông tin chữ ký trên file. Khi trích, ghi rõ "file ký số, tải tại <trang>".
+
+**Kho trích dẫn đã xác minh** (`trich-dan-xac-minh.md`) được dùng như nguồn đã đối chiếu, theo cách dùng ghi ở đầu file đó.
+
 **Không được dùng làm căn cứ**, chỉ dùng để tìm từ khóa hoặc số hiệu: bài báo, blog của công ty kế toán hoặc phần mềm, diễn đàn, trang hỏi đáp, bài phân tích của hãng tư vấn. Khi chỉ có các nguồn này, kết luận phải mang nhãn ⚠️.
 
 ## 2. Ba nhãn độ tin cậy
@@ -26,7 +30,7 @@ Theo thứ tự ưu tiên:
 
 Ví dụ:
 - ✅ "Người sử dụng lao động phải báo trước... [trích nguyên văn]" — [mã văn bản], Điều X, Khoản Y. Link.
-- ⚠️ "Theo bài phân tích của [nguồn], mức phạt có thể là... Chưa đọc được nguyên văn nghị định. Cần đối chiếu Điều X trước khi áp dụng."
+- ⚠️ "Mức phạt quy định tại [mã] Điều X. Chưa đọc được nguyên văn nên không nêu con số. Cần mở Điều X để đối chiếu trước khi áp dụng." (Nhãn ⚠️ **không được** kèm con số lấy từ bài viết.)
 - ❓ "Không tìm thấy quy định riêng về trường hợp này. Nên gửi văn bản hỏi cơ quan thuế quản lý trực tiếp để có hướng dẫn bằng văn bản."
 
 ## 3. Con số

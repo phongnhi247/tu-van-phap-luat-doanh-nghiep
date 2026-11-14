@@ -1,5 +1,21 @@
 # Nhật ký thay đổi
 
+## 1.0.1 — 14/11/2026
+
+Sửa sau khi chạy đủ 15 câu kiểm thử: 13 câu đạt ngay; 2 câu về hạn nộp thuế (7 và 12) chưa đạt vì không đọc được văn bản, và đã được khắc phục trong bản này.
+
+- **Mới:** `references/trich-dan-xac-minh.md`, kho các đoạn trích nguyên văn đã đối chiếu với file gốc. Gồm: hạn nộp hồ sơ khai thuế (ND-QLT Điều 10), các điều của Luật Quản lý thuế về hạn nộp, khai bổ sung và tiền chậm nộp, xử lý hóa đơn sai sót (TT-HDDT Điều 10), mức phạt chậm đóng BHXH, lương tối thiểu 2027, chuyển nhượng vốn trong công ty TNHH, các điều Bộ luật Lao động về kỷ luật và thử việc. Skill dùng được kho này cả khi không tra được web.
+- **Sửa sai:** nghị định xử phạt lao động, BHXH năm 2026 **thay thế** nghị định năm 2022, không phải chỉ sửa đổi. Mã ND-XPLD nay trỏ vào văn bản mới; văn bản cũ chuyển xuống mục hết hiệu lực, kèm quy tắc chuyển tiếp.
+- **Danh mục:** nâng nhãn ✅ cho nhiều dòng (Luật Doanh nghiệp và luật sửa đổi 2025, nghị định đăng ký doanh nghiệp, nghị định hướng dẫn Luật Đầu tư, Nghị quyết 198, Luật Thuế GTGT, Luật BHXH, Luật Bảo vệ dữ liệu cá nhân, nghị định hướng dẫn Luật Quản lý thuế, nghị định và thông tư hóa đơn). Thêm: luật sửa đổi Luật Thuế GTGT có hiệu lực từ 01/01/2026, nghị định hướng dẫn Nghị quyết 198, nghị định thuế hộ kinh doanh, thông tư về người nộp thuế rủi ro cao, luật sửa đổi Luật Công đoàn. Ghi các mốc hiệu lực riêng và quy định chuyển tiếp của Luật Quản lý thuế. Cập nhật các luật sửa Bộ luật Lao động và văn bản hợp nhất năm 2026.
+- **Hướng dẫn:**
+  - File có chữ ký số được coi là nguồn gốc dù tải từ đâu.
+  - Nhãn ⚠️ không được kèm con số.
+  - Thêm cách đọc PDF dạng scan và thứ tự nguồn khi trang bị chặn.
+  - Thêm điểm khai bổ sung khi đang bị thanh tra (nhóm 7).
+  - Xác định doanh nghiệp nhỏ và vừa trước khi chọn chế độ kế toán (nhóm 5).
+  - Thêm độ dài câu trả lời theo loại câu hỏi.
+- **Gem:** bản đóng gói cho Gem có thêm kho trích dẫn (7 file).
+
 ## 1.0.0 — 14/11/2026
 
 Bản đầu tiên. Xây lại từ skill tư vấn pháp luật tổng quát `tu-van-phap-luat` (baseline 20/07/2026), chuyển sang chuyên cho doanh nghiệp.

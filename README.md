@@ -49,7 +49,7 @@ Skill là một thư mục tên `tu-van-phap-luat-doanh-nghiep`, bên trong có 
 
 1. Tạo Gem mới.
 2. Mở file `SKILL.md`, chép toàn bộ nội dung **sau phần `---` đầu tiên** và dán vào ô **Hướng dẫn (Instructions)**.
-3. Tải lên **Kiến thức (Knowledge)** các file trong bản đóng gói cho Gem (`...-gem-v<phiên bản>.zip`, xem mục 5). Gem giới hạn khoảng 10 file, nên bản cho Gem đã gộp sẵn thành 6 file.
+3. Tải lên **Kiến thức (Knowledge)** các file trong bản đóng gói cho Gem (`...-gem-v<phiên bản>.zip`, xem mục 5). Gem giới hạn khoảng 10 file, nên bản cho Gem đã gộp sẵn thành 7 file.
 4. Giới hạn của Gem:
    - Gem không tự ghi file, nên hồ sơ doanh nghiệp và lệnh cập nhật căn cứ chỉ xuất nội dung để bạn tự lưu.
    - Nếu Gem không tra được web, câu trả lời sẽ có nhãn ⚠️ và không nêu con số.
@@ -101,6 +101,7 @@ tu-van-phap-luat-doanh-nghiep/
 ├── VERSION, CHANGELOG.md, README.md
 ├── references/
 │   ├── danh-muc-can-cu.md      NƠI DUY NHẤT chứa số hiệu văn bản
+│   ├── trich-dan-xac-minh.md   Các đoạn trích nguyên văn đã đối chiếu với file gốc
 │   ├── nguyen-tac-can-cu.md    Quy tắc chống bịa, nhãn tin cậy
 │   ├── khung-tra-loi.md        Khung 7 phần, chế độ lập hồ sơ
 │   ├── tra-cuu-va-trich-dan.md Tra chéo 3 chiều, trích dẫn, xung đột văn bản
@@ -136,7 +137,7 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    Bản cho Gem gộp các module và tính năng để không vượt giới hạn file:
    ```powershell
    $s = "tu-van-phap-luat-doanh-nghiep\references"; $g = "gem-v$v"; New-Item -ItemType Directory -Force $g | Out-Null
-   Copy-Item "$s\danh-muc-can-cu.md","$s\nguyen-tac-can-cu.md","$s\khung-tra-loi.md","$s\tra-cuu-va-trich-dan.md" $g
+   Copy-Item "$s\danh-muc-can-cu.md","$s\trich-dan-xac-minh.md","$s\nguyen-tac-can-cu.md","$s\khung-tra-loi.md","$s\tra-cuu-va-trich-dan.md" $g
    Get-Content -Encoding utf8 "$s\nhom-0*.md" | Set-Content -Encoding utf8 "$g\cac-nhom-nghiep-vu.md"
    Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
    Compress-Archive -Path "$g\*" -DestinationPath "tu-van-phap-luat-doanh-nghiep-gem-v$v.zip" -Force

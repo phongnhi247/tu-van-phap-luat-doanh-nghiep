@@ -55,6 +55,10 @@ Truy vấn gợi ý: `"<số hiệu>" filetype:pdf` hoặc `"<số hiệu>" sign
 
 Công cụ đọc web trả về PDF dạng nhị phân và nền tảng cho chạy lệnh: trích văn bản cục bộ bằng thư viện đọc PDF (ví dụ pymupdf). Lưu file tạm ngoài thư mục skill. Một số công cụ dòng lệnh đọc sai dấu tiếng Việt, nên kiểm tra lại câu chữ trước khi trích.
 
+**PDF dạng scan** (trích chữ ra gần như rỗng): chuyển từng trang thành ảnh (ví dụ pymupdf `get_pixmap`) và đọc bằng khả năng nhìn ảnh của mô hình. Để không phải đọc cả trăm trang, hãy tìm số điều cần đọc trước (qua bài tóm tắt hoặc mục lục), rồi đoán trang theo tiến độ (thường mỗi trang khoảng 1–2 điều ở phần đầu văn bản) và mở thử vài trang quanh đó.
+
+Ưu tiên tìm file trên `datafiles.chinhphu.vn`, `xdcs.cdnchinhphu.vn` (trang "Toàn văn" của xaydungchinhsach.chinhphu.vn có link file ký số) và Công báo **trước** khi thử thuvienphapluat.vn, vì trang này thường chặn cả công cụ đọc web lẫn lệnh tải.
+
 Không lấy được toàn văn từ bất kỳ nguồn nào: gắn nhãn ⚠️ và không nêu con số.
 
 ## 3. Đọc số hiệu văn bản
