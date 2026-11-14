@@ -1,7 +1,7 @@
 # Danh mục căn cứ
 
 Baseline: 14/11/2026
-Phiên bản: 1.1.1
+Phiên bản: 1.2.0
 
 Đây là **nơi duy nhất** trong skill ghi số hiệu văn bản. Các file khác chỉ dùng **mã** ở cột đầu tiên. Khi có văn bản mới thay thế, chỉ sửa dòng tương ứng ở đây; mã giữ nguyên để các module không phải sửa theo.
 
@@ -28,6 +28,7 @@ Phiên bản: 1.1.1
 | ND-XLVPHC | 118/2021/NĐ-CP | Nghị định hướng dẫn Luật XLVPHC (thủ tục lập biên bản, giải trình, ra quyết định) | chưa xác nhận | Hướng dẫn LXLVPHC; sửa bởi ND-XLVPHC-SD | Đang hiệu lực | https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-190-2025-nd-cp-chinh-phu-405344-d1.html | 14/11/2026 | ⚠️ |
 | ND-XLVPHC-SD | 190/2025/NĐ-CP | Nghị định sửa đổi NĐ 118/2021 và NĐ 120/2021 | 01/07/2025 | Sửa ND-XLVPHC | Đang hiệu lực | https://luatvietnam.vn/vi-pham-hanh-chinh/nghi-dinh-190-2025-nd-cp-chinh-phu-405344-d1.html | 14/11/2026 | ✅ |
 | LTTRA | 84/2025/QH15 | Luật Thanh tra | 01/07/2025 | Thay thế Luật 11/2022/QH15 | Đang hiệu lực | https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Thanh-tra-2025-so-84-2025-QH15-655378.aspx | 14/11/2026 | ✅ |
+| ND-VANTHU | 30/2020/NĐ-CP | Nghị định về công tác văn thư (Phụ lục I: thể thức, kỹ thuật trình bày văn bản hành chính; Phụ lục II: viết hoa; Phụ lục III: chữ viết tắt tên loại văn bản) | 05/03/2020 | Thay thế NĐ 110/2004/NĐ-CP và NĐ 09/2010/NĐ-CP. Điều 2: áp dụng cho cơ quan, tổ chức nhà nước và **doanh nghiệp nhà nước**; doanh nghiệp khác không bắt buộc. Chưa thấy văn bản thay thế tại ngày kiểm tra | Đang hiệu lực | Phần thân (bản đăng lại): https://hcmyu.hpu2.edu.vn/public/fileupload/source/TAI%20LIEU/Ngh%E1%BB%8B%20%C4%91%E1%BB%8Bnh%2030.pdf ; các phụ lục (bản đăng lại): https://vanban.vcci.com.vn/hm_content/uploads/van-ban/ND_30-2020-ND-CP_Phu_luc.pdf | 14/11/2026 | ⚠️ |
 
 ## 1. Khởi sự và đầu tư
 

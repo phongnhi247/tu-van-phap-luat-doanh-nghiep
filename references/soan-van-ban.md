@@ -12,7 +12,13 @@ Dùng khi người dùng nhờ soạn văn bản nội bộ hoặc văn bản g�
    - Có đủ các nội dung mà luật bắt buộc (tra theo `ra-soat-van-ban.md` và các module).
    - Ghi rõ căn cứ pháp lý ở phần "Căn cứ" của văn bản. Chỉ dùng căn cứ đã xác minh, theo `nguyen-tac-can-cu.md`.
    - Để trống, có đánh dấu, mọi thông tin chưa biết: `[...]`. Không tự điền tên người, số tiền, ngày tháng.
-3. **Thể thức:** văn bản của doanh nghiệp không bắt buộc theo thể thức văn bản hành chính nhà nước. Tuy vậy, nên có: tên doanh nghiệp, số và ký hiệu, địa danh và ngày tháng, tên loại văn bản và trích yếu, căn cứ, nội dung, nơi nhận, chức vụ và chữ ký của người có thẩm quyền, dấu (nếu doanh nghiệp dùng dấu).
+3. **Thể thức và kỹ thuật trình bày theo ND-VANTHU (Phụ lục I):**
+   - **Doanh nghiệp nhà nước:** bắt buộc áp dụng (Điều 2 khoản 1).
+   - **Doanh nghiệp khác:** không bắt buộc. Skill **mặc định trình bày theo Phụ lục I như một chuẩn khuyến nghị**, và ghi một dòng cho người dùng biết là không bắt buộc. Doanh nghiệp có quy chế văn thư riêng thì theo quy chế đó.
+   - Thông số (khổ giấy, lề, phông, cỡ chữ từng thành phần, cách ghi nơi nhận, quyền hạn ký TM./KT./TL./TUQ.): lấy **đúng** theo mục ND-VANTHU trong `trich-dan-xac-minh.md`, không ghi theo trí nhớ.
+   - Bố cục theo 9 thành phần chính của Điều 8 khoản 2. Văn bản của doanh nghiệp tư nhân vẫn có Quốc hiệu và Tiêu ngữ theo thông lệ. Phần tên cơ quan ghi tên doanh nghiệp; tên cơ quan chủ quản chỉ ghi khi doanh nghiệp có cơ quan chủ quản (ví dụ doanh nghiệp nhà nước).
+   - Bản nháp trong chat là văn bản thuần, không thể hiện được phông và cỡ chữ. Vì vậy, sau bản nháp, liệt kê ngắn **cài đặt định dạng** cho người dùng áp vào Word: khổ giấy, lề, phông, cỡ chữ từng phần, giãn dòng, thụt đầu dòng.
+   - Phụ lục II (viết hoa) và Phụ lục III (chữ viết tắt tên loại văn bản) chưa có trong kho: cần thì tra, gắn nhãn đúng mức.
 4. **Thẩm quyền ký:** xác định ai được ký theo luật, điều lệ và văn bản ủy quyền. Ghi chú nếu người ký cần được ủy quyền.
 
 ## 2. Quy trình
@@ -23,6 +29,29 @@ Dùng khi người dùng nhờ soạn văn bản nội bộ hoặc văn bản g�
 4. Soạn bản nháp **trong chat**. Nếu người dùng muốn thì ghi file `.md` (hoặc định dạng khác nếu nền tảng hỗ trợ) vào **thư mục làm việc của người dùng**, không ghi vào thư mục skill.
 5. Sau bản nháp, liệt kê: các căn cứ đã dùng kèm nhãn, các chỗ còn `[...]` cần điền, các bước tiếp theo (ký, đóng dấu, gửi, lưu trữ, thời hạn).
 6. Kết thúc bằng dòng baseline như mọi câu trả lời khác.
+
+### Mẫu bố cục gợi ý (theo Phụ lục I, dùng cho văn bản nội bộ của doanh nghiệp)
+
+```
+[TÊN DOANH NGHIỆP]                  CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+   ───────                                Độc lập - Tự do - Hạnh phúc
+Số: [..]/[KÝ HIỆU]                    ───────────────────────
+                                       [Địa danh], ngày [..] tháng [..] năm [....]
+
+                              [TÊN LOẠI VĂN BẢN]
+                              [Trích yếu nội dung]
+                                   ───────
+[Căn cứ ...;]
+[Căn cứ ....]
+
+[Nội dung]
+
+Nơi nhận:                                   [QUYỀN HẠN, CHỨC VỤ NGƯỜI KÝ]
+- [...];                                     (Chữ ký, dấu)
+- Lưu: VT, [đơn vị soạn thảo].               [Họ và tên]
+```
+
+Công văn: dưới số và ký hiệu có dòng "V/v [trích yếu]"; phần "Kính gửi: ..." đặt trước nội dung; không có dòng tên loại văn bản.
 
 ## 3. Các loại văn bản hay gặp
 

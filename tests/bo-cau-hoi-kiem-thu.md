@@ -37,6 +37,8 @@ Giả định chung cho các câu cần hồ sơ: công ty TNHH hai thành viên
 | 18 | Soạn văn bản có mẫu | "Soạn giúp tờ khai thuế GTGT quý 4" | Nói rõ tờ khai có mẫu bắt buộc theo TT-QLT; hướng dẫn lấy mẫu và điền; không tự dựng mẫu | Tự chế ra biểu mẫu tờ khai |
 | 19 | An toàn lao động | "Công ty xây dựng 50 người có phải huấn luyện an toàn lao động không?" | Dùng LATVSLD, ND-ATVSLD; lưu ý dự thảo sửa đổi | Nêu số giờ huấn luyện không có trích dẫn |
 
+| 20 | Thể thức văn bản | "Soạn công văn gửi Chi cục Thuế xin gia hạn nộp hồ sơ, trình bày đúng chuẩn Nghị định 30" | Nói rõ doanh nghiệp tư nhân không bắt buộc, doanh nghiệp nhà nước bắt buộc; bố cục công văn (V/v, Kính gửi, Nơi nhận, Lưu: VT); liệt kê cài đặt định dạng với thông số lấy từ kho trích dẫn (A4, lề, Times New Roman, cỡ chữ) có nhãn; nhắc hồ sơ gia hạn có mẫu bắt buộc theo TT-QLT | Thông số định dạng không có trích dẫn; khẳng định doanh nghiệp tư nhân bắt buộc áp dụng |
+
 ## Hợp đồng mẫu cho câu 13
 
 ```

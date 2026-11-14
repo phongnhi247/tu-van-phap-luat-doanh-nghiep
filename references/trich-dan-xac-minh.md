@@ -42,6 +42,51 @@ Khoản 9: thời hạn của hộ, cá nhân kinh doanh thực hiện theo ND-T
 - **Điều 99 khoản 3** bãi bỏ 10 thông tư (điểm a đến k), gồm thông tư hướng dẫn Luật Quản lý thuế năm 2021 và các thông tư sửa đổi năm 2025, 2026, thông tư về giao dịch điện tử trong lĩnh vực thuế năm 2021, thông tư về thuế đối với cá nhân kinh doanh năm 2015... Danh sách **không** có thông tư đăng ký thuế năm 2024 (TT-DKT).
 - **Điều 100 khoản 1:** "Đối với các hồ sơ khai thuế có kỳ tính thuế trước ngày 01 tháng 7 năm 2026, người nộp thuế thực hiện theo mẫu biểu áp dụng trước thời điểm Thông tư này có hiệu lực."
 - **Phụ lục I:** tờ khai thuế GTGT theo phương pháp khấu trừ có hoạt động sản xuất kinh doanh là mẫu số 01/GTGT.
+- **Điều 18 (gia hạn nộp hồ sơ khai thuế), trang 29:** "1. Người nộp thuế thuộc trường hợp quy định tại khoản 4 Điều 12 Luật Quản lý thuế được gia hạn nộp hồ sơ khai thuế. 2. Thời gian gia hạn nộp hồ sơ khai thuế thực hiện theo quy định tại điểm a khoản 4 Điều 12 Luật Quản lý thuế. 3. Người nộp thuế gửi hồ sơ gia hạn nộp hồ sơ khai thuế đến cơ quan thuế nơi tiếp nhận hồ sơ khai thuế. 4. Hồ sơ gia hạn nộp hồ sơ khai thuế thực hiện theo quy định tại điểm 3 Phụ lục I ban hành kèm theo Thông tư này." Khoản 6: cơ quan thuế thông báo chấp nhận hoặc không chấp nhận theo mẫu 01/TB-GHKT "trong thời hạn 03 ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ".
+- **Phụ lục I, mục 3:** hồ sơ gia hạn nộp hồ sơ khai thuế gồm mẫu **01/GHKT** "Văn bản đề nghị gia hạn nộp hồ sơ khai thuế", kèm "Bản chính hoặc bản sao có chứng thực Văn bản xác nhận của Ủy ban nhân dân cấp xã hoặc Công an cấp xã nơi phát sinh trường hợp được gia hạn nộp hồ sơ khai thuế". Đây là **mẫu bắt buộc**: khi người dùng xin gia hạn, hướng dẫn dùng mẫu 01/GHKT, không soạn công văn tự do thay cho mẫu.
+
+## ND-VANTHU — Thể thức và kỹ thuật trình bày văn bản
+
+Đối chiếu ngày 14/11/2026, từ bản đăng lại (không có chữ ký số, nhãn tối đa ⚠️): phần thân nghị định và Phụ lục I trên trang văn bản của VCCI.
+
+**Phạm vi áp dụng**
+
+- **Điều 2 khoản 1:** "Nghị định này áp dụng đối với cơ quan, tổ chức nhà nước và doanh nghiệp nhà nước (sau đây gọi chung là cơ quan, tổ chức)."
+- **Điều 2 khoản 2:** "Tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp căn cứ quy định của Nghị định này và các quy định của Đảng, của pháp luật có liên quan để áp dụng cho phù hợp."
+- Doanh nghiệp không phải doanh nghiệp nhà nước **không thuộc** đối tượng áp dụng; dùng Phụ lục I chỉ là chuẩn tham khảo.
+
+**Thành phần thể thức chính (Điều 8 khoản 2):** "a) Quốc hiệu và Tiêu ngữ. b) Tên cơ quan, tổ chức ban hành văn bản. c) Số, ký hiệu của văn bản. d) Địa danh và thời gian ban hành văn bản. đ) Tên loại và trích yếu nội dung văn bản. e) Nội dung văn bản. g) Chức vụ, họ tên và chữ ký của người có thẩm quyền. h) Dấu, chữ ký số của cơ quan, tổ chức. i) Nơi nhận."
+
+**Phụ lục I, Phần I, mục I — Quy định chung**
+
+- "1. Khổ giấy: Khổ A4 (210 mm x 297 mm)."
+- "2. Kiểu trình bày: Theo chiều dài của khổ A4. Trường hợp nội dung văn bản có các bảng, biểu nhưng không được làm thành các phụ lục riêng thì văn bản có thể được trình bày theo chiều rộng."
+- "3. Định lề trang: Cách mép trên và mép dưới 20 - 25 mm, cách mép trái 30 - 35 mm, cách mép phải 15 - 20 mm."
+- "4. Phông chữ: Phông chữ tiếng Việt Times New Roman, bộ mã ký tự Unicode theo Tiêu chuẩn Việt Nam TCVN 6909:2001, màu đen."
+- "7. Số trang văn bản: Được đánh từ số 1, bằng chữ số Ả Rập, cỡ chữ 13 đến 14, kiểu chữ đứng, được đặt canh giữa theo chiều ngang trong phần lề trên của văn bản, không hiển thị số trang thứ nhất."
+
+**Phụ lục I, Phần I, mục II — Các thành phần thể thức chính (trích phần cỡ chữ, kiểu chữ)**
+
+| Thành phần | Nguyên văn |
+|---|---|
+| Quốc hiệu | "chữ in hoa, cỡ chữ từ 12 đến 13, kiểu chữ đứng, đậm và ở phía trên cùng, bên phải trang đầu tiên của văn bản" |
+| Tiêu ngữ | "chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm và được canh giữa dưới Quốc hiệu; chữ cái đầu của các cụm từ được viết hoa, giữa các cụm từ có gạch nối (-), có cách chữ; phía dưới có đường kẻ ngang, nét liền, có độ dài bằng độ dài của dòng chữ" |
+| Tên cơ quan, tổ chức ban hành | "chữ in hoa, cỡ chữ từ 12 đến 13, kiểu chữ đứng, đậm, được đặt canh giữa dưới tên cơ quan, tổ chức chủ quản trực tiếp; phía dưới có đường kẻ ngang, nét liền, có độ dài bằng từ 1/3 đến 1/2 độ dài của dòng chữ" |
+| Số, ký hiệu | Từ "Số" "chữ in thường, cỡ chữ 13, kiểu chữ đứng; sau từ "Số" có dấu hai chấm (:); với những số nhỏ hơn 10 phải ghi thêm số 0 phía trước". Ký hiệu "chữ in hoa, cỡ chữ 13, kiểu chữ đứng"; "Giữa số và ký hiệu văn bản có dấu gạch chéo (/), giữa các nhóm chữ viết tắt trong ký hiệu văn bản có dấu gạch nối (-), không cách chữ" |
+| Địa danh, thời gian | "trên cùng một dòng với số, ký hiệu văn bản [...] bằng chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ nghiêng [...] sau địa danh có dấu phẩy (,)"; ngày nhỏ hơn 10 và tháng 1, 2 "phải ghi thêm số 0 phía trước" |
+| Tên loại văn bản | "chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm" |
+| Trích yếu | "chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm. Bên dưới trích yếu nội dung văn bản có đường kẻ ngang, nét liền, có độ dài bằng từ 1/3 đến 1/2 độ dài của dòng chữ". Công văn: sau chữ "V/v", "chữ in thường, cỡ chữ từ 12 đến 13, kiểu chữ đứng" |
+| Căn cứ ban hành | "chữ in thường, kiểu chữ nghiêng, cỡ chữ từ 13 đến 14 [...] sau mỗi căn cứ phải xuống dòng, cuối dòng có dấu chấm phẩy (;), dòng cuối cùng kết thúc bằng dấu chấm (.)" |
+| Nội dung | "chữ in thường, được canh đều cả hai lề, kiểu chữ đứng; cỡ chữ từ 13 đến 14; khi xuống dòng, chữ đầu dòng lùi vào 1 cm hoặc 1,27 cm; khoảng cách giữa các đoạn văn tối thiểu là 6pt; khoảng cách giữa các dòng tối thiểu là dòng đơn, tối đa là 1,5 lines" |
+| Điều | "Từ "Điều", số thứ tự và tiêu đề của điều được trình bày bằng chữ in thường, lùi đầu dòng 1 cm hoặc 1,27 cm [...] cỡ chữ bằng cỡ chữ của phần lời văn, kiểu chữ đứng, đậm" |
+| Quyền hạn, chức vụ người ký | Các chữ viết tắt "TM.", "Q.", "KT.", "TL.", "TUQ." và chức vụ "chữ in hoa, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm" |
+| Họ tên người ký | "chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng, đậm, được đặt canh giữa quyền hạn, chức vụ của người ký"; "Trước họ tên của người ký, không ghi học hàm, học vị và các danh hiệu danh dự khác" |
+| "Kính gửi" (công văn) | "chữ in thường, cỡ chữ từ 13 đến 14, kiểu chữ đứng; sau từ "Kính gửi" có dấu hai chấm (:)" |
+| "Nơi nhận" | "trên một dòng riêng (ngang hàng với dòng chữ "quyền hạn, chức vụ của người ký" và sát lề trái), sau có dấu hai chấm (:), bằng chữ in thường, cỡ chữ 12, kiểu chữ nghiêng, đậm"; phần liệt kê "chữ in thường, cỡ chữ 11, kiểu chữ đứng", mỗi nơi nhận một dòng, đầu dòng có gạch (-), cuối dòng có dấu chấm phẩy (;), dòng cuối là "Lưu": "VT", chữ viết tắt đơn vị soạn thảo và số lượng bản lưu, kết thúc bằng dấu chấm (.) |
+
+Quy tắc ký: ký thay mặt tập thể ghi "TM."; được giao quyền cấp trưởng ghi "Q."; ký thay người đứng đầu ghi "KT."; ký thừa lệnh ghi "TL."; ký thừa ủy quyền ghi "TUQ." (Phụ lục I, Phần I, mục II.7.b).
+
+Chưa đối chiếu trong kho: Phụ lục II (viết hoa), Phụ lục III (chữ viết tắt tên loại văn bản), sơ đồ vị trí các ô tại mục IV.
 
 ## ND-QLT — Điều 24. Tạm nộp theo quý
 

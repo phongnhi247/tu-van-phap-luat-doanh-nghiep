@@ -1,5 +1,11 @@
 # Nhật ký thay đổi
 
+## 1.2.0 — 14/11/2026
+
+- **Soạn văn bản theo chuẩn thể thức của Nghị định về công tác văn thư (Phụ lục I).** Đã đọc nguyên văn phạm vi áp dụng (bắt buộc với doanh nghiệp nhà nước, doanh nghiệp khác không bắt buộc), 9 thành phần thể thức, và các thông số trình bày: khổ A4, lề, phông Times New Roman, cỡ chữ từng thành phần, cách ghi nơi nhận, quyền hạn ký. Thông số được đưa vào kho trích dẫn (nhãn ⚠️ vì đọc từ bản đăng lại).
+- Tính năng soạn văn bản mặc định trình bày theo Phụ lục I, có mẫu bố cục và danh sách cài đặt định dạng cho Word.
+- Bộ kiểm thử: thêm câu 20.
+
 ## 1.1.1 — 14/11/2026
 
 Xử lý các phần còn tồn của bản 1.1.0.
