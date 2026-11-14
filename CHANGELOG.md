@@ -1,5 +1,10 @@
 # Nhật ký thay đổi
 
+## 1.2.1 — 15/11/2026
+
+- Thêm giấy phép MIT (`LICENSE`), ghi rõ cung cấp nguyên trạng, không bảo đảm.
+- Thêm khối miễn trừ trách nhiệm ở đầu README: công cụ hỗ trợ tra cứu, không phải dịch vụ tư vấn pháp luật.
+
 ## 1.2.0 — 14/11/2026
 
 - **Soạn văn bản theo chuẩn thể thức của Nghị định về công tác văn thư (Phụ lục I).** Đã đọc nguyên văn phạm vi áp dụng (bắt buộc với doanh nghiệp nhà nước, doanh nghiệp khác không bắt buộc), 9 thành phần thể thức, và các thông số trình bày: khổ A4, lề, phông Times New Roman, cỡ chữ từng thành phần, cách ghi nơi nhận, quyền hạn ký. Thông số được đưa vào kho trích dẫn (nhãn ⚠️ vì đọc từ bản đăng lại).

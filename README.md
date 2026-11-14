@@ -1,6 +1,13 @@
 # Tư vấn pháp luật doanh nghiệp
 
-Skill AI tư vấn pháp lý chuyên sâu cho doanh nghiệp Việt Nam. Dành cho chủ doanh nghiệp, kế toán và nhân viên làm giấy tờ.
+> **MIỄN TRỪ TRÁCH NHIỆM — ĐỌC TRƯỚC KHI DÙNG**
+>
+> - Đây là **công cụ hỗ trợ tra cứu và nghiên cứu pháp luật** chạy trên trợ lý AI. Đây **không phải dịch vụ tư vấn pháp luật**, không do luật sư hay tổ chức hành nghề luật sư cung cấp, và không thiết lập quan hệ luật sư – khách hàng.
+> - Câu trả lời do AI tạo ra **có thể sai, thiếu, hoặc đã lỗi thời** so với văn bản mới ban hành sau ngày căn cứ (baseline). Người dùng phải tự kiểm tra văn bản gốc trước khi áp dụng, và **tự chịu trách nhiệm** về quyết định của mình.
+> - Với vụ việc có giá trị lớn, có dấu hiệu hình sự, đang bị thanh tra, kiểm tra, hoặc đang tranh chấp, hãy hỏi luật sư hoặc cơ quan có thẩm quyền.
+> - Skill được phát hành theo giấy phép MIT (xem `LICENSE`), **cung cấp nguyên trạng, không kèm bất kỳ bảo đảm nào**.
+
+Skill AI hỗ trợ tra cứu pháp lý chuyên sâu cho doanh nghiệp Việt Nam. Dành cho chủ doanh nghiệp, kế toán và nhân viên làm giấy tờ.
 
 - **Làm được:** thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại (gồm khuyến mại, hợp đồng điện tử), lao động, BHXH, BHYT và an toàn lao động, thuế, hóa đơn và kế toán, dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC, tranh chấp, thanh tra, giải thể, phá sản, hải quan và xuất nhập khẩu. Có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, soạn văn bản theo mẫu, hồ sơ doanh nghiệp lưu lại, và lệnh tự cập nhật căn cứ.
 - **Cách trả lời:** chuyên sâu theo 7 phần: kết luận, giả định, căn cứ trích nguyên văn, phân tích, phương án và khuyến nghị, checklist hồ sơ, rủi ro.
