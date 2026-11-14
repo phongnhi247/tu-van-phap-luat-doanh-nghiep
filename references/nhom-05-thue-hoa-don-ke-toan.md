@@ -33,7 +33,7 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 | Việc | Căn cứ |
 |---|---|
 | Hồ sơ khai, kỳ khai, hạn nộp hồ sơ và tiền thuế (từ 01/07/2026). Hạn nộp đã có trong `trich-dan-xac-minh.md` | LQLT, ND-QLT |
-| Mẫu tờ khai, hồ sơ khai thuế cụ thể (Phụ lục I), khai thuế TNCN đối với tiền lương, tiền công (có thay đổi từ 01/07/2026) | TT-QLT. Phải đọc nguyên văn điều liên quan; chưa có trong kho trích dẫn |
+| Mẫu tờ khai, hồ sơ khai thuế cụ thể (Phụ lục I); khai thuế TNCN đối với tiền lương, tiền công **theo quý** từ 01/07/2026; danh sách thông tư bị bãi bỏ | TT-QLT. Trích dẫn Điều 22, Điều 99 có trong `trich-dan-xac-minh.md` |
 | Sự việc trước 01/07/2026 | Luật và nghị định quản lý thuế cũ (xem mục hết hiệu lực trong danh mục) cùng điều khoản chuyển tiếp của LQLT |
 | Tạm nộp TNDN theo quý, quyết toán năm | LTNDN, ND-TNDN, ND-TNDN-SD, TT-TNDN, LQLT |
 | Khấu trừ TNCN, quyết toán thay cho người lao động | LTNCN, ND-TNCN, LQLT |
@@ -43,7 +43,7 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 | Việc | Căn cứ |
 |---|---|
-| Đối tượng không chịu thuế, thuế suất | LGTGT, LGTGT-SD, ND-GTGT, ND-GTGT-SD25, ND-GTGT-SD26 |
+| Đối tượng không chịu thuế, thuế suất | LGTGT, LGTGT-SD, ND-GTGT, ND-GTGT-SD25, ND-GTGT-SD26, TT-GTGT |
 | Điều kiện khấu trừ thuế GTGT đầu vào (chứng từ thanh toán không dùng tiền mặt...) | LGTGT, LGTGT-SD, ND-GTGT |
 | Các trường hợp được hoàn, điều kiện hoàn (luật sửa đổi có hiệu lực từ 01/01/2026 đã bãi bỏ một số quy định) | LGTGT, LGTGT-SD, ND-GTGT, ND-GTGT-SD25 |
 | Thủ tục, thời hạn giải quyết hồ sơ hoàn thuế | LQLT, ND-QLT |

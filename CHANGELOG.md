@@ -1,5 +1,14 @@
 # Nhật ký thay đổi
 
+## 1.1.1 — 14/11/2026
+
+Xử lý các phần còn tồn của bản 1.1.0.
+
+- **Đã đọc nguyên văn Thông tư hướng dẫn Luật Quản lý thuế (TT-QLT)** từ file ký số: tổ chức trả lương **khai thuế TNCN đã khấu trừ theo quý** từ 01/07/2026; danh sách 10 thông tư bị bãi bỏ (thông tư đăng ký thuế năm 2024 **vẫn còn hiệu lực**); mẫu tờ khai GTGT 01/GTGT; quy định chuyển tiếp. Đã đưa vào kho trích dẫn và lịch tuân thủ.
+- **Hải quan:** thêm nghị định xử phạt hải quan mới (từ 01/07/2026), Luật Quản lý ngoại thương và nghị định hướng dẫn mới (từ tháng 9/2026), nghị định về khu công nghiệp, khu chế xuất.
+- **Thuế GTGT:** nâng nhãn ✅ cho nghị định hướng dẫn; thêm thông tư hướng dẫn. **BHXH:** ghi văn bản bị thay thế của nghị định BHXH bắt buộc.
+- **Đa nền tảng:** chạy thử thành công trên Antigravity CLI. Ghi chú Gemini CLI không còn hỗ trợ tài khoản cá nhân miễn phí.
+
 ## 1.1.0 — 14/11/2026
 
 Mở rộng lĩnh vực và thêm tính năng soạn văn bản.

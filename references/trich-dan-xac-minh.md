@@ -32,6 +32,17 @@ Khoản 9: thời hạn của hộ, cá nhân kinh doanh thực hiện theo ND-T
 
 **Ngày nghỉ:** Luật Quản lý thuế và nghị định này (các phần đã đọc) **không có** quy định riêng khi hạn nộp trùng ngày nghỉ. Khi đó áp dụng quy tắc chung về cách tính thời hạn của Bộ luật Dân sự (BLDS, điều về ngày cuối cùng của thời hạn là ngày nghỉ). Nguyên văn BLDS chưa đọc được từ nguồn nhóm 1–3: ghi ⚠️ kèm điều luật, và khuyến nghị nộp trước ngày nghỉ.
 
+## TT-QLT — Thông tư hướng dẫn Luật Quản lý thuế
+
+Đối chiếu ngày 14/11/2026, từ file ký số (bản scan, đăng lại), trang 49, 197–199, 202.
+
+- **Điều 22 khoản 1 điểm a:** "Tổ chức, cá nhân trả thu nhập thực hiện khai theo quý và quyết toán năm như sau: a.1) Trường hợp khai theo quý: Tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công thực hiện khai số thuế thu nhập cá nhân đã khấu trừ của cá nhân nhận thu nhập theo quý;"
+- **Điều 22 khoản 1 điểm a.2.1:** "Tổ chức, cá nhân trả thu nhập từ tiền lương, tiền công có trách nhiệm quyết toán thuế và quyết toán thay cho các cá nhân có ủy quyền cho tổ chức, cá nhân trả thu nhập quyết toán thuế, không phân biệt có phát sinh khấu trừ thuế hay không phát sinh khấu trừ thuế;"
+- **Điều 99 khoản 1:** "Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026."
+- **Điều 99 khoản 3** bãi bỏ 10 thông tư (điểm a đến k), gồm thông tư hướng dẫn Luật Quản lý thuế năm 2021 và các thông tư sửa đổi năm 2025, 2026, thông tư về giao dịch điện tử trong lĩnh vực thuế năm 2021, thông tư về thuế đối với cá nhân kinh doanh năm 2015... Danh sách **không** có thông tư đăng ký thuế năm 2024 (TT-DKT).
+- **Điều 100 khoản 1:** "Đối với các hồ sơ khai thuế có kỳ tính thuế trước ngày 01 tháng 7 năm 2026, người nộp thuế thực hiện theo mẫu biểu áp dụng trước thời điểm Thông tư này có hiệu lực."
+- **Phụ lục I:** tờ khai thuế GTGT theo phương pháp khấu trừ có hoạt động sản xuất kinh doanh là mẫu số 01/GTGT.
+
 ## ND-QLT — Điều 24. Tạm nộp theo quý
 
 Đối chiếu ngày 14/11/2026, từ file ký số (bản scan), trang 47–48.

@@ -23,7 +23,7 @@ Dùng khi người dùng hỏi "tháng hoặc quý này phải nộp gì", "hạ
 | Nghĩa vụ | Đối tượng | Căn cứ để tra hạn nộp và mẫu biểu |
 |---|---|---|
 | Tờ khai thuế GTGT theo tháng hoặc quý | Doanh nghiệp kê khai GTGT | LQLT, ND-QLT, LGTGT |
-| Tờ khai khấu trừ TNCN (nếu phát sinh khấu trừ). **Từ 01/07/2026, kỳ khai với thu nhập từ tiền lương, tiền công có thể đã thay đổi** (một nguồn cho biết bỏ khai theo tháng): phải đọc nguyên văn TT-QLT trước khi khẳng định kỳ khai | Tổ chức trả thu nhập | LQLT, ND-QLT, TT-QLT, LTNCN, ND-TNCN |
+| Tờ khai khấu trừ TNCN đối với tiền lương, tiền công: **khai theo quý** từ 01/07/2026 (TT-QLT Điều 22 khoản 1, có trong kho trích dẫn). Kỳ trước 01/07/2026 theo quy định cũ | Tổ chức trả thu nhập | LQLT, ND-QLT, TT-QLT, LTNCN, ND-TNCN |
 | Nộp thuế: hạn nộp tiền thuế theo từng kỳ | Người nộp thuế | LQLT, ND-QLT |
 | Tạm nộp thuế TNDN theo quý; tổng tạm nộp các quý đạt tỷ lệ tối thiểu theo quy định | Doanh nghiệp nộp TNDN | LTNDN, ND-TNDN, ND-TNDN-SD, LQLT |
 | Quyết toán thuế TNDN năm | Doanh nghiệp | LQLT, ND-QLT, LTNDN |

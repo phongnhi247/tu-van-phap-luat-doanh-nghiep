@@ -152,5 +152,6 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
 
 - Căn cứ chỉ đúng đến ngày baseline. Văn bản ban hành sau ngày đó cần được tra bằng web hoặc bổ sung bằng lệnh cập nhật.
 - Nhiều dòng trong danh mục bản 1.0.0 có nhãn ⚠️ vì chưa mở được văn bản gốc trong đợt lập danh mục. Skill vẫn bắt buộc tra nguyên văn khi trả lời.
-- Chưa có sẵn căn cứ cho các ngành nghề kinh doanh có điều kiện riêng (thực phẩm, dược, xây dựng, vận tải, tài chính...), quản lý ngoại thương, xử phạt trong lĩnh vực hải quan. Gặp các phần này, skill tra trực tiếp và gắn nhãn tương ứng.
-- Skill chỉ được chạy thử trên Claude Code. Trên các nền tảng khác, hãy dùng phép tự kiểm tra ở mục 1.
+- Chưa có sẵn căn cứ cho các ngành nghề kinh doanh có điều kiện riêng (thực phẩm, dược, xây dựng, vận tải, tài chính...), nghị định hướng dẫn thuế xuất nhập khẩu (chưa xác minh). Gặp các phần này, skill tra trực tiếp và gắn nhãn tương ứng.
+- Đã chạy thử trên **Claude Code** (19 câu) và **Antigravity CLI** (câu bẫy và câu hạn nộp TNCN, đều đạt, cài skill ở `<thư mục dự án>/.agents/skills/`). Chưa chạy thử trên Gemini Gem.
+- **Gemini CLI:** tài khoản cá nhân miễn phí (Gemini Code Assist for individuals) đã bị Google ngừng hỗ trợ trong Gemini CLI và chuyển sang Antigravity. Người dùng loại tài khoản này nên dùng Antigravity.

@@ -15,7 +15,7 @@ tờ khai hải quan, thông quan, phân luồng xanh vàng đỏ, mã HS, thu�
 
 ## 2. Thông tin doanh nghiệp cần biết
 
-- Loại hình: kinh doanh thông thường, gia công, sản xuất xuất khẩu, doanh nghiệp chế xuất.
+- Loại hình: kinh doanh thông thường, gia công, sản xuất xuất khẩu, doanh nghiệp chế xuất (quy định về doanh nghiệp chế xuất: ND-KCN).
 - Mặt hàng (mã HS dự kiến) và nước xuất xứ, để biết có hiệp định thương mại tự do áp dụng không.
 - Hàng hóa có thuộc danh mục cấm, hạn chế, phải có giấy phép hoặc kiểm tra chuyên ngành không.
 - Ngày đăng ký tờ khai. Ngày này quyết định văn bản áp dụng.
@@ -27,7 +27,7 @@ tờ khai hải quan, thông quan, phân luồng xanh vàng đỏ, mã HS, thu�
 | Bước | Việc cần làm | Căn cứ |
 |---|---|---|
 | 1 | Xác định mã HS, trị giá hải quan, xuất xứ | LHQ, LTXNK, ND-TXNK, TT-HQ |
-| 2 | Kiểm tra chính sách mặt hàng: cấm, hạn chế, giấy phép, kiểm tra chuyên ngành | LHQ. Văn bản về quản lý ngoại thương **chưa có trong danh mục**, phải tra |
+| 2 | Kiểm tra chính sách mặt hàng: cấm, hạn chế, giấy phép, kiểm tra chuyên ngành | LHQ, LQLNT, ND-QLNT (văn bản mới từ tháng 9/2026) |
 | 3 | Khai và nộp tờ khai điện tử, hồ sơ hải quan | LHQ, ND-HQ, TT-HQ |
 | 4 | Phân luồng, kiểm tra hồ sơ hoặc kiểm tra thực tế hàng hóa | LHQ, ND-HQ |
 | 5 | Nộp thuế (hoặc bảo lãnh), thông quan, giải phóng hàng | LHQ, LTXNK, LQLT |
@@ -48,7 +48,7 @@ tờ khai hải quan, thông quan, phân luồng xanh vàng đỏ, mã HS, thu�
 |---|---|
 | Kiểm tra sau thông quan tại trụ sở cơ quan hải quan hoặc tại doanh nghiệp | LHQ, ND-HQ |
 | Ấn định thuế, truy thu, tiền chậm nộp | LHQ, LQLT |
-| Xử phạt vi phạm hành chính về hải quan | Nghị định xử phạt trong lĩnh vực hải quan **chưa có trong danh mục**, phải tra |
+| Xử phạt vi phạm hành chính về hải quan (nghị định mới từ 01/07/2026) | ND-XPHQ, LXLVPHC |
 | Khiếu nại, khởi kiện quyết định của cơ quan hải quan | LKN, LTTHC (nhóm 7) |
 
 ## 4. Điểm dễ sai
