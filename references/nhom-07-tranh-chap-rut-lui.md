@@ -25,8 +25,8 @@ khởi kiện, tòa án, tòa án nhân dân khu vực, trọng tài, hòa giả
 | 3 | Có thỏa thuận trọng tài hợp lệ thì phải giải quyết bằng trọng tài | LTTTM |
 | 4 | Khởi kiện tại tòa án: thẩm quyền của Tòa án nhân dân khu vực và Tòa án cấp tỉnh từ 01/07/2025 | BLTTDS, BLTTDS-SD |
 | 5 | Biện pháp khẩn cấp tạm thời (phong tỏa tài khoản, kê biên tài sản) | BLTTDS |
-| 6 | Án phí, tạm ứng án phí | Nghị quyết về án phí, lệ phí Tòa án **chưa có trong danh mục**, phải tra |
-| 7 | Thi hành án | Luật Thi hành án dân sự **chưa có trong danh mục**, phải tra |
+| 6 | Án phí, tạm ứng án phí | NQ-ANPHI (chưa xác minh còn hiệu lực, phải kiểm tra) |
+| 7 | Thi hành án | LTHADS (luật mới từ 01/07/2026) |
 
 ### 3.2 Thanh tra, kiểm tra và xử phạt hành chính
 
@@ -48,7 +48,7 @@ khởi kiện, tòa án, tòa án nhân dân khu vực, trọng tài, hòa giả
 | 2 | Khiếu nại lần đầu tới người đã ra quyết định | LKN, ND-KN, ND-KN-SD |
 | 3 | Thời hạn thụ lý và giải quyết (đã sửa từ 01/07/2026) | ND-KN-SD |
 | 4 | Đối thoại, tạm đình chỉ thi hành quyết định bị khiếu nại | ND-KN-SD |
-| 5 | Khiếu nại lần hai, hoặc khởi kiện vụ án hành chính | LKN. Luật Tố tụng hành chính **chưa có trong danh mục**, phải tra |
+| 5 | Khiếu nại lần hai, hoặc khởi kiện vụ án hành chính | LKN. LTTHC, NQ-TQHC |
 
 ### 3.4 Tạm ngừng kinh doanh và giải thể
 

@@ -2,7 +2,7 @@
 
 Skill AI tư vấn pháp lý chuyên sâu cho doanh nghiệp Việt Nam. Dành cho chủ doanh nghiệp, kế toán và nhân viên làm giấy tờ.
 
-- **Làm được:** thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại, lao động và BHXH, thuế, hóa đơn và kế toán, dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC, tranh chấp, thanh tra, giải thể, phá sản. Có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, hồ sơ doanh nghiệp lưu lại, và lệnh tự cập nhật căn cứ.
+- **Làm được:** thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại (gồm khuyến mại, hợp đồng điện tử), lao động, BHXH, BHYT và an toàn lao động, thuế, hóa đơn và kế toán, dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC, tranh chấp, thanh tra, giải thể, phá sản, hải quan và xuất nhập khẩu. Có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, soạn văn bản theo mẫu, hồ sơ doanh nghiệp lưu lại, và lệnh tự cập nhật căn cứ.
 - **Cách trả lời:** chuyên sâu theo 7 phần: kết luận, giả định, căn cứ trích nguyên văn, phân tích, phương án và khuyến nghị, checklist hồ sơ, rủi ro.
 - **Nguyên tắc:** chỉ nói khi có căn cứ. Mỗi kết luận có nhãn ✅ (đã đối chiếu nguyên văn), ⚠️ (chưa chắc chắn) hoặc ❓ (không tìm thấy). Không tìm thấy thì nói "không biết", không bịa.
 - **Không làm:** hôn nhân, thừa kế, đất đai hộ gia đình, hình sự cá nhân.
@@ -71,6 +71,8 @@ Cứ hỏi tự nhiên. Ví dụ:
 - "Tháng 1/2027 công ty tôi phải nộp những gì?" (lịch tuân thủ)
 - "Rà soát giúp hợp đồng lao động này: [dán nội dung]" (rà soát văn bản)
 - "Lập hồ sơ vụ tranh chấp công nợ với công ty X" (chế độ lập hồ sơ, lưu file)
+- "Soạn giúp quyết định kỷ luật nhân viên A" (soạn văn bản theo mẫu)
+- "Doanh nghiệp chế xuất bán hàng vào nội địa làm thủ tục gì?" (hải quan, xuất nhập khẩu)
 - "Cập nhật căn cứ" (cập nhật danh mục văn bản)
 
 **Hồ sơ doanh nghiệp:** lần đầu, skill hỏi một vài thông tin như loại hình, số lao động, cách kê khai thuế, rồi đề nghị lưu thành file `ho-so-doanh-nghiep.md` **trong thư mục làm việc của bạn**, không lưu trong thư mục skill. Lần sau bạn không phải khai lại. Làm cho nhiều doanh nghiệp thì mỗi doanh nghiệp một file `ho-so-<tên>.md`.
@@ -105,9 +107,9 @@ tu-van-phap-luat-doanh-nghiep/
 │   ├── nguyen-tac-can-cu.md    Quy tắc chống bịa, nhãn tin cậy
 │   ├── khung-tra-loi.md        Khung 7 phần, chế độ lập hồ sơ
 │   ├── tra-cuu-va-trich-dan.md Tra chéo 3 chiều, trích dẫn, xung đột văn bản
-│   ├── nhom-01 ... nhom-07     7 nhóm nghiệp vụ (chỉ ghi mã căn cứ)
+│   ├── nhom-01 ... nhom-08     8 nhóm nghiệp vụ (chỉ ghi mã căn cứ)
 │   ├── lich-tuan-thu.md, ra-soat-van-ban.md, ho-so-doanh-nghiep-mau.md
-│   ├── nguong-chuyen-luat-su.md, cap-nhat-can-cu.md
+│   ├── nguong-chuyen-luat-su.md, cap-nhat-can-cu.md, soan-van-ban.md
 └── tests/bo-cau-hoi-kiem-thu.md
 ```
 
@@ -139,7 +141,7 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    $s = "tu-van-phap-luat-doanh-nghiep\references"; $g = "gem-v$v"; New-Item -ItemType Directory -Force $g | Out-Null
    Copy-Item "$s\danh-muc-can-cu.md","$s\trich-dan-xac-minh.md","$s\nguyen-tac-can-cu.md","$s\khung-tra-loi.md","$s\tra-cuu-va-trich-dan.md" $g
    Get-Content -Encoding utf8 "$s\nhom-0*.md" | Set-Content -Encoding utf8 "$g\cac-nhom-nghiep-vu.md"
-   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
+   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
    Compress-Archive -Path "$g\*" -DestinationPath "tu-van-phap-luat-doanh-nghiep-gem-v$v.zip" -Force
    ```
 6. **Phân phối.** Nếu dùng git: commit, gắn tag `v<phiên bản>`, đẩy lên kho và đính kèm 2 file zip vào mục Releases. Nếu không dùng git: gửi 2 file zip kèm nội dung CHANGELOG. Cập nhật Gem chia sẻ nếu có.
@@ -150,5 +152,5 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
 
 - Căn cứ chỉ đúng đến ngày baseline. Văn bản ban hành sau ngày đó cần được tra bằng web hoặc bổ sung bằng lệnh cập nhật.
 - Nhiều dòng trong danh mục bản 1.0.0 có nhãn ⚠️ vì chưa mở được văn bản gốc trong đợt lập danh mục. Skill vẫn bắt buộc tra nguyên văn khi trả lời.
-- Chưa có sẵn căn cứ cho các ngành nghề kinh doanh có điều kiện riêng (thực phẩm, dược, xây dựng, vận tải, tài chính...), Bộ luật Hình sự, Luật Tố tụng hành chính, Luật Thi hành án dân sự. Gặp các phần này, skill tra trực tiếp và gắn nhãn tương ứng.
+- Chưa có sẵn căn cứ cho các ngành nghề kinh doanh có điều kiện riêng (thực phẩm, dược, xây dựng, vận tải, tài chính...), quản lý ngoại thương, xử phạt trong lĩnh vực hải quan. Gặp các phần này, skill tra trực tiếp và gắn nhãn tương ứng.
 - Skill chỉ được chạy thử trên Claude Code. Trên các nền tảng khác, hãy dùng phép tự kiểm tra ở mục 1.

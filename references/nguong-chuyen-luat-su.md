@@ -6,9 +6,9 @@ Skill hỗ trợ nghiên cứu và tư vấn sơ bộ. Gặp các dấu hiệu d
 
 | Nhóm | Dấu hiệu | Lý do | Căn cứ liên quan |
 |---|---|---|---|
-| Hình sự | Mua, bán, sử dụng hóa đơn không có hàng hóa, dịch vụ thật đi kèm | Có thể bị xử lý hình sự, không chỉ phạt hành chính | ND-HDDT, ND-XPT. Bộ luật Hình sự **chưa có trong danh mục**, phải tra |
-| Hình sự | Không nộp hoặc khai sai thuế với số tiền lớn, cố ý | Ranh giới giữa vi phạm hành chính và tội phạm | LQLT, ND-XPT. Bộ luật Hình sự phải tra |
-| Hình sự | Không đóng hoặc chậm đóng BHXH kéo dài, đã bị nhắc nhở hoặc xử phạt | Có thể bị truy cứu trách nhiệm hình sự | LBHXH, ND-XPLD. Bộ luật Hình sự phải tra |
+| Hình sự | Mua, bán, sử dụng hóa đơn không có hàng hóa, dịch vụ thật đi kèm | Có thể bị xử lý hình sự, không chỉ phạt hành chính | ND-HDDT, ND-XPT. BLHS, BLHS-SD25 (đọc nguyên văn điều về tội phạm tương ứng) |
+| Hình sự | Không nộp hoặc khai sai thuế với số tiền lớn, cố ý | Ranh giới giữa vi phạm hành chính và tội phạm | LQLT, ND-XPT, BLHS, BLHS-SD25 |
+| Hình sự | Không đóng hoặc chậm đóng BHXH kéo dài, đã bị nhắc nhở hoặc xử phạt | Có thể bị truy cứu trách nhiệm hình sự | LBHXH, ND-XPLD, BLHS, BLHS-SD25 |
 | Cơ quan nhà nước | Đang bị thanh tra, kiểm tra, hoặc nhận quyết định ấn định thuế, truy thu với số lớn | Mỗi văn bản trả lời có thể ảnh hưởng tới kết luận thanh tra | LTTRA, LQLT, ND-QLT |
 | Cơ quan nhà nước | Nhận giấy triệu tập của cơ quan điều tra | Ngoài phạm vi tư vấn bằng AI | |
 | Tranh chấp | Đã có đơn khởi kiện, đơn yêu cầu trọng tài, hoặc thông báo thụ lý | Có thời hạn tố tụng nghiêm ngặt | BLTTDS, BLTTDS-SD, LTTTM |

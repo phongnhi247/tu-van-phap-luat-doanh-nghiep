@@ -1,0 +1,49 @@
+# Soạn văn bản theo mẫu
+
+Dùng khi người dùng nhờ soạn văn bản nội bộ hoặc văn bản gửi cơ quan nhà nước, ví dụ quyết định, biên bản, thông báo, công văn giải trình, hợp đồng, phụ lục.
+
+## 1. Nguyên tắc
+
+1. **Văn bản có mẫu bắt buộc:** chỉ dùng mẫu chính thức. Tờ khai thuế, hồ sơ đăng ký doanh nghiệp, hồ sơ BHXH, tờ khai hải quan, thông báo khuyến mại... đều có mẫu ban hành kèm nghị định hoặc thông tư.
+   - Skill **không tự dựng lại** các mẫu này. Skill chỉ ra số hiệu mẫu, văn bản ban hành mẫu (tra mã trong danh mục) và cách lấy mẫu: phần mềm kê khai của cơ quan thuế, Cổng dịch vụ công, Cổng thông tin quốc gia về đăng ký doanh nghiệp, hoặc phụ lục của văn bản.
+   - Sau đó skill hướng dẫn điền từng mục, dựa trên hồ sơ doanh nghiệp.
+   - Không tìm thấy mẫu thì nói rõ "không tìm thấy mẫu chính thức", không tự chế ra mẫu.
+2. **Văn bản không có mẫu bắt buộc** (quyết định nội bộ, biên bản họp, thông báo nội bộ, công văn giải trình, hợp đồng): skill được soạn, nhưng phải:
+   - Có đủ các nội dung mà luật bắt buộc (tra theo `ra-soat-van-ban.md` và các module).
+   - Ghi rõ căn cứ pháp lý ở phần "Căn cứ" của văn bản. Chỉ dùng căn cứ đã xác minh, theo `nguyen-tac-can-cu.md`.
+   - Để trống, có đánh dấu, mọi thông tin chưa biết: `[...]`. Không tự điền tên người, số tiền, ngày tháng.
+3. **Thể thức:** văn bản của doanh nghiệp không bắt buộc theo thể thức văn bản hành chính nhà nước. Tuy vậy, nên có: tên doanh nghiệp, số và ký hiệu, địa danh và ngày tháng, tên loại văn bản và trích yếu, căn cứ, nội dung, nơi nhận, chức vụ và chữ ký của người có thẩm quyền, dấu (nếu doanh nghiệp dùng dấu).
+4. **Thẩm quyền ký:** xác định ai được ký theo luật, điều lệ và văn bản ủy quyền. Ghi chú nếu người ký cần được ủy quyền.
+
+## 2. Quy trình
+
+1. Xác định loại văn bản, mục đích, người nhận, và văn bản có mẫu bắt buộc không.
+2. Xác định căn cứ pháp lý (đọc module liên quan) và các nội dung bắt buộc.
+3. Hỏi những thông tin còn thiếu, tối đa 4 câu một lượt, hoặc để `[...]`.
+4. Soạn bản nháp **trong chat**. Nếu người dùng muốn thì ghi file `.md` (hoặc định dạng khác nếu nền tảng hỗ trợ) vào **thư mục làm việc của người dùng**, không ghi vào thư mục skill.
+5. Sau bản nháp, liệt kê: các căn cứ đã dùng kèm nhãn, các chỗ còn `[...]` cần điền, các bước tiếp theo (ký, đóng dấu, gửi, lưu trữ, thời hạn).
+6. Kết thúc bằng dòng baseline như mọi câu trả lời khác.
+
+## 3. Các loại văn bản hay gặp
+
+| Văn bản | Mẫu bắt buộc? | Căn cứ và nội dung bắt buộc |
+|---|---|---|
+| Quyết định xử lý kỷ luật lao động, biên bản họp xử lý kỷ luật | Không có mẫu bắt buộc | BLLD (điều về nguyên tắc, trình tự, thời hiệu, các hình thức kỷ luật, trường hợp sa thải), ND-QHLD (điều về trình tự xử lý kỷ luật và người có thẩm quyền). Trích dẫn có trong `trich-dan-xac-minh.md`. Checklist ở `ra-soat-van-ban.md` mục 3.3 |
+| Thông báo chấm dứt hợp đồng lao động, quyết định chấm dứt | Không | BLLD, ND-QHLD, ND-HDLDDT nếu làm điện tử |
+| Hợp đồng lao động, phụ lục hợp đồng | Không | BLLD, ND-QHLD. Checklist ở `ra-soat-van-ban.md` mục 3.1 |
+| Nội quy lao động | Không có mẫu, nhưng phải đăng ký nếu thuộc diện | BLLD, ND-QHLD |
+| Nghị quyết, biên bản họp HĐTV hoặc ĐHĐCĐ (tăng vốn, chuyển nhượng, thay người đại diện, giải thể) | Không | LDN, LDN-SD25, điều lệ |
+| Hồ sơ đăng ký, thông báo thay đổi doanh nghiệp | **Có**, theo mẫu ban hành kèm văn bản hướng dẫn đăng ký doanh nghiệp | ND-DKDN, ND-DKDN-SD. Chỉ hướng dẫn điền |
+| Tờ khai thuế, hồ sơ khai bổ sung, đề nghị hoàn thuế | **Có**, theo phụ lục TT-QLT | TT-QLT, ND-QLT. Chỉ hướng dẫn điền |
+| Công văn giải trình gửi cơ quan thuế hoặc đoàn thanh tra, kiểm tra | Không | LQLT, ND-QLT. Giọng văn trung thực, dẫn chứng từ; không thừa nhận vi phạm thay doanh nghiệp. Nếu có dấu hiệu ở `nguong-chuyen-luat-su.md`, khuyến nghị luật sư xem trước khi gửi |
+| Văn bản giải trình vi phạm hành chính | Không | LXLVPHC, ND-XLVPHC. Chú ý thời hạn giải trình |
+| Đơn khiếu nại quyết định hành chính | Có thể có mẫu, phải tra | LKN, ND-KN, ND-KN-SD |
+| Thông báo hoặc đăng ký chương trình khuyến mại | **Có** | ND-KM. Chỉ hướng dẫn điền |
+| Hợp đồng mua bán hàng hóa, dịch vụ | Không | LTM, BLDS. Checklist ở `ra-soat-van-ban.md` mục 3.4 |
+| Thông báo vi phạm dữ liệu cá nhân, chính sách xử lý dữ liệu | Có thể có mẫu, phải tra | LBVDLCN, ND-BVDLCN |
+
+## 4. Những việc không làm
+
+- Không soạn văn bản nhằm che giấu vi phạm, hợp thức hóa chứng từ, hoặc ghi lùi ngày.
+- Không soạn văn bản trả lời cơ quan điều tra.
+- Không giả mạo chữ ký, con dấu, hoặc nội dung của cơ quan nhà nước.

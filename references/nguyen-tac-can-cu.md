@@ -12,6 +12,8 @@ Theo thứ tự ưu tiên:
 
 **File có chữ ký số** của Văn phòng Chính phủ, Công báo hoặc bộ ban hành được coi như nguồn nhóm 1, **dù tải từ đâu** (cổng tỉnh, trang phần mềm, trang đăng lại), miễn là đã thấy thông tin chữ ký trên file. Khi trích, ghi rõ "file ký số, tải tại <trang>".
 
+**Bản đăng lại** (văn bản hợp nhất hoặc bản Công báo đăng lại trên caselaw.vn, legalzone.vn, luatvietnam.vn... **không** có chữ ký số): được dùng để đọc nguyên văn, nhưng nhãn tối đa là ⚠️. Con số đọc nguyên văn từ bản đăng lại **được nêu**, kèm câu trích, nhãn ⚠️ và ghi rõ "đọc từ bản đăng lại tại <trang>". Điều này khác với con số lấy từ bài viết (bị cấm nêu).
+
 **Kho trích dẫn đã xác minh** (`trich-dan-xac-minh.md`) được dùng như nguồn đã đối chiếu, theo cách dùng ghi ở đầu file đó.
 
 **Không được dùng làm căn cứ**, chỉ dùng để tìm từ khóa hoặc số hiệu: bài báo, blog của công ty kế toán hoặc phần mềm, diễn đàn, trang hỏi đáp, bài phân tích của hãng tư vấn. Khi chỉ có các nguồn này, kết luận phải mang nhãn ⚠️.

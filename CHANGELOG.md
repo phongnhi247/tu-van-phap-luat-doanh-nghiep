@@ -1,5 +1,21 @@
 # Nhật ký thay đổi
 
+## 1.1.0 — 14/11/2026
+
+Mở rộng lĩnh vực và thêm tính năng soạn văn bản.
+
+- **Module mới nhóm 8: Hải quan và xuất nhập khẩu.** Gồm Luật Hải quan (có luật sửa đổi năm 2026, hiệu lực 01/03/2027), Luật Thuế xuất khẩu, thuế nhập khẩu, luật sửa đổi năm 2025 về xuất nhập khẩu tại chỗ, nghị định và thông tư về thủ tục hải quan.
+- **Tính năng mới: soạn văn bản theo mẫu** (`soan-van-ban.md`). Văn bản có mẫu bắt buộc thì chỉ hướng dẫn lấy mẫu chính thức và điền, không tự dựng mẫu. Văn bản nội bộ thì soạn có căn cứ, để `[...]` cho thông tin chưa biết.
+- **Bổ sung căn cứ:**
+  - Luật An toàn, vệ sinh lao động và nghị định về huấn luyện (nhóm 4).
+  - Luật Hỗ trợ doanh nghiệp nhỏ và vừa và nghị định tiêu chí (nhóm 5, dùng để chọn chế độ kế toán).
+  - Bộ luật Hình sự và luật sửa đổi năm 2025 (ngưỡng chuyển sang luật sư).
+  - Luật Giao dịch điện tử, nghị định chữ ký điện tử (nhóm 3).
+  - Nghị định khuyến mại và các lần sửa đổi năm 2024, 2026 (nhóm 3).
+  - Luật Tố tụng hành chính, nghị quyết về thẩm quyền Tòa án, Luật Thi hành án dân sự mới (từ 01/07/2026), nghị quyết án phí (nhóm 7).
+- Bộ kiểm thử: thêm 4 câu (hải quan, soạn văn bản, soạn văn bản có mẫu, an toàn lao động).
+- Danh mục: 114 văn bản.
+
 ## 1.0.3 — 14/11/2026
 
 Rà soát lại nhóm thuế và BHXH.

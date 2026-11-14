@@ -65,6 +65,16 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 | BHYT cho người lao động: đối tượng, mức đóng (đóng cùng BHXH) | LBHYT, LBHYT-SD, ND-BHYT |
 | Sổ BHXH điện tử | TT-SOBHXH |
 
+### 3.5 An toàn, vệ sinh lao động
+
+| Việc | Căn cứ |
+|---|---|
+| Huấn luyện an toàn, vệ sinh lao động theo nhóm đối tượng; chứng chỉ, thẻ an toàn | LATVSLD, ND-ATVSLD |
+| Khám sức khỏe định kỳ, khám phát hiện bệnh nghề nghiệp | LATVSLD |
+| Tai nạn lao động: khai báo, điều tra, bồi thường, trợ cấp | LATVSLD, LBHXH |
+| Kiểm định máy, thiết bị có yêu cầu nghiêm ngặt về an toàn; quan trắc môi trường lao động | LATVSLD, ND-ATVSLD |
+| Luật đang có dự án sửa đổi năm 2026 và nghị định có dự thảo sửa phần huấn luyện: phải kiểm tra đã ban hành chưa | |
+
 ## 4. Điểm dễ sai
 
 - Sa thải khi nội quy không quy định hành vi đó, hoặc không tổ chức họp xử lý kỷ luật. Căn cứ: BLLD, ND-QHLD.

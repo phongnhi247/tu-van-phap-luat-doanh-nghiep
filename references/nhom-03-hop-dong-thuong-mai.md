@@ -43,7 +43,7 @@ hợp đồng mua bán hàng hóa, hợp đồng dịch vụ, hợp đồng nguy
 | 1 | Nội dung quảng cáo bị cấm, quảng cáo hàng hóa đặc biệt | LQC, LQC-SD |
 | 2 | Trách nhiệm của người chuyển tải quảng cáo, người có ảnh hưởng | LQC-SD |
 | 3 | Quảng cáo trên mạng | LQC-SD |
-| 4 | Khuyến mại: hình thức, thủ tục thông báo hoặc đăng ký | LTM. Nghị định hướng dẫn hoạt động khuyến mại **chưa có trong danh mục**, phải tra và gắn nhãn khi trả lời |
+| 4 | Khuyến mại: hình thức, hàng hóa được và không được khuyến mại, khuyến mại may rủi, thủ tục thông báo hoặc đăng ký (có sửa đổi năm 2024 và 2026) | LTM, ND-KM |
 
 ### 3.4 Cạnh tranh
 
@@ -52,6 +52,15 @@ hợp đồng mua bán hàng hóa, hợp đồng dịch vụ, hợp đồng nguy
 | Hành vi cạnh tranh không lành mạnh (gièm pha, lôi kéo khách hàng bất chính...) | LCT |
 | Thỏa thuận hạn chế cạnh tranh, lạm dụng vị trí thống lĩnh | LCT |
 | Thông báo tập trung kinh tế khi mua bán, sáp nhập đạt ngưỡng | LCT. Ngưỡng nằm trong nghị định hướng dẫn, **chưa có trong danh mục**, phải tra |
+
+### 3.5 Hợp đồng và chứng từ điện tử
+
+| Việc | Căn cứ |
+|---|---|
+| Giá trị pháp lý của hợp đồng điện tử, thông điệp dữ liệu | LGDDT |
+| Chữ ký điện tử, chữ ký số, dịch vụ tin cậy | LGDDT, ND-CKS |
+| Hợp đồng lao động điện tử | ND-HDLDDT (nhóm 4) |
+| Hóa đơn, chứng từ điện tử | ND-HDDT (nhóm 5) |
 
 ## 4. Điểm dễ sai
 

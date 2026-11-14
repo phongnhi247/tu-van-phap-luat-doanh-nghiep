@@ -100,3 +100,27 @@ Mức của các vùng II, III, IV: chưa ghi vào kho. Phải đọc lại bả
 - **Điều 26:** tiền lương thử việc "ít nhất phải bằng 85% mức lương của công việc đó".
 - **Điều 17 khoản 1** (hành vi bị cấm): "Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động."
 - **Điều 105 khoản 1:** "không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần"
+- **Điều 122 khoản 1:** "a) Người sử dụng lao động phải chứng minh được lỗi của người lao động; b) Phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ luật là thành viên; c) Người lao động phải có mặt và có quyền tự bào chữa [...]; d) Việc xử lý kỷ luật lao động phải được ghi thành biên bản."
+- **Điều 122 khoản 4:** "Không được xử lý kỷ luật lao động đối với người lao động đang trong thời gian [...] a) Nghỉ ốm đau, điều dưỡng [...] d) Người lao động nữ mang thai; người lao động nghỉ thai sản, nuôi con dưới 12 tháng tuổi."
+- **Điều 125 khoản 4, đoạn 2:** "Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động."
+- **Điều 36 khoản 3:** trường hợp tại điểm e khoản 1 (tự ý bỏ việc từ 05 ngày làm việc liên tục trở lên) không phải báo trước.
+
+## ND-QHLD — Trình tự xử lý kỷ luật lao động
+
+Đối chiếu ngày 14/11/2026, từ bản Công báo số 1203+1204 ngày 28/12/2020 (bản đăng lại, nhãn tối đa ⚠️ theo quy tắc bản đăng lại).
+
+- **Điều 70 khoản 2 điểm a:** "Ít nhất 05 ngày làm việc trước ngày tiến hành họp xử lý kỷ luật lao động, người sử dụng lao động thông báo về nội dung, thời gian, địa điểm [...] đến các thành phần phải tham dự họp quy định tại điểm b, điểm c khoản 1 Điều 122 của Bộ luật Lao động"
+- **Điều 70 khoản 3:** biên bản họp phải được "thông qua trước khi kết thúc cuộc họp".
+- **Điều 70 khoản 4:** quyết định xử lý kỷ luật phải ban hành trong thời hiệu và gửi tới các thành phần tham dự.
+- **Điều 69 khoản 2 điểm i** (người có thẩm quyền xử lý kỷ luật): "người có thẩm quyền giao kết hợp đồng lao động [...] hoặc người được quy định cụ thể trong nội quy lao động."
+
+## LATVSLD, ND-ATVSLD — Huấn luyện an toàn, vệ sinh lao động
+
+Đối chiếu ngày 14/11/2026, từ văn bản hợp nhất đăng lại trên caselaw.vn (nhãn tối đa ⚠️). Luật đang có dự án sửa đổi; nghị định có dự thảo sửa phần huấn luyện.
+
+- **LATVSLD Điều 14 khoản 2:** "Người sử dụng lao động tổ chức huấn luyện cho người lao động làm công việc có yêu cầu nghiêm ngặt về an toàn, vệ sinh lao động và cấp thẻ an toàn trước khi bố trí làm công việc này."
+- **LATVSLD Điều 14 khoản 4:** "Người sử dụng lao động tự tổ chức huấn luyện và chịu trách nhiệm về chất lượng huấn luyện [...] cho người lao động không thuộc đối tượng quy định tại các khoản 1, 2 và 3 Điều này, người học nghề, tập nghề, người thử việc trước khi tuyển dụng hoặc bố trí làm việc và định kỳ huấn luyện lại [...]"
+- **ND-ATVSLD Điều 19 khoản 1:** "Nhóm 1, nhóm 4: Tổng thời gian huấn luyện ít nhất là 16 giờ, bao gồm cả thời gian kiểm tra."
+- **ND-ATVSLD Điều 19 khoản 2:** "Nhóm 2: Tổng thời gian huấn luyện ít nhất là 48 giờ [...]"
+- **ND-ATVSLD Điều 19 khoản 3:** "Nhóm 3: Tổng thời gian huấn luyện ít nhất là 24 giờ, bao gồm cả thời gian kiểm tra."
+- **ND-ATVSLD Điều 21 khoản 2:** "Người lao động thuộc nhóm 4 được huấn luyện định kỳ ít nhất mỗi năm 01 lần [...] Thời gian huấn luyện định kỳ bằng 50% thời gian huấn luyện lần đầu."

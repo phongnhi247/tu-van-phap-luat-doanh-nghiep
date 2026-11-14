@@ -1,6 +1,6 @@
 ---
 name: tu-van-phap-luat-doanh-nghiep
-description: TƯ VẤN PHÁP LÝ DOANH NGHIỆP VIỆT NAM CHUYÊN SÂU — thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại, lao động và BHXH, thuế, hóa đơn và kế toán, tuân thủ chuyên ngành (dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC), tranh chấp, thanh tra, giải thể và phá sản. Trả lời có căn cứ trích nguyên văn, có phương án, khuyến nghị và checklist hồ sơ; có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, hồ sơ doanh nghiệp lưu lại, lệnh "cập nhật căn cứ". Kích hoạt khi người dùng hỏi về công ty, doanh nghiệp, hộ kinh doanh chuyển đổi, cổ đông, góp vốn, hợp đồng thương mại, hợp đồng lao động, sa thải, lương, BHXH, thuế GTGT, TNDN, TNCN, hóa đơn, quyết toán, báo cáo tài chính, xử phạt, thanh tra thuế, giải thể, phá sản; hoặc nói "tháng này phải nộp gì", "rà soát hợp đồng này", "cập nhật căn cứ". KHÔNG dùng cho vấn đề pháp lý cá nhân ngoài doanh nghiệp (ly hôn, thừa kế, đất đai hộ gia đình, hình sự cá nhân).
+description: TƯ VẤN PHÁP LÝ DOANH NGHIỆP VIỆT NAM CHUYÊN SÂU — thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại, lao động và BHXH, thuế, hóa đơn và kế toán, tuân thủ chuyên ngành (dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC), tranh chấp, thanh tra, giải thể và phá sản, hải quan và xuất nhập khẩu. Trả lời có căn cứ trích nguyên văn, có phương án, khuyến nghị và checklist hồ sơ; có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, hồ sơ doanh nghiệp lưu lại, soạn văn bản theo mẫu, lệnh "cập nhật căn cứ". Kích hoạt khi người dùng hỏi về công ty, doanh nghiệp, hộ kinh doanh chuyển đổi, cổ đông, góp vốn, hợp đồng thương mại, hợp đồng lao động, sa thải, lương, BHXH, thuế GTGT, TNDN, TNCN, hóa đơn, quyết toán, báo cáo tài chính, xử phạt, thanh tra thuế, giải thể, phá sản; hoặc nói "tháng này phải nộp gì", "rà soát hợp đồng này", "cập nhật căn cứ". KHÔNG dùng cho vấn đề pháp lý cá nhân ngoài doanh nghiệp (ly hôn, thừa kế, đất đai hộ gia đình, hình sự cá nhân).
 ---
 
 # Tư vấn pháp luật doanh nghiệp
@@ -35,6 +35,7 @@ Trước khi trả lời câu hỏi đầu tiên:
 | "tháng/quý này phải nộp gì", "lịch nộp", "hạn nộp" | Lịch tuân thủ | `lich-tuan-thu.md` |
 | Dán hoặc gửi hợp đồng, nội quy, quyết định, điều lệ và nhờ xem | Rà soát văn bản | `ra-soat-van-ban.md` |
 | "cập nhật căn cứ", "kiểm tra văn bản mới" | Cập nhật danh mục | `cap-nhat-can-cu.md` |
+| "soạn giúp", "viết quyết định / biên bản / công văn / thông báo" | Soạn văn bản theo mẫu | `soan-van-ban.md` |
 
 Ở mọi chế độ, khi thấy dấu hiệu nguy hiểm thì đọc `references/nguong-chuyen-luat-su.md` và cảnh báo.
 
@@ -49,6 +50,7 @@ Trước khi trả lời câu hỏi đầu tiên:
 | 5. Thuế, hóa đơn, kế toán | `nhom-05-thue-hoa-don-ke-toan.md` | khai thuế, GTGT, TNDN, TNCN, hóa đơn, hoàn thuế, quyết toán, chi phí được trừ, giao dịch liên kết, báo cáo tài chính, chế độ kế toán |
 | 6. Tuân thủ chuyên ngành | `nhom-06-tuan-thu-chuyen-nganh.md` | dữ liệu cá nhân, nhãn hiệu, bản quyền, giấy phép môi trường, PCCC |
 | 7. Tranh chấp và rút lui | `nhom-07-tranh-chap-rut-lui.md` | khởi kiện, trọng tài, hòa giải, thanh tra, kiểm tra, khiếu nại, xử phạt, tạm ngừng, giải thể, phá sản |
+| 8. Hải quan, xuất nhập khẩu | `nhom-08-hai-quan-xnk.md` | tờ khai hải quan, thông quan, thuế nhập khẩu, xuất nhập khẩu tại chỗ, gia công, chế xuất, kiểm tra sau thông quan |
 
 Câu hỏi chạm nhiều nhóm thì đọc tất cả các module liên quan. Ví dụ: sa thải kèm quyết toán thuế TNCN thì đọc nhóm 4 và nhóm 5.
 

@@ -83,7 +83,7 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 | Việc | Căn cứ |
 |---|---|
-| **Bước đầu tiên:** xác định doanh nghiệp có phải doanh nghiệp nhỏ và vừa hoặc siêu nhỏ không, và đang đăng ký chế độ kế toán nào. Tiêu chí doanh nghiệp nhỏ và vừa nằm trong nghị định quy định chi tiết Luật Hỗ trợ doanh nghiệp nhỏ và vừa, **chưa có trong danh mục**, phải tra. Không mặc định doanh nghiệp dùng TT-KTDN | Hồ sơ doanh nghiệp, TT-KTDN, TT-KTDNNV, TT-KTSN |
+| **Bước đầu tiên:** xác định doanh nghiệp có phải doanh nghiệp nhỏ và vừa hoặc siêu nhỏ không, và đang đăng ký chế độ kế toán nào. Tiêu chí doanh nghiệp siêu nhỏ, nhỏ, vừa: LHTDNNVV, ND-DNNVV (đang có dự án luật thay thế năm 2026, phải kiểm tra). Không mặc định doanh nghiệp dùng TT-KTDN | Hồ sơ doanh nghiệp, TT-KTDN, TT-KTDNNV, TT-KTSN |
 | Chứng từ, sổ sách, kỳ kế toán, lưu trữ, người làm kế toán | LKT, LKT-SD |
 | Chế độ kế toán doanh nghiệp thông thường từ năm tài chính 2026 | TT-KTDN |
 | Doanh nghiệp nhỏ và vừa | TT-KTDNNV (có dự thảo thay thế, phải kiểm tra) |
