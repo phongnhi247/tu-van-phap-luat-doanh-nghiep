@@ -63,7 +63,7 @@ Công văn: dưới số và ký hiệu có dòng "V/v [trích yếu]"; phần "
 | Nội quy lao động | Không có mẫu, nhưng phải đăng ký nếu thuộc diện | BLLD, ND-QHLD |
 | Nghị quyết, biên bản họp HĐTV hoặc ĐHĐCĐ (tăng vốn, chuyển nhượng, thay người đại diện, giải thể) | Không | LDN, LDN-SD25, điều lệ |
 | Hồ sơ đăng ký, thông báo thay đổi doanh nghiệp | **Có**, theo mẫu ban hành kèm văn bản hướng dẫn đăng ký doanh nghiệp | ND-DKDN, ND-DKDN-SD. Chỉ hướng dẫn điền |
-| Tờ khai thuế, hồ sơ khai bổ sung, đề nghị hoàn thuế | **Có**, theo phụ lục TT-QLT | TT-QLT, ND-QLT. Chỉ hướng dẫn điền |
+| Tờ khai thuế, hồ sơ khai bổ sung, đề nghị hoàn thuế | **Có**, theo phụ lục TT-QLT | TT-QLT, ND-QLT. Chỉ hướng dẫn điền. Mẫu lấy trong phần mềm HTKK hoặc khi khai trên cổng thuế điện tử; link ở `nhom-05-thue-hoa-don-ke-toan.md` mục 3.8 |
 | Công văn giải trình gửi cơ quan thuế hoặc đoàn thanh tra, kiểm tra | Không | LQLT, ND-QLT. Giọng văn trung thực, dẫn chứng từ; không thừa nhận vi phạm thay doanh nghiệp. Nếu có dấu hiệu ở `nguong-chuyen-luat-su.md`, khuyến nghị luật sư xem trước khi gửi |
 | Văn bản giải trình vi phạm hành chính | Không | LXLVPHC, ND-XLVPHC. Chú ý thời hạn giải trình |
 | Đơn khiếu nại quyết định hành chính | Có thể có mẫu, phải tra | LKN, ND-KN, ND-KN-SD |

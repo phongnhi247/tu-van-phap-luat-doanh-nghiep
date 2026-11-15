@@ -61,6 +61,32 @@ Công cụ đọc web trả về PDF dạng nhị phân và nền tảng cho ch�
 
 Không lấy được toàn văn từ bất kỳ nguồn nào: gắn nhãn ⚠️ và không nêu con số.
 
+### Trang chính thống ngành thuế
+
+Đã mở thử ngày 15/11/2026. Trước khi đưa link cho người dùng, mở lại trang chủ Cục Thuế để xem có thông báo đổi cổng hay không.
+
+| Trang | Địa chỉ | Dùng để |
+|---|---|---|
+| Cổng thông tin Cục Thuế (Bộ Tài chính) | https://www.gdt.gov.vn | Văn bản thuế, công văn hướng dẫn, thông báo đổi mẫu, đổi hệ thống, mục hỏi đáp |
+| Hỗ trợ kê khai: phần mềm HTKK | https://www.gdt.gov.vn/wps/portal/home/hotrokekhai | Tải phần mềm HTKK có sẵn mẫu tờ khai theo quy định hiện hành; xem phiên bản mới nhất và nội dung nâng cấp |
+| Thuế điện tử cho doanh nghiệp | https://thuedientu.gdt.gov.vn | Khai, nộp hồ sơ thuế, nộp tiền thuế, tra cứu hồ sơ đã nộp |
+| Thuế điện tử cho cá nhân | https://canhan.gdt.gov.vn | Cá nhân khai, quyết toán TNCN (ngoài ra có ứng dụng eTax Mobile) |
+| Cổng cho nhà cung cấp nước ngoài | https://etaxvn.gdt.gov.vn/nccnn | Chỉ dành cho nhà cung cấp nước ngoài không có cơ sở thường trú tại Việt Nam. Không hướng doanh nghiệp trong nước vào cổng này |
+| Dịch vụ công ngành thuế | https://dichvucong.gdt.gov.vn | Thực hiện thủ tục hành chính thuế trực tuyến |
+| Cổng hóa đơn điện tử | https://hoadondientu.gdt.gov.vn | Tra cứu hóa đơn, quản lý hóa đơn đã lập và đã nhận |
+| Tra cứu thông tin hóa đơn | https://tracuuhoadon.gdt.gov.vn | Kiểm tra hóa đơn đầu vào |
+| Tra cứu người nộp thuế | https://tracuunnt.gdt.gov.vn | Kiểm tra mã số thuế, tên, tình trạng hoạt động của đối tác trước khi nhận hóa đơn hoặc ký hợp đồng |
+| Bộ Tài chính | https://www.mof.gov.vn | Văn bản và mục hỏi đáp chính sách của Bộ |
+
+**Không ghi link dạng phiên làm việc** (đường dẫn chứa `!ut/p/`, `oid:Z6_`, `EstablishSession`). Các link này hết hạn hoặc đổi khi trang sắp xếp lại. Chỉ dùng các địa chỉ trong bảng trên, và hướng dẫn người dùng tìm tiếp từ đó (ví dụ "vào gdt.gov.vn, mục Văn bản, tìm số hiệu ...").
+
+**Cách dùng các loại nội dung trên trang Cục Thuế:**
+
+- **Văn bản quy phạm** (luật, nghị định, thông tư) đăng trên gdt.gov.vn hoặc mof.gov.vn: là nguồn nhóm 2 theo `nguyen-tac-can-cu.md`. File có chữ ký số thì coi như nhóm 1.
+- **Công văn hướng dẫn** của Cục Thuế hoặc Bộ Tài chính: **không phải** văn bản quy phạm pháp luật. Được trích để cho biết cách cơ quan thuế đang hiểu và áp dụng, nhưng nhãn tối đa ⚠️, ghi rõ "công văn, không phải văn bản quy phạm". Công văn trả lời riêng cho một doanh nghiệp thì nói rõ là trả lời trường hợp cụ thể, không mặc nhiên áp dụng cho doanh nghiệp khác. Khi công văn khác với nghị định hoặc thông tư thì theo nghị định, thông tư và nêu mâu thuẫn.
+- **Mục hỏi đáp, cẩm nang**: chỉ dùng để tìm từ khóa và số hiệu, như các trang hỏi đáp khác. Không dùng làm căn cứ.
+- **Mẫu tờ khai**: số hiệu mẫu và nội dung bắt buộc lấy theo phụ lục của TT-QLT. Phần mềm HTKK và cổng thuế điện tử là nơi **lấy và nộp** mẫu đó. Không tự dựng mẫu.
+
 ## 3. Đọc số hiệu văn bản
 
 | Dạng | Loại văn bản |

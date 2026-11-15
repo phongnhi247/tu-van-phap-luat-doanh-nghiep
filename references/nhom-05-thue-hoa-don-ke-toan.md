@@ -93,6 +93,20 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 Không còn thu từ 01/01/2026. Nghĩa vụ phát sinh các năm trước vẫn phải hoàn thành. Căn cứ: NQ-KTTN.
 
+### 3.8 Nơi lấy mẫu, nơi nộp, nơi tra cứu
+
+Khi checklist có bước "lấy mẫu", "nộp hồ sơ" hoặc "kiểm tra hóa đơn", ghi thẳng link. Danh sách đầy đủ và quy tắc dùng: `tra-cuu-va-trich-dan.md`, mục Trang chính thống ngành thuế.
+
+| Việc | Ở đâu |
+|---|---|
+| Lấy mẫu tờ khai theo quy định hiện hành | Phần mềm HTKK: https://www.gdt.gov.vn/wps/portal/home/hotrokekhai (nhắc người dùng cập nhật phiên bản mới nhất trước khi lập tờ khai) |
+| Doanh nghiệp nộp hồ sơ khai thuế, nộp tiền thuế | https://thuedientu.gdt.gov.vn |
+| Cá nhân tự quyết toán TNCN | https://canhan.gdt.gov.vn hoặc ứng dụng eTax Mobile |
+| Thủ tục hành chính thuế trực tuyến | https://dichvucong.gdt.gov.vn |
+| Tra cứu, kiểm tra hóa đơn đầu vào | https://hoadondientu.gdt.gov.vn, https://tracuuhoadon.gdt.gov.vn |
+| Kiểm tra mã số thuế, tình trạng hoạt động của đối tác | https://tracuunnt.gdt.gov.vn |
+| Văn bản thuế, công văn hướng dẫn, thông báo đổi hệ thống | https://www.gdt.gov.vn |
+
 ## 4. Điểm dễ sai
 
 - Áp dụng văn bản quản lý thuế cũ cho kỳ phát sinh từ 01/07/2026, hoặc ngược lại. Căn cứ: LQLT, ND-QLT, điều khoản chuyển tiếp.
@@ -101,6 +115,9 @@ Không còn thu từ 01/01/2026. Nghĩa vụ phát sinh các năm trước vẫn
 - Đưa chi phí không có hóa đơn, chứng từ hợp lệ vào chi phí được trừ. Căn cứ: LTNDN, ND-TNDN.
 - Vẫn lập báo cáo tài chính theo thông tư kế toán cũ cho năm tài chính 2026. Căn cứ: TT-KTDN.
 - Doanh nghiệp có giao dịch liên kết không kê khai theo nghị định mới, hoặc dùng ngưỡng miễn lập hồ sơ cũ. Căn cứ: ND-GDLK.
+- Nhận hóa đơn của đối tác đã ngừng hoạt động hoặc bỏ địa chỉ kinh doanh mà không tra cứu tình trạng mã số thuế trước. Nơi tra: mục 3.8.
+- Dùng phiên bản HTKK cũ nên tờ khai sai mẫu. Nơi tải bản mới: mục 3.8.
+- Coi công văn trả lời riêng cho doanh nghiệp khác là căn cứ bắt buộc. Công văn không phải văn bản quy phạm; xem `tra-cuu-va-trich-dan.md`.
 - Tính tiền phạt theo bài báo mà không đọc văn bản hợp nhất hoặc các văn bản sửa đổi mới nhất của ND-XPT.
 
 ## 5. Khi nào chuyển sang luật sư

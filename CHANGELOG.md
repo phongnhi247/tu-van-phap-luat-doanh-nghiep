@@ -1,5 +1,11 @@
 # Nhật ký thay đổi
 
+## 1.2.7 — 15/11/2026
+
+- Thêm link các trang chính thống ngành thuế (đã mở thử ngày 15/11/2026): cổng Cục Thuế, phần mềm HTKK, thuế điện tử cho doanh nghiệp và cá nhân, dịch vụ công thuế, cổng hóa đơn điện tử, tra cứu hóa đơn, tra cứu người nộp thuế, Bộ Tài chính. Ghi chú cổng `etaxvn` chỉ dành cho nhà cung cấp nước ngoài.
+- Quy tắc dùng nội dung trên trang Cục Thuế: văn bản quy phạm là nguồn nhóm 2; công văn hướng dẫn không phải văn bản quy phạm, nhãn tối đa ⚠️; mục hỏi đáp không dùng làm căn cứ; không ghi link dạng phiên làm việc.
+- Nhóm 5: thêm mục 3.8 (nơi lấy mẫu, nơi nộp, nơi tra cứu) và 3 điểm dễ sai. Soạn văn bản: tờ khai thuế trỏ tới HTKK và cổng thuế điện tử.
+
 ## 1.2.6 — 15/11/2026
 
 - Sửa lỗi: file mẫu `references/ho-so-doanh-nghiep-mau.md` bị `.gitignore` chặn nên thiếu trong kho và các bản zip trước. Đã thêm ngoại lệ để file được đưa vào kho.

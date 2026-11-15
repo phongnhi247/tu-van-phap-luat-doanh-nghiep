@@ -7,7 +7,7 @@
 Theo thứ tự ưu tiên:
 
 1. **vbpl.vn** (Cơ sở dữ liệu quốc gia về văn bản pháp luật) và **congbao.chinhphu.vn** (Công báo).
-2. **chinhphu.vn** và **vanban.chinhphu.vn** (Cổng Thông tin điện tử Chính phủ), cùng cổng thông tin của các bộ (Bộ Tài chính, Bộ Nội vụ, Bộ Công Thương...).
+2. **chinhphu.vn** và **vanban.chinhphu.vn** (Cổng Thông tin điện tử Chính phủ), cùng cổng thông tin của các bộ (Bộ Tài chính, Bộ Nội vụ, Bộ Công Thương...). Với văn bản thuế, cổng Cục Thuế **gdt.gov.vn** thuộc nhóm này. Công văn hướng dẫn trên các cổng này không phải văn bản quy phạm, nhãn tối đa ⚠️ (xem `tra-cuu-va-trich-dan.md`, mục Trang chính thống ngành thuế).
 3. **thuvienphapluat.vn** và **luatvietnam.vn**: được dùng khi trang hiển thị toàn văn và tình trạng hiệu lực.
 
 **File có chữ ký số** của Văn phòng Chính phủ, Công báo hoặc bộ ban hành được coi như nguồn nhóm 1, **dù tải từ đâu** (cổng tỉnh, trang phần mềm, trang đăng lại), miễn là đã thấy thông tin chữ ký trên file. Khi trích, ghi rõ "file ký số, tải tại <trang>".
