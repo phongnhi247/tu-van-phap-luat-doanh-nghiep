@@ -36,6 +36,7 @@ Trước khi trả lời câu hỏi đầu tiên:
 | Dán hoặc gửi hợp đồng, nội quy, quyết định, điều lệ và nhờ xem | Rà soát văn bản | `ra-soat-van-ban.md` |
 | "cập nhật căn cứ", "kiểm tra văn bản mới" | Cập nhật danh mục | `cap-nhat-can-cu.md` |
 | "soạn giúp", "viết quyết định / biên bản / công văn / thông báo" | Soạn văn bản theo mẫu | `soan-van-ban.md` |
+| "chi phí được trừ", "cần chứng từ gì", "đề nghị thanh toán", "tạm ứng", "hoàn ứng", "bảng kê", "chi lương, thưởng, phúc lợi", "thuê cá nhân", "khấu trừ 10%", "nghiệm thu", "thanh lý hợp đồng", "đối chiếu công nợ", "hủy hàng" | Bộ chứng từ chi phí | `chung-tu-chi-phi.md` + nhóm 5 |
 
 Ở mọi chế độ, khi thấy dấu hiệu nguy hiểm thì đọc `references/nguong-chuyen-luat-su.md` và cảnh báo.
 

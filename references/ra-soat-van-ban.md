@@ -86,3 +86,24 @@ Mỗi dòng là một điểm cần kiểm tra. Nội dung chi tiết phải tra
 - [ ] Quyền ưu tiên, hạn chế chuyển nhượng phù hợp với loại hình — LDN
 - [ ] Người đại diện theo pháp luật: số lượng, quyền hạn, phân chia trách nhiệm — LDN
 - [ ] Phù hợp với các sửa đổi năm 2025 (chủ sở hữu hưởng lợi...) — LDN-SD25
+
+### 3.6 Biên bản giao nhận, nghiệm thu, thanh lý, đối chiếu công nợ
+
+- [ ] Ghi số, ngày của hợp đồng hoặc đơn hàng làm căn cứ — LKT
+- [ ] Người ký hai bên có thẩm quyền hoặc được ủy quyền; ghi rõ họ tên, chức danh — LKT, BLDS
+- [ ] Giao nhận, nghiệm thu: thời điểm, địa điểm, số lượng, chủng loại, chất lượng so với hợp đồng; tồn tại, thời hạn khắc phục (nếu có) — BLDS, LTM
+- [ ] Mốc chuyển rủi ro và mốc phát sinh nghĩa vụ thanh toán thể hiện rõ — BLDS Điều 440, 441; LTM Điều 87
+- [ ] Đối chiếu công nợ: số dư nợ tại ngày chốt, bên nợ xác nhận rõ ràng số nợ (để thời hiệu bắt đầu lại) — BLDS Điều 157
+- [ ] Thanh lý: nghĩa vụ đã hoàn thành, số tiền còn phải trả, hạn trả, các nghĩa vụ còn lại sau thanh lý (bảo hành, bảo mật) — BLDS
+- [ ] Khớp với hóa đơn đã lập (thời điểm lập hóa đơn) và chứng từ thanh toán — ND-HDDT, ND-TNDN
+
+### 3.7 Quy chế tài chính, quy chế lương thưởng
+
+- [ ] Ghi cụ thể điều kiện hưởng và mức hưởng của từng khoản lương, thưởng, phụ cấp — ND-TNDN Điều 10 khoản 8 điểm b
+- [ ] Công tác phí: mức khoán, chứng từ cần nộp; cho phép nhân viên thanh toán bằng phương thức không dùng tiền mặt rồi được hoàn (nếu áp dụng) — ND-TNDN Điều 10 khoản 8 điểm h
+- [ ] Ủy quyền hoặc cho phép nhân viên mua hộ, thanh toán hộ — ND-TNDN Điều 9 khoản 1 điểm c2
+- [ ] Phúc lợi, trang phục, đào tạo, bảo hiểm hưu trí bổ sung: điều kiện, mức chi, không vượt mức khống chế — ND-TNDN Điều 9, 10
+- [ ] Thưởng sáng kiến: có quy định và hội đồng nghiệm thu — ND-TNDN Điều 10 khoản 8 điểm e
+- [ ] Tạm ứng: đối tượng, hạn mức, hạn hoàn ứng, xử lý quá hạn (khuyến nghị quản trị)
+- [ ] Nếu doanh nghiệp tự thiết kế mẫu chứng từ: có quy chế hạch toán kế toán theo TT-KTDN Điều 9
+- [ ] Không trái hợp đồng lao động, thỏa ước, nội quy — BLLD

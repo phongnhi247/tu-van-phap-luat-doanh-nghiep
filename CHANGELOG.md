@@ -1,5 +1,18 @@
 # Nhật ký thay đổi
 
+## 1.3.0 — 15/11/2026
+
+Chủ đề: bộ chứng từ chứng minh chi phí được trừ.
+
+- **Tính năng mới `chung-tu-chi-phi.md`:** ba điều kiện chi phí được trừ; ngưỡng 05 triệu đồng thanh toán không dùng tiền mặt và các trường hợp mua nhiều lần trong ngày, nhân viên trả hộ, đi công tác, mua chịu; mua hàng không có hóa đơn và bảng kê; chi lương, thưởng, phúc lợi, trang phục, bảo hiểm hưu trí, đào tạo; chi cho cá nhân không có hợp đồng lao động từ 03 tháng (khấu trừ 10% từ 05 triệu đồng/lần, cam kết), ủy quyền quyết toán TNCN; mẫu chứng từ nội bộ (đề nghị thanh toán, tạm ứng, hoàn ứng) và nội dung tối thiểu của chứng từ; giao nhận, nghiệm thu, thanh lý, đối chiếu công nợ; hủy hàng, hủy tài sản, kiểm kê; checklist nhanh cho một khoản chi.
+- **Kho trích dẫn:** thêm nguyên văn từ file ký số của ND-TNDN (Điều 9, 10), ND-TNCN (Điều 50, 51, 67, 69), TT-KTDN (Điều 8, 9, 10); LGTGT Điều 14; LKT Điều 16, 18, 19, 41 (bản đăng lại, ⚠️); BLDS Điều 157, 429, 440, 441, 519 và LTM Điều 44, 87, 319 (bản đăng lại, ⚠️).
+- **Danh mục:** nâng ND-TNDN, TT-KTDN lên ✅ với link file ký số; ND-TNCN xác nhận hiệu lực 01/07/2026; cập nhật nguồn LKT, LTM. Baseline 15/11/2026.
+- **Soạn văn bản:** thêm 9 dòng (đề nghị thanh toán, tạm ứng, bảng kê, cam kết và ủy quyền quyết toán TNCN, chứng từ khấu trừ, hợp đồng dịch vụ với cá nhân, quy chế tài chính và lương thưởng, quyết định cử công tác, biên bản giao nhận, nghiệm thu, thanh lý, đối chiếu công nợ, kiểm kê, hủy hàng).
+- **Rà soát văn bản:** thêm checklist 3.6 (biên bản giao nhận, nghiệm thu, thanh lý, đối chiếu công nợ) và 3.7 (quy chế tài chính, lương thưởng).
+- **Nhóm 5:** thêm mục 3.7a và 3 điểm dễ sai. SKILL.md: thêm dòng định tuyến.
+- **Bộ kiểm thử:** thêm câu 21–26. Các câu mới chưa chạy bằng phiên làm việc độc lập.
+- Bản Gem: `cac-tinh-nang.md` gộp thêm `chung-tu-chi-phi.md`.
+
 ## 1.2.7 — 15/11/2026
 
 - Thêm link các trang chính thống ngành thuế (đã mở thử ngày 15/11/2026): cổng Cục Thuế, phần mềm HTKK, thuế điện tử cho doanh nghiệp và cá nhân, dịch vụ công thuế, cổng hóa đơn điện tử, tra cứu hóa đơn, tra cứu người nộp thuế, Bộ Tài chính. Ghi chú cổng `etaxvn` chỉ dành cho nhà cung cấp nước ngoài.

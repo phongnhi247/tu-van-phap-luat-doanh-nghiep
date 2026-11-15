@@ -93,6 +93,10 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 Không còn thu từ 01/01/2026. Nghĩa vụ phát sinh các năm trước vẫn phải hoàn thành. Căn cứ: NQ-KTTN.
 
+### 3.7a Chứng từ chứng minh chi phí được trừ
+
+Điều kiện chi phí được trừ, ngưỡng thanh toán không dùng tiền mặt, chi lương thưởng phúc lợi, chi cho cá nhân và khấu trừ TNCN, mua hàng không có hóa đơn, đề nghị thanh toán, tạm ứng, hoàn ứng, nghiệm thu, đối chiếu công nợ, hủy hàng: đọc `chung-tu-chi-phi.md`. Căn cứ: LTNDN, ND-TNDN, LGTGT, ND-GTGT, LTNCN, ND-TNCN, LKT, TT-KTDN.
+
 ### 3.8 Nơi lấy mẫu, nơi nộp, nơi tra cứu
 
 Khi checklist có bước "lấy mẫu", "nộp hồ sơ" hoặc "kiểm tra hóa đơn", ghi thẳng link. Danh sách đầy đủ và quy tắc dùng: `tra-cuu-va-trich-dan.md`, mục Trang chính thống ngành thuế.
@@ -113,6 +117,9 @@ Khi checklist có bước "lấy mẫu", "nộp hồ sơ" hoặc "kiểm tra hó
 - Xử lý hóa đơn sai theo nghị định cũ sau 01/07/2026. Căn cứ: ND-HDDT.
 - Khấu trừ thuế GTGT cho hóa đơn có giá trị lớn mà không có chứng từ thanh toán không dùng tiền mặt. Căn cứ: LGTGT, ND-GTGT.
 - Đưa chi phí không có hóa đơn, chứng từ hợp lệ vào chi phí được trừ. Căn cứ: LTNDN, ND-TNDN.
+- Dùng ngưỡng thanh toán không dùng tiền mặt của văn bản cũ cho chi phí TNDN từ kỳ tính thuế 2025. Ngưỡng hiện hành và các trường hợp nhân viên trả hộ: `chung-tu-chi-phi.md` mục 1.
+- Chi lương, thưởng mà hợp đồng lao động hoặc quy chế không ghi điều kiện, mức hưởng. Căn cứ: ND-TNDN.
+- Trả thù lao cho cá nhân không có hợp đồng lao động từ 03 tháng mà không khấu trừ 10% theo ngưỡng mới từ 01/07/2026. Căn cứ: ND-TNCN.
 - Vẫn lập báo cáo tài chính theo thông tư kế toán cũ cho năm tài chính 2026. Căn cứ: TT-KTDN.
 - Doanh nghiệp có giao dịch liên kết không kê khai theo nghị định mới, hoặc dùng ngưỡng miễn lập hồ sơ cũ. Căn cứ: ND-GDLK.
 - Nhận hóa đơn của đối tác đã ngừng hoạt động hoặc bỏ địa chỉ kinh doanh mà không tra cứu tình trạng mã số thuế trước. Nơi tra: mục 3.8.

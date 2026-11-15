@@ -69,6 +69,15 @@ Công văn: dưới số và ký hiệu có dòng "V/v [trích yếu]"; phần "
 | Đơn khiếu nại quyết định hành chính | Có thể có mẫu, phải tra | LKN, ND-KN, ND-KN-SD |
 | Thông báo hoặc đăng ký chương trình khuyến mại | **Có** | ND-KM. Chỉ hướng dẫn điền |
 | Hợp đồng mua bán hàng hóa, dịch vụ | Không | LTM, BLDS. Checklist ở `ra-soat-van-ban.md` mục 3.4 |
+| Giấy đề nghị thanh toán, giấy đề nghị tạm ứng, giấy thanh toán tiền tạm ứng, phiếu thu, phiếu chi | Không. Mẫu tại Phụ lục I TT-KTDN là mẫu tham khảo; doanh nghiệp được tự thiết kế nhưng phải đủ nội dung LKT Điều 16 và ban hành quy chế hạch toán kế toán | TT-KTDN Điều 9, LKT. Nội dung tối thiểu: `chung-tu-chi-phi.md` mục 5 |
+| Bảng kê thu mua hàng hóa, dịch vụ không có hóa đơn | Có mẫu theo văn bản hướng dẫn thuế, phải tra mẫu hiện hành | ND-TNDN Điều 9 khoản 1 điểm b. Chỉ hướng dẫn điền |
+| Bản cam kết thu nhập để tạm chưa khấu trừ TNCN; giấy ủy quyền quyết toán TNCN | **Có**, theo mẫu của văn bản hướng dẫn quản lý thuế | ND-TNCN Điều 50, 51; TT-QLT. Chỉ hướng dẫn lấy mẫu và điền |
+| Chứng từ khấu trừ thuế TNCN | **Có**, chứng từ điện tử theo quy định về hóa đơn, chứng từ | ND-HDDT, TT-HDDT. Chỉ hướng dẫn |
+| Hợp đồng dịch vụ, khoán việc với cá nhân | Không | BLDS (hợp đồng dịch vụ); ghi rõ việc khấu trừ TNCN theo ND-TNCN Điều 50 |
+| Quy chế tài chính, quy chế lương thưởng, quy chế công tác phí | Không | ND-TNDN Điều 9, 10 dẫn chiếu tới các quy chế này. Phải ghi cụ thể điều kiện hưởng, mức hưởng; cho phép nhân viên thanh toán hộ (nếu muốn áp dụng) |
+| Quyết định cử đi công tác | Không | ND-TNDN Điều 10 khoản 8 điểm h |
+| Biên bản giao nhận, biên bản nghiệm thu, biên bản thanh lý hợp đồng, biên bản đối chiếu công nợ | Không | BLDS, LTM. Checklist ở `ra-soat-van-ban.md` mục 3.6 |
+| Biên bản kiểm kê, quyết định hủy, biên bản hủy hàng hoặc tài sản | Không bắt buộc; có mẫu tham khảo tại Phụ lục I TT-KTDN cho kiểm kê | ND-TNDN Điều 9 khoản 2 điểm i; `chung-tu-chi-phi.md` mục 7 |
 | Thông báo vi phạm dữ liệu cá nhân, chính sách xử lý dữ liệu | Có thể có mẫu, phải tra | LBVDLCN, ND-BVDLCN |
 
 ## 4. Những việc không làm

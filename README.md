@@ -29,7 +29,7 @@ Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
 - **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
 - **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
 
-Skill đã đạt 20 câu kiểm thử, kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
+Bộ kiểm thử có 26 câu (20 câu đã chạy đạt; 6 câu mới của bản 1.3 chưa chạy bằng phiên làm việc độc lập), kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
 
 **Dành cho:** chủ doanh nghiệp, kế toán, nhân sự, nhân viên làm hồ sơ, và người tư vấn cần một bản nháp có căn cứ để kiểm tra lại.
 
@@ -80,6 +80,14 @@ Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên
   - Có thể góp ý cả phần trình bày (lề, phông, đánh số, chính tả, khung chữ ký).
 - **Bạn nhận được:** bảng lỗi gồm vị trí, vấn đề, căn cứ trích dẫn, mức rủi ro (Cao, Trung bình, Thấp), đề xuất sửa. Kèm danh sách nội dung bắt buộc còn thiếu. Skill không chép lại thông tin cá nhân (số CCCD, lương...) trong câu trả lời.
 - **Giới hạn:** skill chỉ ra lỗi và cách sửa. Bạn yêu cầu thì skill mới viết lại điều khoản hoặc cả văn bản.
+
+#### 3a. Bộ chứng từ chứng minh chi phí được trừ (mới ở bản 1.3)
+
+- **Dùng khi:** kế toán cần biết một khoản chi có được tính vào chi phí khi tính thuế TNDN không, và phải có đủ giấy tờ gì.
+- **Cách gọi:** "Nhân viên quẹt thẻ cá nhân mua hàng cho công ty rồi xin hoàn, có được tính chi phí không?", "Thuê cá nhân làm dịch vụ 7 triệu có phải khấu trừ thuế không?", "Giấy tạm ứng có phải dùng mẫu của Bộ Tài chính không?"
+- **Skill làm gì:** đối chiếu với nghị định thuế TNDN, nghị định thuế TNCN và thông tư chế độ kế toán mới (đọc nguyên văn từ file có chữ ký số), cùng Luật Kế toán, Bộ luật Dân sự, Luật Thương mại.
+- **Bạn nhận được:** điều kiện được trừ, ngưỡng thanh toán không dùng tiền mặt và các trường hợp nhân viên trả hộ, đi công tác; hồ sơ cho chi lương, thưởng, phúc lợi, trang phục; khấu trừ 10% khi trả cho cá nhân, bản cam kết, ủy quyền quyết toán; bảng kê khi mua hàng không có hóa đơn; bộ giấy đề nghị thanh toán, tạm ứng, hoàn ứng; biên bản giao nhận, nghiệm thu, thanh lý, đối chiếu công nợ; hồ sơ hủy hàng, kiểm kê; checklist nhanh cho một khoản chi.
+- **Giới hạn:** số hiệu các mẫu cụ thể (bảng kê, cam kết, giấy ủy quyền) phải tra văn bản hiện hành, skill không nêu theo trí nhớ. Chế độ kế toán doanh nghiệp nhỏ và vừa chưa được đọc nguyên văn.
 
 #### 4. Soạn văn bản theo chuẩn Nghị định 30/2020
 
@@ -140,7 +148,7 @@ Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên
 | 2. Quản trị và vốn | Chuyển nhượng vốn và quyền ưu tiên mua; tăng, giảm vốn điều lệ; họp và biểu quyết HĐTV, ĐHĐCĐ; thay người đại diện theo pháp luật; tạm ngừng kinh doanh | "Thành viên công ty TNHH muốn bán vốn cho người ngoài thì phải làm gì?" |
 | 3. Hợp đồng và thương mại | Phạt vi phạm, bồi thường, bất khả kháng; hợp đồng mẫu với người tiêu dùng và các điều khoản bị cấm; thương mại điện tử; quảng cáo, người có ảnh hưởng (KOL); khuyến mại; hợp đồng điện tử, chữ ký số; cạnh tranh | "Hợp đồng mẫu ghi 'không hoàn tiền trong mọi trường hợp' có hiệu lực không?" |
 | 4. Lao động, BHXH, an toàn lao động | Hợp đồng lao động, thử việc; lương tối thiểu 2026 và từ 2027; kỷ luật, sa thải, chấm dứt hợp đồng; BHXH, BHYT, BHTN và mức phạt chậm đóng từ 10/09/2026; lao động nước ngoài; hợp đồng lao động điện tử; huấn luyện an toàn lao động | "Nhân viên nghỉ không phép 6 ngày, sa thải thế nào cho đúng trình tự?" |
-| 5. Thuế, hóa đơn, kế toán | Hạn nộp tờ khai tháng, quý, năm, quyết toán; khai TNCN theo quý từ 01/07/2026; thuế GTGT, khấu trừ, hoàn thuế; thuế TNDN, chi phí được trừ, miễn thuế cho doanh nghiệp doanh thu nhỏ; hóa đơn điện tử và xử lý sai sót; xử phạt thuế, hóa đơn; giao dịch liên kết; chế độ kế toán mới từ 2026; khai bổ sung khi đang bị thanh tra | "Xuất hóa đơn sai đơn giá, khách đã kê khai rồi, xử lý sao?" |
+| 5. Thuế, hóa đơn, kế toán | Hạn nộp tờ khai tháng, quý, năm, quyết toán; khai TNCN theo quý từ 01/07/2026; thuế GTGT, khấu trừ, hoàn thuế; thuế TNDN, chi phí được trừ và bộ chứng từ đi kèm (đề nghị thanh toán, tạm ứng, hoàn ứng, bảng kê, chi lương, chi cho cá nhân), miễn thuế cho doanh nghiệp doanh thu nhỏ; hóa đơn điện tử và xử lý sai sót; xử phạt thuế, hóa đơn; giao dịch liên kết; chế độ kế toán mới từ 2026; khai bổ sung khi đang bị thanh tra | "Xuất hóa đơn sai đơn giá, khách đã kê khai rồi, xử lý sao?" |
 | 6. Tuân thủ chuyên ngành | Bảo vệ dữ liệu cá nhân (luật mới từ 2026); đăng ký và bảo vệ nhãn hiệu; giấy phép môi trường; phòng cháy, chữa cháy | "Công ty thu thập dữ liệu khách hàng cần làm hồ sơ gì?" |
 | 7. Tranh chấp và rút lui | Khởi kiện tại Tòa án nhân dân khu vực, trọng tài, hòa giải; khiếu nại, khởi kiện quyết định hành chính; thanh tra, xử phạt hành chính; thi hành án dân sự (luật mới từ 01/07/2026); giải thể; phục hồi, phá sản | "Công ty còn nợ thì có giải thể được không?" |
 | 8. Hải quan và xuất nhập khẩu | Thủ tục thông quan; doanh nghiệp chế xuất mua bán với nội địa; xuất nhập khẩu tại chỗ; hàng cấm, hạn chế xuất nhập khẩu (quy định mới từ 9/2026); thuế xuất nhập khẩu; xử phạt hải quan (nghị định mới từ 01/07/2026) | "Doanh nghiệp chế xuất bán hàng cho công ty trong nước làm thủ tục gì?" |
@@ -280,6 +288,7 @@ tu-van-phap-luat-doanh-nghiep/
 │   ├── nhom-01 ... nhom-08     8 nhóm nghiệp vụ (chỉ ghi mã căn cứ)
 │   ├── lich-tuan-thu.md, ra-soat-van-ban.md, ho-so-doanh-nghiep-mau.md
 │   ├── nguong-chuyen-luat-su.md, cap-nhat-can-cu.md, soan-van-ban.md
+│   ├── chung-tu-chi-phi.md     Bộ chứng từ chứng minh chi phí được trừ
 └── tests/bo-cau-hoi-kiem-thu.md
 ```
 
@@ -311,7 +320,7 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    $s = "tu-van-phap-luat-doanh-nghiep\references"; $g = "gem-v$v"; New-Item -ItemType Directory -Force $g | Out-Null
    Copy-Item "$s\danh-muc-can-cu.md","$s\trich-dan-xac-minh.md","$s\nguyen-tac-can-cu.md","$s\khung-tra-loi.md","$s\tra-cuu-va-trich-dan.md" $g
    Get-Content -Encoding utf8 "$s\nhom-0*.md" | Set-Content -Encoding utf8 "$g\cac-nhom-nghiep-vu.md"
-   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
+   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md","$s\chung-tu-chi-phi.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
    Compress-Archive -Path "$g\*" -DestinationPath "tu-van-phap-luat-doanh-nghiep-gem-v$v.zip" -Force
    ```
 6. **Phân phối.** Nếu dùng git: commit, gắn tag `v<phiên bản>`, đẩy lên kho và đính kèm 2 file zip vào mục Releases. Nếu không dùng git: gửi 2 file zip kèm nội dung CHANGELOG. Cập nhật Gem chia sẻ nếu có.
