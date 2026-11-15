@@ -38,6 +38,9 @@ Trước khi trả lời câu hỏi đầu tiên:
 | "cập nhật căn cứ", "kiểm tra văn bản mới" | Cập nhật danh mục | `cap-nhat-can-cu.md` |
 | "soạn giúp", "viết quyết định / biên bản / công văn / thông báo" | Soạn văn bản theo mẫu | `soan-van-ban.md` |
 | "chi phí được trừ", "cần chứng từ gì", "đề nghị thanh toán", "tạm ứng", "hoàn ứng", "bảng kê", "chi lương, thưởng, phúc lợi", "thuê cá nhân", "khấu trừ 10%", "nghiệm thu", "thanh lý hợp đồng", "đối chiếu công nợ", "hủy hàng" | Bộ chứng từ chi phí | `chung-tu-chi-phi.md` + nhóm 5 |
+| "mở khóa học", "khóa học online", "coaching", "gói thành viên", "học phí", "chứng chỉ", "hoàn học phí", "học viên", "bán hàng online", "bán trên sàn", "COD", "hoàn hàng", "quảng cáo khóa học", "cam kết đầu ra", "cảm nhận học viên", "hoa hồng giới thiệu", "affiliate" | Kinh doanh khóa học và bán hàng trực tuyến | `ban-hang-truc-tuyen.md` + nhóm 3, 5 (thêm nhóm 1, 6 khi hỏi giấy phép, dữ liệu, bản quyền) |
+
+Câu hỏi về doanh nghiệp đào tạo, khóa học, coaching: luôn nêu các điểm liên quan trong mục D "Những điểm dễ có vấn đề" của `ban-hang-truc-tuyen.md`, kể cả khi người dùng không hỏi trực tiếp.
 
 Câu hỏi về đối chiếu công nợ, nghiệm thu, thanh lý mà trọng tâm là đòi nợ, thời hiệu, khởi kiện thì đọc thêm nhóm 3 và nhóm 7; nhóm 5 chỉ cần khi có câu hỏi về thuế, chứng từ.
 

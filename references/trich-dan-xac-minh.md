@@ -262,3 +262,165 @@ BLDS đọc từ bản tiếng Việt trên WIPO Lex; LTM đọc từ văn bản
 - **LTM Điều 44 khoản 1–2:** "Trường hợp các bên có thỏa thuận để bên mua hoặc đại diện của bên mua tiến hành kiểm tra hàng hóa trước khi giao hàng thì bên bán phải bảo đảm cho bên mua hoặc đại diện của bên mua có điều kiện tiến hành việc kiểm tra. 2. Trừ trường hợp có thỏa thuận khác, bên mua hoặc đại diện của bên mua trong trường hợp quy định tại khoản 1 Điều này phải kiểm tra hàng hóa trong một thời gian ngắn nhất mà hoàn cảnh thực tế cho phép; [...]"
 - **LTM Điều 87:** "Trường hợp không có thỏa thuận và giữa các bên không có bất kỳ thói quen nào về việc thanh toán thì thời hạn thanh toán là thời điểm việc cung ứng dịch vụ được hoàn thành."
 - **LTM Điều 319:** "Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp bị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này."
+
+## Thuế, hóa đơn khi bán khóa học, dịch vụ
+
+Các mục dưới đây phục vụ câu hỏi về thuế GTGT, hóa đơn của dịch vụ đào tạo, khóa học, coaching và dịch vụ thu tiền trước.
+
+## LGTGT — Điều 5, 7, 8, 9 và NQ-GTGT-GIAM. Văn bản hợp nhất năm 2026, file PDF trên datafiles.chinhphu.vn. Đối chiếu 15/11/2026. ✅
+
+- **Điều 5 khoản 13 (không chịu thuế):** "Hoạt động dạy học, dạy nghề theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp."
+- **Điều 7 khoản 1 điểm c đoạn 2 (khuyến mại):** "Đối với hàng hóa, dịch vụ dùng để khuyến mại theo quy định của pháp luật về thương mại, giá tính thuế được xác định bằng không (0);"
+- **Điều 8 khoản 1 điểm b (thời điểm xác định thuế):** "Đối với dịch vụ là thời điểm hoàn thành việc cung cấp dịch vụ hoặc thời điểm lập hóa đơn cung cấp dịch vụ, không phân biệt đã thu được tiền hay chưa thu được tiền."
+- **Điều 9 khoản 3 (thuế suất 10%):** "Mức thuế suất 10% áp dụng đối với hàng hóa, dịch vụ không quy định tại khoản 1 và khoản 2 Điều này [...]"
+- **Điều 9 khoản 4 (nhiều loại thuế suất):** "Cơ sở kinh doanh nhiều loại hàng hóa, dịch vụ có mức thuế suất thuế giá trị gia tăng khác nhau (bao gồm cả đối tượng không chịu thuế giá trị gia tăng) phải khai thuế giá trị gia tăng theo từng mức thuế suất quy định đối với từng loại hàng hóa, dịch vụ; nếu cơ sở kinh doanh không xác định theo từng mức thuế suất thì phải tính và nộp thuế theo mức thuế suất cao nhất của hàng hóa, dịch vụ mà cơ sở sản xuất, kinh doanh."
+- **NQ-GTGT-GIAM Điều 1 khoản 1 (theo chú thích của văn bản hợp nhất):** "Giảm 2% thuế suất thuế giá trị gia tăng, áp dụng đối với các nhóm hàng hóa, dịch vụ quy định tại khoản 3 Điều 9 của Luật Thuế giá trị gia tăng số [...] (còn 8%), trừ một số nhóm hàng hóa, dịch vụ sau: viễn thông, hoạt động tài chính, ngân hàng, chứng khoán, bảo hiểm, kinh doanh bất động sản, sản phẩm kim loại, sản phẩm khai khoáng (trừ than), sản phẩm hàng hóa và dịch vụ chịu thuế tiêu thụ đặc biệt (trừ xăng) [...]"
+- **NQ-GTGT-GIAM Điều 2:** "Nghị quyết này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025 đến hết ngày 31 tháng 12 năm 2026."
+
+## ND-HDDT — Điều 9. Thời điểm lập hóa đơn (khoản 2, 3). File ký số, bản scan, trang 16. Đối chiếu 15/11/2026. ✅
+
+- **K2:** "Thời điểm lập hóa đơn đối với cung cấp dịch vụ là thời điểm hoàn thành việc cung cấp dịch vụ (bao gồm cả cung cấp dịch vụ cho tổ chức, cá nhân nước ngoài) không phân biệt đã thu được tiền hay chưa thu được tiền. Trường hợp người cung cấp dịch vụ có thu tiền trước hoặc trong khi cung cấp dịch vụ thì thời điểm lập hóa đơn là thời điểm thu tiền (không bao gồm trường hợp thu tiền đặt cọc theo quy định Bộ luật Dân sự để đảm bảo thực hiện hợp đồng cung cấp dịch vụ)."
+- **K3:** "Trường hợp giao hàng nhiều lần hoặc bàn giao từng hạng mục, công đoạn dịch vụ thì mỗi lần giao hàng hoặc bàn giao đều phải lập hóa đơn cho khối lượng, giá trị hàng hóa, dịch vụ được giao tương ứng."
+
+## ND-GTGT — Điều 4 khoản 7, Điều 9 khoản 1. Đọc từ bản đăng lại (ketoananpha.vn); câu chữ khoản 7 trùng với trích dẫn trong câu trả lời của cơ quan thuế trên cổng hỏi đáp Bộ Tài chính. Chưa đọc file ký số. Đối chiếu 15/11/2026. Nhãn tối đa ⚠️
+
+- **Điều 4 khoản 7:** "Hoạt động dạy học, dạy nghề theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp. Trường hợp các cơ sở dạy học, dạy nghề có các khoản thu hộ, chi hộ thì thuộc đối tượng không chịu thuế giá trị gia tăng; hàng hóa, dịch vụ do các tổ chức, cá nhân cung cấp cho các cơ sở dạy học, dạy nghề phải chịu thuế giá trị gia tăng theo quy định." (ghép từ các đoạn trích; cần đối chiếu file ký số về dấu câu và phần lược)
+- **Điều 9 khoản 1 (mở đầu):** "Đối với hoạt động đại lý, môi giới mua bán hàng hóa và dịch vụ hưởng hoa hồng là tiền hoa hồng thu được từ các hoạt động này chưa có thuế giá trị gia tăng, trừ trường hợp không phải tính thuế giá trị gia tăng gồm:"
+- **Điều 9 khoản 1 điểm b:** "Doanh thu hàng hóa, dịch vụ và doanh thu hoa hồng đại lý được hưởng từ hoạt động đại lý bán hàng hóa, dịch vụ thuộc diện không chịu thuế giá trị gia tăng."
+- Điểm a của khoản 1 chỉ liệt kê một số dịch vụ (bưu chính, viễn thông, xổ số, vé máy bay, ô tô, tàu hỏa, tàu thủy, vận tải quốc tế, bảo hiểm, một số dịch vụ hàng không, hàng hải). Chưa trích nguyên văn điểm a.
+- Đến 15/11/2026 chưa thấy ND-GTGT-SD25, ND-GTGT-SD26 sửa khoản 7 Điều 4 hay Điều 9 (theo bản so sánh của Sở Tư pháp Cần Thơ, chưa đọc nguyên văn hai nghị định sửa đổi).
+
+## Điều kiện kinh doanh khóa học, chứng chỉ
+
+## LGD — Điều 5, 12, 42, 43, 44, 45. Văn bản hợp nhất năm 2026, file PDF trên datafiles.chinhphu.vn. Đối chiếu 15/11/2026. ✅
+
+- **Điều 5 khoản 2:** "Giáo dục thường xuyên là giáo dục để thực hiện một chương trình giáo dục nhất định, được tổ chức linh hoạt về hình thức thực hiện chương trình, thời gian, phương pháp, địa điểm, đáp ứng nhu cầu học tập suốt đời của người học."
+- **Điều 12 khoản 3:** "Chứng chỉ của hệ thống giáo dục quốc dân là văn bản thể hiện dưới dạng giấy hoặc số được cấp cho người học để xác nhận kết quả học tập sau khi được đào tạo, bồi dưỡng nâng cao trình độ học vấn, nghề nghiệp hoặc cấp cho người học dự thi lấy chứng chỉ theo quy định."
+- **Điều 12 khoản 5:** "Bộ trưởng Bộ Giáo dục và Đào tạo quy định cụ thể về quản lý văn bằng, chứng chỉ của hệ thống giáo dục quốc dân và công nhận chứng chỉ khác để sử dụng trong hệ thống giáo dục quốc dân."
+- **Điều 42 khoản 2 (nhiệm vụ của giáo dục thường xuyên):** "Đào tạo, bồi dưỡng nâng cao năng lực làm việc; cập nhật, bổ sung kiến thức, kỹ năng cần thiết trong cuộc sống cho mọi người; tạo cơ hội cho người có nhu cầu học tập nâng cao trình độ học vấn."
+- **Điều 43 khoản 1 điểm b, c:** "b) Chương trình giáo dục đáp ứng yêu cầu của người học; cập nhật kiến thức, kỹ năng, chuyển giao công nghệ; c) Chương trình đào tạo, bồi dưỡng nâng cao năng lực nghề nghiệp;"
+- **Điều 43 khoản 2:** hình thức gồm "a) Vừa làm vừa học; b) Học từ xa; c) Tự học, tự học có hướng dẫn; d) Hình thức học khác theo nhu cầu của người học."
+- **Điều 44 khoản 1:** "Giáo dục thường xuyên được thực hiện tại cơ sở giáo dục thường xuyên, cơ sở giáo dục phổ thông, cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học, cơ sở văn hóa, tại nơi làm việc, cộng đồng dân cư, qua phương tiện thông tin đại chúng và phương tiện khác."
+- **Điều 44 khoản 2 điểm d và khoản 3 điểm c:** cơ sở giáo dục thường xuyên gồm cả "Trung tâm khác thực hiện nhiệm vụ giáo dục thường xuyên"; trung tâm này "thực hiện chương trình quy định tại điểm b và điểm c khoản 1 Điều 43 của Luật này."
+- **Điều 45 khoản 5:** "Học viên học các khóa bồi dưỡng theo các hình thức khác nhau được dự thi, nếu đạt yêu cầu theo chuẩn đầu ra của chương trình giáo dục quy định tại điểm b và điểm c khoản 1 Điều 43 của Luật này thì được cấp chứng chỉ tương ứng với chương trình học."
+
+## ND-DKGD — Điều 1, 2, 42, 43, 44. Đọc từ bản PDF đăng lại, chưa đọc file ký số. Đối chiếu 15/11/2026. Nhãn tối đa ⚠️
+
+> **Hết hiệu lực từ 17/09/2026** (thuộc các chương bị ND-DKGD26 thay thế). Chỉ dùng cho sự việc trước ngày này. Sự việc từ 17/09/2026 dùng mục ND-DKGD26. Các dòng ghi "tóm tắt" dưới đây không phải nguyên văn.
+
+- **Điều 2 khoản 1 (đối tượng áp dụng, đoạn cuối):** "[...] tổ chức kinh doanh dịch vụ tư vấn du học; tổ chức và cá nhân khác thực hiện hoạt động giáo dục."
+- **Điều 42 khoản 2:** "Trung tâm khác thực hiện nhiệm vụ giáo dục thường xuyên gồm: Trung tâm ngoại ngữ, tin học; trung tâm ngôn ngữ và văn hóa; trung tâm giáo dục kỹ năng sống; trung tâm bồi dưỡng kiến thức, văn hóa, nghệ thuật và các trung tâm khác thực hiện chương trình đào tạo, bồi dưỡng nâng cao năng lực làm việc, cập nhật, bổ sung kiến thức, kỹ năng cần thiết trong cuộc sống đáp ứng nhu cầu người học."
+- **Điều 43 (tóm tắt, không phải nguyên văn):** có địa điểm, cơ sở vật chất, thiết bị đáp ứng chương trình; có chương trình, tài liệu "theo quy định của Bộ Giáo dục và Đào tạo"; có cán bộ quản lý, giáo viên đủ số lượng, đạt tiêu chuẩn; có dự thảo quy chế tổ chức và hoạt động.
+- **Điều 44 khoản 1 điểm b:** "Giám đốc Sở Giáo dục và Đào tạo [...] cho phép thành lập các trung tâm theo đề nghị của tổ chức, cá nhân."
+- **Điều 44 khoản 2 điểm d:** trung tâm do tổ chức, cá nhân đề nghị thành lập "phải có văn bản pháp lý xác nhận về số tiền đầu tư thành lập trung tâm [...]".
+- **Điều 44 khoản 3 (tóm tắt, không phải nguyên văn):** Sở trả lời hồ sơ chưa hợp lệ trong 05 ngày làm việc; thẩm định trong 10 ngày kể từ khi nhận đủ hồ sơ hợp lệ; ra quyết định trong 05 ngày làm việc kể từ khi có báo cáo thẩm định.
+
+## LGDDH-25 — Điều 11 khoản 2 điểm a. File ký số (bản scan) trên datafiles.chinhphu.vn, trang 5. Đối chiếu 15/11/2026. ✅
+
+- "Cơ sở giáo dục đại học bao gồm: a) Trường đại học, trường đại học có tên gọi là học viện, đào tạo nhiều ngành ở các trình độ của giáo dục đại học; [...]"
+- Chưa tìm thấy trong luật này điều cấm tổ chức không phải cơ sở giáo dục đại học dùng chữ "học viện". Quy định đặt tên ở nghị định hướng dẫn LGDDH-25 (xem cột Quan hệ trong danh mục) chưa đọc.
+
+## LQC — Điều 8, 15a, 19, 23 (theo văn bản hợp nhất năm 2025). Đọc từ bản đăng lại (hethongphapluat.com). Đối chiếu 15/11/2026. Nhãn tối đa ⚠️
+
+- **Điều 8 khoản 8 (cấm):** "sử dụng hình ảnh, lời nói, chữ viết của cá nhân khi chưa được cá nhân đó đồng ý" (trừ trường hợp pháp luật cho phép).
+- **Điều 8 khoản 9 (cấm):** "Quảng cáo không đúng hoặc gây nhầm lẫn về khả năng kinh doanh, khả năng cung cấp sản phẩm, hàng hóa, dịch vụ [...]" (khoản này còn nêu số lượng, chất lượng, giá, công dụng; chưa trích hết).
+- **Điều 8 khoản 10, 11 (cấm; tóm tắt, chưa trích nguyên văn):** quảng cáo so sánh với sản phẩm cùng loại, hoặc dùng "nhất", "duy nhất", "tốt nhất", "số một" và từ tương tự, khi không có tài liệu hợp pháp chứng minh.
+- **Điều 19 khoản 1:** "Nội dung quảng cáo phải trung thực, chính xác, rõ ràng" [...].
+- **Điều 15a:** người chuyển tải sản phẩm quảng cáo, kể cả người có ảnh hưởng, chịu trách nhiệm khi nội dung không bảo đảm yêu cầu của Điều 19 (khoản 2 điểm c); người có ảnh hưởng phải xác minh độ tin cậy của người quảng cáo, chưa sử dụng hoặc chưa hiểu rõ sản phẩm thì không được giới thiệu, và phải thông báo việc quảng cáo ngay trước và trong khi thực hiện (khoản 3).
+- **Điều 23 khoản 2 điểm đ:** người dùng mạng xã hội khi quảng cáo phải có dấu hiệu phân biệt nội dung quảng cáo, nội dung được tài trợ với nội dung khác.
+
+## LBVNTD — Điều 3, 25, 38, 41, 42. Đọc từ bản đăng lại theo từng điều (hethongphapluat.com), chưa đọc bản Công báo. Đối chiếu 15/11/2026. Nhãn tối đa ⚠️
+
+- **Điều 3 khoản 1:** "Người tiêu dùng là người mua, sử dụng sản phẩm, hàng hóa, dịch vụ cho mục đích tiêu dùng, sinh hoạt của cá nhân, gia đình, cơ quan, tổ chức và không vì mục đích thương mại."
+- **Điều 3 khoản 5:** "Giao dịch từ xa là giao dịch được thực hiện trên không gian mạng, phương tiện điện tử hoặc phương tiện khác mà người tiêu dùng không được kiểm tra, tiếp xúc trực tiếp với sản phẩm, hàng hóa, dịch vụ trước khi tham gia giao dịch."
+- **Điều 3 khoản 6:** "Cung cấp dịch vụ liên tục là việc cung cấp dịch vụ có thời hạn từ 03 tháng trở lên hoặc không xác định thời hạn."
+- **Điều 25 (mở đầu):** "Trong hợp đồng giao kết với người tiêu dùng, hợp đồng theo mẫu, điều kiện giao dịch chung, tổ chức, cá nhân kinh doanh không được quy định các điều khoản sau đây:" Gồm 15 khoản, trong đó:
+  - K1: "Hạn chế, loại trừ trách nhiệm được pháp luật quy định của tổ chức, cá nhân kinh doanh đối với người tiêu dùng, trừ trường hợp pháp luật liên quan quy định trách nhiệm đó được hạn chế, loại trừ;"
+  - K2: "Hạn chế, loại trừ quyền khiếu nại, khởi kiện của người tiêu dùng;"
+  - K3: "Cho phép tổ chức, cá nhân kinh doanh đơn phương thay đổi quy định của hợp đồng đã giao kết với người tiêu dùng;"
+  - K7: "Cho phép tổ chức, cá nhân kinh doanh thay đổi giá trong quá trình cung cấp dịch vụ liên tục mà không quy định quyền chấm dứt thực hiện hợp đồng cho người tiêu dùng;"
+  - K8: "Cho phép tổ chức, cá nhân kinh doanh giải thích hợp đồng, điều kiện giao dịch chung trong trường hợp điều khoản của hợp đồng, điều kiện giao dịch chung được hiểu khác nhau;"
+  - K9: "Loại trừ trách nhiệm của tổ chức, cá nhân kinh doanh trong trường hợp tổ chức, cá nhân kinh doanh bán sản phẩm, hàng hóa, cung cấp dịch vụ thông qua bên thứ ba;"
+  - K12: "Quy định về chế tài theo hướng bất lợi hơn cho người tiêu dùng do vi phạm hoặc chấm dứt thực hiện hợp đồng;"
+  - K13: "Cho phép tổ chức, cá nhân kinh doanh gia hạn hợp đồng đã thỏa thuận với người tiêu dùng mà không quy định trách nhiệm thông báo trước hoặc không có cơ chế để người tiêu dùng lựa chọn gia hạn hay chấm dứt thực hiện hợp đồng;"
+  - K14: "Quy định người tiêu dùng phải đồng ý cho tổ chức, cá nhân kinh doanh thu thập, lưu trữ, sử dụng thông tin của người tiêu dùng là điều kiện để giao kết hợp đồng, điều kiện giao dịch chung, trừ trường hợp pháp luật có quy định khác;"
+  - K15: "Quy định trái với nguyên tắc thiện chí theo quy định của pháp luật về dân sự, dẫn đến mất cân bằng về quyền và nghĩa vụ của các bên theo hướng bất lợi cho người tiêu dùng."
+- **Điều 38 khoản 1:** khi giao dịch từ xa, doanh nghiệp phải "a) Cung cấp chính xác, đầy đủ nội dung hợp đồng để người tiêu dùng nghiên cứu trước khi giao kết hợp đồng; b) Người tiêu dùng trao đổi, làm rõ nội dung hợp đồng và xác nhận đồng ý giao kết hợp đồng; c) Người tiêu dùng xem lại và tải về hợp đồng đã có xác nhận ký kết của người tiêu dùng."
+- **Điều 38 khoản 3 điểm b:** nếu doanh nghiệp cung cấp không chính xác hoặc không đầy đủ thông tin theo khoản 1 Điều 37, người tiêu dùng được "Trong thời hạn 30 ngày kể từ ngày giao kết hợp đồng, đơn phương chấm dứt thực hiện hợp đồng đã giao kết và thông báo cho tổ chức, cá nhân kinh doanh. Người tiêu dùng không phải trả bất kỳ chi phí nào dưới mọi hình thức để chấm dứt thực hiện hợp đồng, trừ chi phí đối với phần sản phẩm, hàng hóa, dịch vụ đã sử dụng."
+- **Điều 38 khoản 4:** doanh nghiệp "phải hoàn trả cho người tiêu dùng khoản tiền đã thanh toán tương ứng với phần sản phẩm, hàng hóa, dịch vụ chưa sử dụng trong thời hạn 30 ngày kể từ ngày người tiêu dùng tuyên bố đơn phương chấm dứt thực hiện hợp đồng"; quá hạn phải trả lãi; hoàn theo phương thức người tiêu dùng đã thanh toán, trừ khi họ đồng ý cách khác.
+- **Điều 41 khoản 2 (dịch vụ liên tục):** "Không được yêu cầu người tiêu dùng thanh toán bất kỳ khoản tiền nào trước khi dịch vụ được cung cấp đến người tiêu dùng, trừ trường hợp các bên có thỏa thuận khác."
+- **Điều 41 khoản 3:** không được đơn phương chấm dứt, ngừng cung cấp dịch vụ trái hợp đồng hoặc pháp luật; phải ngừng thì báo trước "chậm nhất là 03 ngày làm việc trước ngày ngừng cung cấp dịch vụ, trừ trường hợp bất khả kháng."
+- **Điều 41 khoản 5:** dịch vụ liên tục qua giao dịch từ xa phải thực hiện cả Điều 37, 38.
+- **Điều 42 khoản 1:** "Hợp đồng cung cấp dịch vụ liên tục phải được lập thành văn bản và cung cấp cho người tiêu dùng 01 bản."
+- **Điều 42 khoản 2 điểm đ, e:** hợp đồng theo mẫu phải có việc thông báo nộp phí để tiếp tục sử dụng dịch vụ, và thông báo thời điểm kết thúc hợp đồng, "tối thiểu 07 ngày làm việc" trước ngày hết hạn, ngày kết thúc.
+- **Điều 42 khoản 3:** "Trừ trường hợp các bên có thỏa thuận khác, người tiêu dùng có quyền đơn phương chấm dứt thực hiện hợp đồng cung cấp dịch vụ liên tục tại bất kỳ thời điểm nào và thông báo cho tổ chức, cá nhân kinh doanh cung cấp dịch vụ. Trong trường hợp người tiêu dùng đơn phương chấm dứt thực hiện hợp đồng, người tiêu dùng chỉ phải thanh toán đối với phần dịch vụ mà mình đã sử dụng."
+
+## Nội dung khóa học, hình ảnh, dữ liệu người học
+
+## LSHTT — Điều 14, 39, 45. Văn bản hợp nhất năm 2026, file ký số trên datafiles.chinhphu.vn. Đối chiếu 15/11/2026. ✅
+
+- **Điều 14 khoản 1 điểm a, b:** tác phẩm được bảo hộ gồm "a) Tác phẩm văn học, khoa học, sách giáo khoa, giáo trình và tác phẩm khác được thể hiện dưới dạng chữ viết hoặc ký tự khác; b) Bài giảng, bài phát biểu và bài nói khác;"
+- **Điều 39 khoản 1:** "Tổ chức giao nhiệm vụ sáng tạo tác phẩm cho tác giả là người thuộc tổ chức mình là chủ sở hữu các quyền quy định tại Điều 20 và khoản 3 Điều 19 của Luật này, trừ trường hợp có thoả thuận khác."
+- **Điều 39 khoản 2:** "Tổ chức, cá nhân giao kết hợp đồng với tác giả sáng tạo ra tác phẩm là chủ sở hữu các quyền quy định tại Điều 20 và khoản 3 Điều 19 của Luật này, trừ trường hợp có thoả thuận khác."
+- **Điều 45 khoản 2:** "Tác giả không được chuyển nhượng các quyền nhân thân quy định tại Điều 19, trừ quyền công bố tác phẩm; [...]"
+
+## BLDS — Điều 32. Quyền của cá nhân đối với hình ảnh. Đọc từ bản đăng lại (hethongphapluat.com). Đối chiếu 15/11/2026. Nhãn tối đa ⚠️
+
+- **K1:** "Cá nhân có quyền đối với hình ảnh của mình. Việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý. Việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác."
+- **K2 điểm b:** không cần đồng ý khi "Hình ảnh được sử dụng từ các hoạt động công cộng, bao gồm hội nghị, hội thảo, hoạt động thi đấu thể thao, biểu diễn nghệ thuật và hoạt động công cộng khác mà không làm tổn hại đến danh dự, nhân phẩm, uy tín của người có hình ảnh."
+- **K3:** vi phạm thì người có hình ảnh được yêu cầu Tòa án buộc "thu hồi, tiêu hủy, chấm dứt việc sử dụng hình ảnh, bồi thường thiệt hại".
+
+## LBVDLCN — Điều 9, 24, 28. Đọc từ bản đăng lại (ketoananpha.vn). Đối chiếu 15/11/2026. Nhãn tối đa ⚠️
+
+- **Điều 9 khoản 2:** sự đồng ý "chỉ có hiệu lực khi dựa trên sự tự nguyện và biết rõ các thông tin sau đây" (loại dữ liệu, mục đích, bên kiểm soát dữ liệu, quyền và nghĩa vụ của chủ thể dữ liệu; chưa trích hết).
+- **Điều 9 khoản 3:** sự đồng ý phải "được thể hiện bằng phương thức rõ ràng, cụ thể, có thể in, sao chép bằng văn bản" (kể cả dạng điện tử).
+- **Điều 9 khoản 4 điểm a, d:** "Thể hiện sự đồng ý đối với từng mục đích;" và "Sự im lặng hoặc không phản hồi không được coi là sự đồng ý."
+- **Điều 24 khoản 2:** xử lý dữ liệu cá nhân của trẻ em để công khai, tiết lộ đời sống riêng tư, bí mật cá nhân, nếu trẻ "từ đủ 07 tuổi trở lên thì phải có sự đồng ý của trẻ em và người đại diện theo pháp luật."
+- **Điều 28 khoản 3:** "Việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ quảng cáo phải được sự đồng ý của khách hàng" và phải "cung cấp phương thức cho khách hàng để có thể từ chối nhận các thông tin quảng cáo."
+- **Điều 28 khoản 5:** "Chủ thể dữ liệu cá nhân có quyền yêu cầu ngừng nhận thông tin từ dịch vụ quảng cáo."
+
+## Bán hàng hóa qua thương mại điện tử
+
+## LGTGT — Điều 8 khoản 1 điểm a. Văn bản hợp nhất năm 2026, datafiles.chinhphu.vn. Đối chiếu 15/11/2026. ✅
+
+- "Đối với hàng hóa là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua hoặc thời điểm lập hóa đơn, không phân biệt đã thu được tiền hay chưa thu được tiền;"
+
+## ND-HDDT — Điều 8 khoản 7, Điều 9 khoản 1. File ký số, bản scan, trang 16. Đối chiếu 15/11/2026. ✅
+
+- **Điều 8 khoản 7:** "Các chứng từ được đăng ký, sử dụng và quản lý như hóa đơn gồm phiếu xuất kho kiêm vận chuyển nội bộ, phiếu xuất kho hàng gửi bán đại lý."
+- **Điều 9 khoản 1:** "Thời điểm lập hóa đơn đối với bán hàng hóa (bao gồm cả bán, chuyển nhượng tài sản công và bán hàng dự trữ quốc gia) là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa thu được tiền."
+- Chưa thấy trong ND-HDDT quy định cho phép gộp các đơn bán lẻ trong ngày vào một hóa đơn (trừ một số ngành như xăng dầu, viễn thông bán thẻ trả trước theo bài tổng hợp). Ngày 13/11/2026, cơ quan thuế TP.HCM trả lời tại hội nghị đối thoại rằng nghị định "chưa cho phép thực hiện theo phương án gộp hóa đơn" (theo báo Vietstock, ⚠️). Xử lý hóa đơn khi hàng bị trả lại: xem mục TT-HDDT Điều 10 khoản 5 dưới đây.
+
+## TT-HDDT — Điều 10 khoản 5 điểm c. Hóa đơn khi trả lại hàng hóa, hủy dịch vụ đã thu tiền trước. File ký số của Bộ Tài chính (bản scan, đăng lại), trang 20–21. Đối chiếu 16/11/2026. ✅
+
+- **c.1:** "Trường hợp trả lại hàng hóa: Trường hợp người mua trả lại toàn bộ hoặc một phần hàng hóa (bao gồm cả trường hợp đổi hàng làm thay đổi giá trị của hàng hóa đã mua) thì người bán lập hóa đơn điều chỉnh, trừ trường hợp các bên có thỏa thuận về việc người mua lập hóa đơn khi trả lại hàng hóa thì người mua lập hóa đơn điện tử giao cho người bán; người bán, người mua thực hiện nghĩa vụ thuế theo quy định khi bán hàng hóa;"
+- **Đoạn sau c.3:** "Đối với các trường hợp quy định tại điểm c.1, điểm c.2, điểm c.3 khoản 5 Điều này, người bán, người mua phải có đầy đủ hồ sơ, chứng từ liên quan đến việc trả lại hàng hoá, dịch vụ và phải xuất trình khi cơ quan thuế hoặc cơ quan nhà nước có thẩm quyền yêu cầu;"
+- **c.4:** "Trường hợp người bán đã lập hóa đơn khi thu tiền trước khi cung cấp dịch vụ hoặc lập hóa đơn thu tiền đối với hoạt động kinh doanh bất động sản, xây dựng cơ sở hạ tầng, xây dựng nhà để bán, nhà chuyển nhượng sau đó phát sinh việc huỷ hoặc chấm dứt giao dịch và hủy một phần việc cung cấp dịch vụ thì người bán thực hiện điều chỉnh hóa đơn điện tử đã lập theo quy định tại điểm c.1 khoản 5 Điều này."
+
+## ND-TNDN — Điều 8. Doanh thu (khoản 1 điểm a, khoản 2, khoản 3 điểm b, c). File ký số, bản scan, trang 18–19. Đối chiếu 16/11/2026. ✅
+
+- **K1a:** "Đối với doanh nghiệp kê khai, nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế thì doanh thu tính thuế thu nhập doanh nghiệp là doanh thu không có thuế giá trị gia tăng;"
+- **K2a:** "Đối với hoạt động bán hàng hoá là thời điểm chuyển giao quyền sở hữu, quyền sử dụng hàng hoá cho người mua;"
+- **K2b:** "Đối với hoạt động cung ứng dịch vụ là thời điểm hoàn thành việc cung ứng dịch vụ hoặc hoàn thành từng phần việc cung ứng dịch vụ cho người mua trừ trường hợp nêu tại khoản 3 Điều này;"
+- **K2c:** "Bộ trưởng Bộ Tài chính quy định thời điểm xác định doanh thu ngoài các trường hợp quy định tại điểm a và điểm b khoản này."
+- **K3b:** "Đối với hàng hóa, dịch vụ bán theo phương thức trả góp, trả chậm là tiền bán hàng hóa, dịch vụ trả tiền một lần, không bao gồm tiền lãi trả góp, tiền lãi trả chậm;"
+- **K3c:** "Đối với hàng hóa của các đơn vị giao đại lý và nhận đại lý theo hợp đồng đại lý bán đúng giá hưởng hoa hồng được xác định như sau: c1) Doanh nghiệp giao hàng hóa cho các đại lý (kể cả đại lý bán hàng đa cấp) là tổng số tiền bán hàng hóa; c2) Doanh nghiệp nhận làm đại lý bán hàng đúng giá quy định của doanh nghiệp giao đại lý là tiền hoa hồng được hưởng theo hợp đồng đại lý;"
+- Khoản 3 có quy định phân bổ doanh thu trả trước nhiều năm cho hoạt động cho thuê tài sản (điểm đ), không nêu riêng cho dịch vụ đào tạo, gói thành viên.
+
+## ND-DKGD26 — Điều 39 khoản 3, Điều 40 khoản 2, Điều 46 khoản 2, Điều 47 khoản 1. Đọc từ bản đăng lại (luatnguyen.vn), chưa đọc file ký số. Đối chiếu 16/11/2026. Nhãn tối đa ⚠️
+
+- **Điều 39 khoản 3 điểm a (các loại trung tâm, trích):** "trung tâm ngoại ngữ; trung tâm tin học; trung tâm ngoại ngữ, tin học; trung tâm ngôn ngữ và văn hóa" [...] "trung tâm giáo dục kỹ năng sống; trung tâm bồi dưỡng kiến thức" [...]
+- **Điều 39 khoản 3 điểm b (điều kiện, trích):** "Có địa điểm, cơ sở vật chất, phòng học, phòng chức năng, thiết bị dạy học đáp ứng yêu cầu" [...]; "Có tài liệu giảng dạy và học tập đáp ứng yêu cầu của các chương trình giáo dục" [...]; "Có đội ngũ cán bộ quản lý, giáo viên, nhân viên và người lao động đủ về số lượng" [...]
+- **Điều 40 khoản 2 (thời hạn, trích):** "Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định" [...]. Với trung tâm tư thục, cơ quan tiếp nhận có 2 ngày làm việc để yêu cầu bổ sung hồ sơ (tóm tắt).
+- **Điều 4 khoản 5 điểm a (thẩm quyền, tóm tắt):** Giám đốc Sở Giáo dục và Đào tạo quyết định thành lập hoặc cho phép thành lập, đình chỉ, giải thể trung tâm giáo dục thường xuyên và các trung tâm khác được liệt kê.
+- **Điều 46 khoản 2 điểm a:** "Chương II, Chương III, Chương IV, Chương V và Chương VIII Nghị định số [ND-DKGD]" hết hiệu lực (số hiệu thay bằng mã).
+- **Điều 47 khoản 1 (trích):** cơ sở đã được thành lập, cho phép thành lập trước đó "không phải đề nghị thành lập hoặc cho phép thành lập, cấp phép hoạt động giáo dục lại".
+
+## LBVNTD — Điều 10 khoản 2 điểm c, d, đ (đa cấp). Bản đăng lại (hethongphapluat.com). Đối chiếu 16/11/2026. Nhãn tối đa ⚠️
+
+- Tổ chức, cá nhân bán hàng đa cấp bị nghiêm cấm: "c) Kinh doanh theo phương thức đa cấp không có giấy chứng nhận đăng ký hoạt động bán hàng đa cấp"; "d) Kinh doanh theo phương thức đa cấp đối với dịch vụ hoặc hình thức khác không phải là mua bán hàng hóa" [...]; "đ) Phát triển mạng lưới bán hàng đa cấp không dựa trên giao dịch mua bán hàng hóa".
+
+## ND-DACAP — Điều 4 khoản 1, khoản 2 điểm b. Bản đăng lại (hethongphapluat.com). Đối chiếu 16/11/2026. Nhãn tối đa ⚠️
+
+- **K1:** "Hoạt động kinh doanh theo phương thức đa cấp chỉ được thực hiện đối với hàng hóa. Mọi hoạt động kinh doanh theo phương thức đa cấp với đối tượng không phải là hàng hóa đều bị cấm, trừ trường hợp pháp luật có quy định khác."
+- **K2 điểm b:** "Hàng hóa kinh doanh theo phương thức đa cấp không thuộc một trong các loại sau đây: [...] b) Sản phẩm nội dung số."

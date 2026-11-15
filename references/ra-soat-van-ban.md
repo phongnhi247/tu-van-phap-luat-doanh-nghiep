@@ -107,3 +107,15 @@ Mỗi dòng là một điểm cần kiểm tra. Nội dung chi tiết phải tra
 - [ ] Tạm ứng: đối tượng, hạn mức, hạn hoàn ứng, xử lý quá hạn (khuyến nghị quản trị)
 - [ ] Nếu doanh nghiệp tự thiết kế mẫu chứng từ: có quy chế hạch toán kế toán theo TT-KTDN Điều 9
 - [ ] Không trái hợp đồng lao động, thỏa ước, nội quy — BLLD
+
+### 3.8 Điều khoản, hợp đồng, chính sách bán khóa học và bán hàng trực tuyến
+
+- [ ] Không có điều khoản thuộc 15 loại bị cấm (đơn phương đổi nội dung, lịch, giá; tự giải thích; chế tài bất lợi hơn cho người học; bắt đồng ý dữ liệu làm điều kiện; loại trừ trách nhiệm khi bên thứ ba cung cấp; tự gia hạn không báo trước) — LBVNTD Điều 25
+- [ ] Bán online: nội dung hợp đồng được cung cấp trước khi thanh toán, người học xác nhận và tải về được — LBVNTD Điều 38
+- [ ] Gói từ 03 tháng: hợp đồng văn bản; thỏa thuận thu trước; báo trước 07 ngày làm việc khi hết hạn; cách tính phần đã dùng khi người học chấm dứt — LBVNTD Điều 41, 42
+- [ ] Hoàn tiền: điều kiện, thời hạn, phương thức (theo cách đã thanh toán), xử lý khi dời lịch, ngừng lớp — LBVNTD Điều 38, 41
+- [ ] Giá ghi rõ chưa thuế hay đã có thuế, thuế suất áp dụng và mốc thời gian của mức giảm — LGTGT, NQ-GTGT-GIAM
+- [ ] Tên gọi giấy cấp cho học viên, cách tự giới thiệu không gây nhầm lẫn với cơ sở giáo dục — LGD Điều 12, LQC Điều 8
+- [ ] Đồng ý dữ liệu, nhận quảng cáo, dùng hình ảnh tách riêng; có cách rút lại, từ chối nhận quảng cáo — LBVDLCN Điều 9, 28; BLDS Điều 32
+- [ ] Quyền tác giả bài giảng, video: ai sở hữu, phạm vi khai thác — LSHTT Điều 39
+- [ ] Hàng hóa: chính sách đổi trả, bảo hành công bố rõ và làm được — LBVNTD

@@ -36,6 +36,8 @@ hợp đồng mua bán hàng hóa, hợp đồng dịch vụ, hợp đồng nguy
 | 4 | Thuế của người bán trên sàn, nghĩa vụ khấu trừ của sàn | LQLT, ND-QLT |
 | 5 | Dữ liệu cá nhân của khách hàng | LBVDLCN, ND-BVDLCN (nhóm 6) |
 
+Bán khóa học, dịch vụ đào tạo, hoặc câu hỏi về hóa đơn, đổi trả, đối soát sàn khi bán hàng online: xem thêm `ban-hang-truc-tuyen.md`.
+
 ### 3.3 Quảng cáo và khuyến mại
 
 | Bước | Việc cần làm | Căn cứ |

@@ -57,6 +57,12 @@ Công văn: dưới số và ký hiệu có dòng "V/v [trích yếu]"; phần "
 
 | Văn bản | Mẫu bắt buộc? | Căn cứ và nội dung bắt buộc |
 |---|---|---|
+| Điều khoản sử dụng, điều kiện đăng ký khóa học, hợp đồng khóa học với học viên | Không | LBVNTD Điều 25 (điều khoản bị cấm), Điều 38 (giao dịch từ xa), Điều 41, 42 (gói từ 03 tháng); BLDS. Hướng dẫn ở `ban-hang-truc-tuyen.md` mục 5. Checklist ở `ra-soat-van-ban.md` mục 3.8 |
+| Chính sách hoàn tiền, dời lịch, đổi trả, bảo hành | Không | LBVNTD Điều 25, 38, 41, 42. Không viết điều khoản "không hoàn tiền dưới mọi hình thức" |
+| Chính sách bảo mật, văn bản đồng ý xử lý dữ liệu, đồng ý dùng hình ảnh | Không | LBVDLCN, ND-BVDLCN; BLDS Điều 32. Đồng ý tách theo từng mục đích |
+| Hợp đồng với giảng viên, mentor, đối tác nội dung | Không | LSHTT Điều 39, 45 (quyền tác giả); ND-TNCN (khấu trừ); LCK (không khuyến nghị đầu tư cụ thể) |
+| Hợp đồng KOL, affiliate, cộng tác viên giới thiệu | Không | LQC Điều 15a, 23; ND-DACAP (một tầng hoa hồng); ND-TNCN |
+| Giấy chứng nhận hoàn thành khóa học | Không | Không gọi là "chứng chỉ" nếu không phải cơ sở giáo dục (LGD Điều 12) |
 | Quyết định xử lý kỷ luật lao động, biên bản họp xử lý kỷ luật | Không có mẫu bắt buộc | BLLD (điều về nguyên tắc, trình tự, thời hiệu, các hình thức kỷ luật, trường hợp sa thải), ND-QHLD (điều về trình tự xử lý kỷ luật và người có thẩm quyền). Trích dẫn có trong `trich-dan-xac-minh.md`. Checklist ở `ra-soat-van-ban.md` mục 3.3 |
 | Thông báo chấm dứt hợp đồng lao động, quyết định chấm dứt | Không | BLLD, ND-QHLD, ND-HDLDDT nếu làm điện tử |
 | Hợp đồng lao động, phụ lục hợp đồng | Không | BLLD, ND-QHLD. Checklist ở `ra-soat-van-ban.md` mục 3.1 |

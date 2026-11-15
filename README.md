@@ -29,7 +29,7 @@ Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
 - **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
 - **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
 
-Skill đã đạt cả 26 câu kiểm thử, kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
+Skill đã đạt cả 44 câu kiểm thử, kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
 
 **Dành cho:** chủ doanh nghiệp, kế toán, nhân sự, nhân viên làm hồ sơ, và người tư vấn cần một bản nháp có căn cứ để kiểm tra lại.
 
@@ -88,6 +88,14 @@ Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên
 - **Skill làm gì:** đối chiếu với nghị định thuế TNDN, nghị định thuế TNCN và thông tư chế độ kế toán mới (đọc nguyên văn từ file có chữ ký số), cùng Luật Kế toán, Bộ luật Dân sự, Luật Thương mại.
 - **Bạn nhận được:** điều kiện được trừ, ngưỡng thanh toán không dùng tiền mặt và các trường hợp nhân viên trả hộ, đi công tác; hồ sơ cho chi lương, thưởng, phúc lợi, trang phục; khấu trừ 10% khi trả cho cá nhân, bản cam kết, ủy quyền quyết toán; bảng kê khi mua hàng không có hóa đơn; bộ giấy đề nghị thanh toán, tạm ứng, hoàn ứng; biên bản giao nhận, nghiệm thu, thanh lý, đối chiếu công nợ; hồ sơ hủy hàng, kiểm kê; checklist nhanh cho một khoản chi.
 - **Giới hạn:** số hiệu các mẫu cụ thể (bảng kê, cam kết, giấy ủy quyền) phải tra văn bản hiện hành, skill không nêu theo trí nhớ. Chế độ kế toán doanh nghiệp nhỏ và vừa chưa được đọc nguyên văn.
+
+#### 3b. Kinh doanh khóa học và bán hàng trực tuyến (mới ở bản 1.4)
+
+- **Dùng khi:** doanh nghiệp bán khóa học, coaching, gói thành viên, hoặc bán hàng qua website, sàn, mạng xã hội.
+- **Cách gọi:** "Mở khóa kỹ năng online có cần giấy phép không?", "Học phí chịu thuế GTGT bao nhiêu?", "Thu trước học phí thì xuất hóa đơn khi nào?", "Gói 12 tháng học viên xin nghỉ có phải hoàn tiền không?", "Bán trên sàn, ship COD thì ghi doanh thu thế nào?"
+- **Skill làm gì:** đối chiếu Luật Giáo dục và nghị định điều kiện kinh doanh giáo dục mới năm 2026, Luật Thuế GTGT và nghị quyết giảm thuế, nghị định và thông tư hóa đơn, Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo, Luật Sở hữu trí tuệ, Luật Bảo vệ dữ liệu cá nhân, nghị định đa cấp.
+- **Bạn nhận được:** có cần giấy phép không và tên gọi "chứng chỉ", "học viện"; thuế suất học phí và mốc 31/12/2026 của mức 8%; thời điểm xuất hóa đơn, hoàn tiền, doanh thu gói nhiều kỳ; hợp đồng với học viên (giao dịch từ xa, gói từ 03 tháng, điều khoản bị cấm); quảng cáo, lời chứng thực, KOL, khóa đầu tư chứng khoán, hoa hồng giới thiệu; quyền tác giả bài giảng, hình ảnh và dữ liệu học viên; hóa đơn, trả hàng, sàn, COD, chứng từ nguồn gốc khi bán hàng hóa; bộ chứng từ một đơn; danh sách điểm dễ có vấn đề và checklist ra mắt khóa học.
+- **Giới hạn:** nhiều văn bản mới (Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo, nghị định giáo dục 2026, nghị định đa cấp) mới đọc được bản đăng lại nên nhãn tối đa ⚠️. Chưa có mức phạt về quảng cáo, chứng khoán, dữ liệu. Chưa có căn cứ cho việc doanh nghiệp không lập trung tâm có cần phép không.
 
 #### 4. Soạn văn bản theo chuẩn Nghị định 30/2020
 
@@ -289,6 +297,7 @@ tu-van-phap-luat-doanh-nghiep/
 │   ├── lich-tuan-thu.md, ra-soat-van-ban.md, ho-so-doanh-nghiep-mau.md
 │   ├── nguong-chuyen-luat-su.md, cap-nhat-can-cu.md, soan-van-ban.md
 │   ├── chung-tu-chi-phi.md     Bộ chứng từ chứng minh chi phí được trừ
+│   ├── ban-hang-truc-tuyen.md  Kinh doanh khóa học và bán hàng trực tuyến
 └── tests/bo-cau-hoi-kiem-thu.md
 ```
 
@@ -320,7 +329,7 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    $s = "tu-van-phap-luat-doanh-nghiep\references"; $g = "gem-v$v"; New-Item -ItemType Directory -Force $g | Out-Null
    Copy-Item "$s\danh-muc-can-cu.md","$s\trich-dan-xac-minh.md","$s\nguyen-tac-can-cu.md","$s\khung-tra-loi.md","$s\tra-cuu-va-trich-dan.md" $g
    Get-Content -Encoding utf8 "$s\nhom-0*.md" | Set-Content -Encoding utf8 "$g\cac-nhom-nghiep-vu.md"
-   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md","$s\chung-tu-chi-phi.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
+   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md","$s\chung-tu-chi-phi.md","$s\ban-hang-truc-tuyen.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
    Compress-Archive -Path "$g\*" -DestinationPath "tu-van-phap-luat-doanh-nghiep-gem-v$v.zip" -Force
    ```
 6. **Phân phối.** Nếu dùng git: commit, gắn tag `v<phiên bản>`, đẩy lên kho và đính kèm 2 file zip vào mục Releases. Nếu không dùng git: gửi 2 file zip kèm nội dung CHANGELOG. Cập nhật Gem chia sẻ nếu có.

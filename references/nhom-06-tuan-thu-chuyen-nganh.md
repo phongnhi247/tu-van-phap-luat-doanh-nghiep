@@ -65,3 +65,5 @@ dữ liệu cá nhân, dữ liệu khách hàng, dữ liệu nhân viên, sự �
 ## 5. Khi nào chuyển sang luật sư
 
 Rò rỉ dữ liệu cá nhân trên diện rộng, bị cơ quan chức năng kiểm tra về dữ liệu, tranh chấp nhãn hiệu hoặc bị khởi kiện xâm phạm sở hữu trí tuệ, sự cố môi trường, cháy nổ gây thiệt hại. Xem `nguong-chuyen-luat-su.md`.
+
+Dữ liệu, hình ảnh người học và quyền tác giả bài giảng, video khóa học: xem `ban-hang-truc-tuyen.md` mục 7.

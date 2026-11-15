@@ -1,5 +1,18 @@
 # Nhật ký thay đổi
 
+## 1.4.0 — 16/11/2026
+
+Chủ đề: kinh doanh khóa học và bán hàng trực tuyến.
+
+- **Tính năng mới `ban-hang-truc-tuyen.md`:** có cần giấy phép không (giáo dục thường xuyên, trung tâm theo nghị định mới từ 17/09/2026); tên gọi "chứng chỉ", "học viện"; thuế GTGT học phí (không chịu thuế hay 10%, mức 8% đến hết 31/12/2026); hóa đơn khi thu trước, trả nhiều lần, hoàn tiền; doanh thu gói nhiều kỳ; bán khóa của đối tác; doanh nghiệp mua khóa cho nhân viên; hợp đồng với học viên (giao dịch từ xa, dịch vụ liên tục, 15 loại điều khoản bị cấm); quảng cáo, lời chứng thực, KOL, khóa đầu tư chứng khoán, hoa hồng giới thiệu và đa cấp; quyền tác giả bài giảng, hình ảnh, dữ liệu học viên; bán hàng hóa qua sàn (hóa đơn khi giao hàng, trả hàng, doanh thu, phí sàn, chứng từ nguồn gốc, nhãn); bộ chứng từ một đơn; mục "Những điểm dễ có vấn đề" (SKILL.md yêu cầu tự nêu khi hỏi về doanh nghiệp đào tạo); checklist ra mắt khóa học.
+- **Danh mục:** thêm Luật Giáo dục và luật sửa đổi 2025 (✅, văn bản hợp nhất 2026), Luật Giáo dục đại học 2025 (✅), Luật Giáo dục nghề nghiệp 2025, nghị định điều kiện giáo dục 2026 (thay phần lớn nghị định 2024 từ 17/09/2026), nghị định giáo dục nghề nghiệp 2026, nghị quyết giảm thuế GTGT (✅), nghị định đa cấp 2026, Luật Chứng khoán, nghị định hướng dẫn Luật Bảo vệ quyền lợi người tiêu dùng, danh mục hợp đồng mẫu phải đăng ký, nghị định xử phạt thương mại, nghị định nhãn hàng hóa 2026, nghị định xử phạt lĩnh vực dữ liệu; Luật Sở hữu trí tuệ nâng lên ✅ (văn bản hợp nhất ký số 2026). Baseline 16/11/2026.
+- **Kho trích dẫn:** thêm nguyên văn LGTGT Điều 5, 7, 8, 9 và nghị quyết giảm thuế; nghị định hóa đơn Điều 8, 9; thông tư hóa đơn Điều 10 khoản 5 (trả hàng, hủy dịch vụ đã thu trước); nghị định TNDN Điều 8 (doanh thu); LGD Điều 5, 12, 42–45; LGDDH Điều 11; LSHTT Điều 14, 39, 45 (✅). Bản đăng lại (⚠️): nghị định GTGT Điều 4, 9; nghị định điều kiện giáo dục 2024 và 2026; Luật Quảng cáo Điều 8, 15a, 19, 23; LBVNTD Điều 3, 10, 25, 38, 41, 42; BLDS Điều 32; LBVDLCN Điều 9, 24, 28; nghị định đa cấp Điều 4.
+- **Soạn văn bản:** thêm 6 loại (điều khoản và hợp đồng khóa học, chính sách hoàn tiền và đổi trả, chính sách bảo mật và văn bản đồng ý, hợp đồng giảng viên, hợp đồng KOL và affiliate, giấy chứng nhận hoàn thành). **Rà soát văn bản:** thêm checklist 3.8.
+- **Ngưỡng luật sư:** thêm hoa hồng nhiều tầng (đa cấp) và khuyến nghị chứng khoán không phép. **Tra cứu:** cảnh báo trang đăng lại chèn lệnh nhắm vào AI.
+- **Nhóm 1, 3, 5, 6 và chứng từ chi phí:** thêm liên kết sang tính năng mới; nhóm 5 thêm chỉ đường cho trả lại hàng, hủy dịch vụ đã thu tiền.
+- **Bộ kiểm thử:** thêm câu 27–44, chạy bằng phiên làm việc độc lập, cả 18 câu đạt; chạy lại câu 22, 26 đạt.
+- Bản Gem: `cac-tinh-nang.md` gộp thêm `ban-hang-truc-tuyen.md`.
+
 ## 1.3.1 — 15/11/2026
 
 Chạy 6 câu kiểm thử mới (21–26) bằng phiên làm việc độc lập: cả 6 câu đạt. Sửa theo góp ý:

@@ -17,6 +17,8 @@ Skill hỗ trợ nghiên cứu và tư vấn sơ bộ. Gặp các dấu hiệu d
 | Giao dịch lớn | Mua bán, sáp nhập doanh nghiệp, chuyển nhượng phần lớn vốn, tái cấu trúc | Cần thẩm định pháp lý toàn diện | LDN, LDT, LCT |
 | Lao động | Đình công, cắt giảm lao động hàng loạt, tai nạn lao động nghiêm trọng | Nhiều bên, nhiều cơ quan cùng tham gia | BLLD |
 | Rút lui | Doanh nghiệp mất khả năng thanh toán, định giải thể khi còn nợ | Có thể phải đi theo thủ tục phá sản thay vì giải thể | LDN, LPS |
+| Hình sự, thương mại | Trả hoa hồng nhiều tầng cho người giới thiệu, nhất là khi bán dịch vụ, khóa học | Đa cấp với dịch vụ bị cấm; vi phạm về đa cấp có thể bị xử lý hình sự | LBVNTD, ND-DACAP, BLHS |
+| Chứng khoán | Khuyến nghị mua, bán mã chứng khoán cụ thể cho khách hàng, học viên khi không phải công ty chứng khoán | Cung cấp dịch vụ chứng khoán không phép bị cấm | LCK |
 | Dữ liệu | Rò rỉ dữ liệu cá nhân trên diện rộng | Có nghĩa vụ thông báo trong thời hạn ngắn, rủi ro bị xử phạt | LBVDLCN, ND-BVDLCN |
 
 ## 2. Câu cảnh báo mẫu

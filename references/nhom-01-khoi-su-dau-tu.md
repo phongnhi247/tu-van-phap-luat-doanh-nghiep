@@ -61,3 +61,5 @@ thành lập công ty, đăng ký kinh doanh, giấy chứng nhận đăng ký d
 ## 5. Khi nào chuyển sang luật sư
 
 Dự án có vốn nước ngoài trong ngành hạn chế, mua bán và sáp nhập, dự án cần chấp thuận chủ trương, cấu trúc sở hữu nhiều tầng hoặc có pháp nhân nước ngoài. Xem `nguong-chuyen-luat-su.md`.
+
+Mở trung tâm hoặc kinh doanh khóa học, đào tạo, coaching: điều kiện, giấy phép, tên gọi xem `ban-hang-truc-tuyen.md` mục 1, 2 (LGD, ND-DKGD, LGDDH-25).

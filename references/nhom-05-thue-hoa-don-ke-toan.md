@@ -61,6 +61,9 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 
 ### 3.4 Hóa đơn điện tử
 
+Trả lại hàng, đổi hàng làm thay đổi giá trị, hủy dịch vụ đã thu tiền trước: lập hóa đơn điều chỉnh theo TT-HDDT Điều 10 khoản 5 (kho trích dẫn, ✅). Đây không phải trường hợp hóa đơn sai sót.
+
+
 | Việc | Căn cứ |
 |---|---|
 | Thời điểm lập hóa đơn theo từng loại giao dịch | ND-HDDT |
@@ -130,3 +133,5 @@ Khi checklist có bước "lấy mẫu", "nộp hồ sơ" hoặc "kiểm tra hó
 ## 5. Khi nào chuyển sang luật sư
 
 Bị thanh tra hoặc kiểm tra thuế với số truy thu lớn, có dấu hiệu mua bán hóa đơn hoặc sử dụng hóa đơn bất hợp pháp, cơ quan thuế ấn định thuế với số lớn, tranh chấp về giao dịch liên kết, bị áp dụng cưỡng chế nợ thuế, doanh nghiệp bị đưa vào danh sách rủi ro hóa đơn. Xem `nguong-chuyen-luat-su.md`.
+
+Thuế GTGT học phí, hóa đơn khi thu tiền trước, trả nhiều lần, hoàn tiền, doanh thu gói nhiều kỳ, hóa đơn bán hàng online và hoàn hàng: xem `ban-hang-truc-tuyen.md` mục 3, 4 và phần B.

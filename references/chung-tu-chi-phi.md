@@ -163,3 +163,5 @@ Mẫu biên bản kiểm kê, biên bản thanh lý tài sản cố định: m�
 - [ ] Khoản chi không thuộc danh sách không được trừ (ND-TNDN Điều 10), không vượt mức khống chế (phúc lợi, trang phục...).
 - [ ] Trả cho cá nhân: đã xét khấu trừ TNCN (mục 4).
 - [ ] Lưu trữ đủ thời hạn.
+
+Phí sàn, hoa hồng affiliate, thù lao giảng viên và chứng từ đối soát khi bán hàng online: xem thêm `ban-hang-truc-tuyen.md` mục 4 và phần C.
