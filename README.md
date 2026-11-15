@@ -333,6 +333,12 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    Compress-Archive -Path "$g\*" -DestinationPath "tu-van-phap-luat-doanh-nghiep-gem-v$v.zip" -Force
    ```
 6. **Phân phối.** Nếu dùng git: commit, gắn tag `v<phiên bản>`, đẩy lên kho và đính kèm 2 file zip vào mục Releases. Nếu không dùng git: gửi 2 file zip kèm nội dung CHANGELOG. Cập nhật Gem chia sẻ nếu có.
+7. **Cập nhật mô tả kho (bắt buộc mỗi lần lên phiên bản).** Sửa phần About trên GitHub cho khớp bản mới: số phiên bản, ngày baseline, các mảng chính skill đã có (thêm mảng mới nếu bản này có tính năng mới). Thêm chủ đề (topics) nếu có mảng mới. Ví dụ:
+   ```bash
+   gh repo edit --description "Skill cho AI tư vấn pháp lý doanh nghiệp Việt Nam: ... Bản <phiên bản>, căn cứ đến <baseline>. Dùng cho Claude, Antigravity, Gemini."
+   gh repo edit --add-topic <chủ đề mới>
+   ```
+   Kiểm tra lại bằng `gh repo view --json description,repositoryTopics`. Mô tả không chứa tên, dữ liệu của doanh nghiệp cụ thể nào.
 
 ---
 
