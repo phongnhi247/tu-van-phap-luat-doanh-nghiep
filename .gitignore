@@ -2,3 +2,4 @@ ho-so-*.md
 ho-so-phap-ly-*/
 lich-tuan-thu-*.md
 *.zip
+!references/ho-so-doanh-nghiep-mau.md

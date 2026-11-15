@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.2.6 — 15/11/2026
+
+- Sửa lỗi: file mẫu `references/ho-so-doanh-nghiep-mau.md` bị `.gitignore` chặn nên thiếu trong kho và các bản zip trước. Đã thêm ngoại lệ để file được đưa vào kho.
+
 ## 1.2.5 — 15/11/2026
 
 - README: mục **Skill làm được gì** viết chi tiết cho từng chức năng (dùng khi nào, cách gọi, skill làm gì, kết quả nhận được, giới hạn).
