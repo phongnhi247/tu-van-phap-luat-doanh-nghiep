@@ -13,7 +13,28 @@ Skill này được phát triển dựa trên skill **"Tư vấn pháp luật" c
 
 - **Kế thừa từ bản gốc:** ý tưởng và phương pháp tra cứu, gồm tra chéo văn bản theo 3 chiều, xây bảng căn cứ trích dẫn nguyên văn có tọa độ (Source of Truth), quy tắc xử lý xung đột văn bản, và cách lưu vết quá trình tra cứu.
 - **Phần làm lại:** chuyển sang phạm vi doanh nghiệp; viết lại toàn bộ hướng dẫn; danh mục căn cứ duy nhất cập nhật đến năm 2026; nguyên tắc "chỉ nói khi có căn cứ" với nhãn tin cậy; kho trích dẫn đã xác minh; 8 nhóm nghiệp vụ; các tính năng lịch tuân thủ, rà soát văn bản, soạn văn bản theo mẫu, cập nhật căn cứ; bộ câu hỏi kiểm thử.
-- Trang gốc không công bố giấy phép cho việc sửa đổi hay phát hành lại. **Trước khi chia sẻ công khai bản phái sinh này, cần có sự đồng ý của tác giả gốc.** Giấy phép MIT trong file `LICENSE` chỉ áp dụng cho phần do người phát hành skill này viết.
+- Mọi quyền đối với phần thuộc tác phẩm gốc vẫn thuộc về tác giả gốc. Giấy phép MIT trong file `LICENSE` chỉ áp dụng cho phần do người phát hành skill này viết. Nếu tác giả gốc yêu cầu, người phát hành sẽ chỉnh sửa hoặc gỡ bỏ phần liên quan.
+
+## Nguồn tham khảo
+
+Skill **không chứa toàn văn** văn bản hay bài viết của bên thứ ba. Skill chỉ chứa các câu trích ngắn từ văn bản quy phạm pháp luật (kèm điều, khoản) và **đường link dẫn nguồn**. Các nguồn đã được dùng để tra cứu, xác minh khi xây dựng skill:
+
+| Nhóm | Trang | Cách dùng trong skill |
+|---|---|---|
+| Cơ quan nhà nước | Cổng Thông tin điện tử Chính phủ và kho văn bản ký số (chinhphu.vn, datafiles.chinhphu.vn, xaydungchinhsach.chinhphu.vn), Công báo (congbao.chinhphu.vn), Cơ sở dữ liệu quốc gia về văn bản pháp luật (vbpl.vn), Bộ Tài chính, Bộ Tư pháp, cổng thông tin các tỉnh (Cần Thơ, Nghệ An, Khánh Hòa, Quảng Nam...), Báo Đại biểu Nhân dân, Tạp chí Tòa án | Nguồn ưu tiên để đọc nguyên văn và xác nhận hiệu lực |
+| Cơ sở dữ liệu pháp luật | Thư Viện Pháp Luật (thuvienphapluat.vn), LuatVietnam (luatvietnam.vn), Thư viện Nhà đất, caselaw.vn, legalzone.vn, hethongphapluat.com, trang văn bản của VCCI, WIPO Lex | Xác nhận số hiệu, tình trạng hiệu lực; đọc văn bản hợp nhất hoặc bản đăng lại |
+| Hãng tư vấn, kiểm toán | KPMG, EY, PwC, Baker McKenzie, Crowe, Forvis Mazars, Grant Thornton | Chỉ dùng để tìm số hiệu, điểm mới; **không** dùng làm căn cứ |
+| Báo chí, trang chuyên ngành, phần mềm | Tạp chí Luật sư Việt Nam (lsvn.vn), VnEconomy, Thị trường Tài chính Tiền tệ, Thời báo Tài chính, Tạp chí Thuế, MISA (amis.misa.vn, misaeshop.vn, meinvoice.vn), iHoaDon, Luật Việt An, Vietnam Journals Online | Chỉ dùng để tìm từ khóa; một số file văn bản có chữ ký số được tải từ các trang này |
+
+Mọi nội dung, nhãn hiệu và tài liệu tại các trang trên **thuộc về chủ sở hữu tương ứng**. Việc nêu tên và đặt link chỉ nhằm dẫn nguồn. Skill **không có liên kết, không được tài trợ hay xác nhận** bởi bất kỳ trang, tổ chức nào kể trên. Tên Claude, Gemini, Antigravity chỉ dùng để mô tả nền tảng cài đặt.
+
+## Không chịu trách nhiệm
+
+- Người phát hành skill **không chịu trách nhiệm** về bất kỳ thiệt hại, tổn thất, chế tài hay tranh chấp nào phát sinh từ việc sử dụng skill hoặc câu trả lời do AI tạo ra bằng skill.
+- Người phát hành **không chịu trách nhiệm** về tính chính xác, tính cập nhật hay tình trạng truy cập của nội dung tại các trang bên thứ ba được dẫn link.
+- Danh mục căn cứ chỉ đúng đến ngày baseline ghi trong `references/danh-muc-can-cu.md`. Văn bản ban hành sau ngày đó không được phản ánh, trừ khi người dùng chạy lệnh cập nhật.
+- Skill không phải dịch vụ pháp lý. Mọi quyết định áp dụng là của người dùng.
+- Chủ sở hữu nội dung nào cho rằng skill sử dụng nội dung của mình chưa phù hợp, vui lòng mở Issue trên kho GitHub này. Người phát hành sẽ xem xét chỉnh sửa hoặc gỡ bỏ phần liên quan.
 
 ## Giới thiệu
 

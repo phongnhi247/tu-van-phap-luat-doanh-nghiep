@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.2.3 — 15/11/2026
+
+- README: thêm mục **Nguồn tham khảo** (các trang đã dùng để tra cứu, xác minh, và cách dùng từng nhóm nguồn) và mục **Không chịu trách nhiệm**; thêm kênh yêu cầu chỉnh sửa hoặc gỡ bỏ qua GitHub Issues.
+
 ## 1.2.2 — 15/11/2026
 
 - Thêm mục **Ghi công** trong README và LICENSE: skill được phát triển dựa trên skill "Tư vấn pháp luật" của tác giả Nguyễn Duy Tùng (duytung.vn). Nêu rõ phần kế thừa, phần làm lại, và giới hạn phạm vi của giấy phép MIT.
