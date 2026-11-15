@@ -37,16 +37,100 @@ Skill đã đạt 20 câu kiểm thử, kể cả các câu bẫy hỏi về vă
 
 ### Skill làm được gì
 
-| Chức năng | Bạn nói | Skill trả về |
-|---|---|---|
-| Tư vấn chuyên sâu | Hỏi tự nhiên về một tình huống | Câu trả lời 7 phần: kết luận, giả định, căn cứ trích nguyên văn, phân tích, phương án và khuyến nghị, checklist việc cần làm, rủi ro |
-| Lịch tuân thủ | "Tháng 1/2027 công ty phải nộp gì?" | Bảng hạn nộp theo ngày (tờ khai, tạm nộp, BHXH...), mỗi hạn có trích dẫn; lưu ý hạn trùng ngày nghỉ |
-| Rà soát văn bản | Dán hoặc gửi hợp đồng, nội quy, quyết định, điều lệ | Bảng lỗi theo vị trí, căn cứ, mức rủi ro, đề xuất sửa; có checklist cho hợp đồng lao động, nội quy, quyết định kỷ luật, hợp đồng mua bán, điều lệ |
-| Soạn văn bản | "Soạn giúp quyết định / biên bản / công văn..." | Bản nháp có phần căn cứ, trình bày theo chuẩn Nghị định 30/2020 (Phụ lục I), kèm cài đặt định dạng cho Word. Văn bản có mẫu bắt buộc (tờ khai, hồ sơ đăng ký...) thì hướng dẫn lấy mẫu chính thức và cách điền |
-| Hồ sơ doanh nghiệp | Khai một lần loại hình, số lao động, cách kê khai thuế... | Lưu thành file trong thư mục của bạn; các câu trả lời sau tự áp đúng doanh nghiệp |
-| Cảnh báo cần luật sư | Tình huống có dấu hiệu hình sự, đang thanh tra, tranh chấp lớn | Cảnh báo ở đầu câu trả lời, chỉ tư vấn cách khắc phục hợp pháp |
-| Lập hồ sơ vụ việc | "Lập hồ sơ vụ ..." | Thư mục gồm nhật ký tra cứu và báo cáo tư vấn |
-| Cập nhật căn cứ | "Cập nhật căn cứ" | Tra văn bản mới, lập bảng đề xuất thay đổi để bạn duyệt rồi mới ghi |
+Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên, skill tự chọn chức năng phù hợp. Muốn gọi chắc chắn thì dùng các câu mẫu ở mỗi mục.
+
+#### 1. Tư vấn chuyên sâu (mặc định)
+
+- **Dùng khi:** bạn có một tình huống cụ thể cần biết luật nói gì và nên làm gì.
+- **Cách gọi:** hỏi tự nhiên. Ví dụ: "Nhân viên nghỉ không phép 6 ngày, công ty muốn sa thải thì làm thế nào?"
+- **Skill làm gì:**
+  - Xác định thời điểm sự việc, để chọn đúng văn bản có hiệu lực lúc đó (không phải lúc hỏi).
+  - Tra danh mục căn cứ, đọc nguyên văn điều khoản trên nguồn chính thống hoặc trong kho trích dẫn đã xác minh.
+  - Kiểm tra theo 3 chiều: văn bản hướng dẫn, văn bản sửa đổi hoặc thay thế, điều khoản chuyển tiếp.
+- **Bạn nhận được** câu trả lời 7 phần:
+  1. **Kết luận** ngắn, có nhãn ✅ ⚠️ ❓.
+  2. **Tình huống và giả định:** thông tin đã dùng, chỗ nào còn `[Giả định]` và nếu khác đi thì kết luận đổi thế nào.
+  3. **Căn cứ pháp lý:** số hiệu, điều, khoản, câu trích nguyên văn, ngày hiệu lực, link nguồn.
+  4. **Phân tích:** áp từng điều luật vào tình huống, các điểm dễ hiểu sai.
+  5. **Phương án và khuyến nghị:** từ 2 phương án trở lên nếu có, chấm điểm pháp lý, rủi ro, khả thi, và khuyến nghị nên chọn phương án nào.
+  6. **Việc cần làm:** checklist hồ sơ, biểu mẫu, nơi nộp, thời hạn, lệ phí, hậu quả nếu làm trễ.
+  7. **Rủi ro và lưu ý**, kèm dòng ngày căn cứ.
+- **Giới hạn:** câu hỏi chỉ tra một con số thì trả lời gọn hơn (kết luận và căn cứ). Câu hỏi ngoài phạm vi doanh nghiệp thì từ chối và gợi ý nơi hỏi.
+
+#### 2. Lịch tuân thủ
+
+- **Dùng khi:** bạn cần biết tháng, quý hoặc năm này doanh nghiệp phải nộp những gì.
+- **Cách gọi:** "Tháng 1/2027 công ty phải nộp gì?", "Lịch nộp quý 4", "Hạn nộp tờ khai GTGT quý 4/2026 là ngày nào?"
+- **Skill làm gì:**
+  - Lấy thông tin từ hồ sơ doanh nghiệp: kê khai thuế theo tháng hay quý, số lao động, có lao động nước ngoài, có giao dịch liên kết hay không...
+  - Lọc ra các nghĩa vụ áp dụng: tờ khai GTGT, khấu trừ TNCN, tạm nộp TNDN, quyết toán năm, báo cáo tài chính, đóng BHXH, BHYT, BHTN, kinh phí công đoàn, báo cáo lao động...
+  - Tra nguyên văn hạn nộp của từng nghĩa vụ. Kiểm tra hạn nộp có trùng ngày nghỉ, Tết hay không.
+- **Bạn nhận được:** bảng sắp theo ngày, gồm hạn, việc cần làm, ai làm, căn cứ trích dẫn, mức phạt nếu trễ (khi có trích dẫn). Kèm danh sách việc **không** áp dụng cho bạn, và các việc sắp đến hạn. Có thể lưu lịch thành file để dùng cả năm.
+- **Giới hạn:** chưa bao gồm báo cáo riêng của ngành đặc thù (tài chính, xây dựng...). Skill sẽ nói rõ khi gặp trường hợp đó.
+
+#### 3. Rà soát văn bản
+
+- **Dùng khi:** bạn có hợp đồng, nội quy, quyết định, điều lệ và muốn biết có trái luật hay rủi ro gì không.
+- **Cách gọi:** dán nội dung hoặc gửi file, kèm câu "Rà soát giúp văn bản này".
+- **Skill làm gì:**
+  - Xác định loại văn bản, ngày ký và vai trò của bạn (bên soạn hay bên nhận).
+  - Áp checklist nội dung bắt buộc cho 5 loại văn bản hay gặp: **hợp đồng lao động, nội quy lao động, quyết định kỷ luật hoặc sa thải, hợp đồng mua bán hàng hóa hoặc dịch vụ, điều lệ công ty**. Loại văn bản khác thì tra trực tiếp căn cứ.
+  - Đọc toàn văn để tìm điều khoản mâu thuẫn nhau, điều khoản bất lợi bất thường, chỗ mơ hồ, chỗ thiếu thời hạn hay chế tài.
+  - Với hợp đồng ký với người tiêu dùng: đối chiếu các điều khoản bị cấm trong hợp đồng mẫu.
+  - Có thể góp ý cả phần trình bày (lề, phông, đánh số, chính tả, khung chữ ký).
+- **Bạn nhận được:** bảng lỗi gồm vị trí, vấn đề, căn cứ trích dẫn, mức rủi ro (Cao, Trung bình, Thấp), đề xuất sửa. Kèm danh sách nội dung bắt buộc còn thiếu. Skill không chép lại thông tin cá nhân (số CCCD, lương...) trong câu trả lời.
+- **Giới hạn:** skill chỉ ra lỗi và cách sửa. Bạn yêu cầu thì skill mới viết lại điều khoản hoặc cả văn bản.
+
+#### 4. Soạn văn bản theo chuẩn Nghị định 30/2020
+
+- **Dùng khi:** bạn cần bản nháp quyết định, biên bản, thông báo, công văn, hợp đồng, nghị quyết họp...
+- **Cách gọi:** "Soạn giúp quyết định kỷ luật nhân viên A", "Soạn công văn giải trình gửi cơ quan thuế".
+- **Skill làm gì:**
+  - **Văn bản có mẫu bắt buộc** (tờ khai thuế, đề nghị gia hạn nộp hồ sơ khai thuế, hồ sơ đăng ký doanh nghiệp, thông báo khuyến mại...): skill **không tự dựng mẫu**. Skill chỉ ra số hiệu mẫu, văn bản ban hành mẫu, nơi lấy mẫu chính thức, và hướng dẫn điền từng mục.
+  - **Văn bản nội bộ không có mẫu bắt buộc:** skill soạn bản nháp có đủ nội dung luật yêu cầu, phần căn cứ ghi đúng văn bản đang có hiệu lực, và để `[...]` cho mọi thông tin chưa biết (không tự điền tên, ngày, số tiền).
+  - Trình bày theo **Phụ lục I Nghị định 30/2020**: bố cục 9 thành phần (Quốc hiệu và Tiêu ngữ, tên cơ quan, số và ký hiệu, địa danh và ngày tháng, tên loại và trích yếu, nội dung, chữ ký, dấu, nơi nhận); cách ghi quyền hạn ký (TM., KT., TL., TUQ.).
+- **Bạn nhận được:** bản nháp, danh sách các chỗ cần điền, các bước tiếp theo (ký, đóng dấu, gửi, lưu), và **cài đặt định dạng cho Word**: khổ A4, lề, phông Times New Roman, cỡ chữ từng phần, giãn dòng, thụt đầu dòng.
+- **Lưu ý:** Nghị định 30/2020 **bắt buộc** với doanh nghiệp nhà nước. Doanh nghiệp khác dùng làm chuẩn khuyến nghị. Doanh nghiệp có quy chế văn thư riêng thì theo quy chế đó.
+
+#### 5. Hồ sơ doanh nghiệp
+
+- **Dùng khi:** bạn hỏi nhiều lần cho cùng một doanh nghiệp và không muốn khai lại thông tin.
+- **Cách hoạt động:** lần đầu, skill hỏi các thông tin ảnh hưởng tới câu trả lời: loại hình, ngành nghề, vốn nước ngoài, số lao động, công đoàn, phương pháp và kỳ kê khai thuế, chế độ kế toán, có giao dịch liên kết hay không... Skill chỉ hỏi những gì cần cho câu hỏi hiện tại, tối đa 4 câu một lượt.
+- **Bạn nhận được:** file `ho-so-doanh-nghiep.md` lưu **trong thư mục làm việc của bạn**, không lưu trong thư mục skill, nên cập nhật skill không làm mất hồ sơ. Làm cho nhiều doanh nghiệp (ví dụ kế toán dịch vụ) thì mỗi doanh nghiệp một file `ho-so-<tên>.md`. Hồ sơ cũ hơn 6 tháng thì skill hỏi lại xem thông tin còn đúng không.
+- **Bảo mật:** nội dung hồ sơ không được đưa vào truy vấn tìm kiếm web.
+
+#### 6. Cảnh báo cần luật sư
+
+- **Dùng khi:** skill tự kích hoạt khi tình huống có dấu hiệu nguy hiểm.
+- **Các dấu hiệu skill theo dõi:**
+  - dấu hiệu hình sự: mua bán hóa đơn, trốn thuế, trốn đóng BHXH kéo dài;
+  - đang bị thanh tra, kiểm tra, bị ấn định thuế hoặc truy thu số lớn; nhận giấy triệu tập;
+  - đã có đơn khởi kiện, yêu cầu trọng tài; tranh chấp giá trị lớn hoặc có yếu tố nước ngoài;
+  - sắp hết thời hiệu khởi kiện, khiếu nại, thời hạn giải trình;
+  - mua bán, sáp nhập doanh nghiệp; đình công, cắt giảm lao động hàng loạt, tai nạn lao động nghiêm trọng;
+  - mất khả năng thanh toán; rò rỉ dữ liệu cá nhân trên diện rộng.
+- **Bạn nhận được:** cảnh báo đặt ở **đầu** câu trả lời, nêu rõ dấu hiệu, việc nên làm trước khi ký hoặc nộp gì, và tài liệu cần mang theo khi gặp luật sư. Skill vẫn giải thích khung pháp lý, nhưng **từ chối** tư vấn cách che giấu, hợp thức hóa chứng từ hay đối phó trái luật.
+
+#### 7. Lập hồ sơ vụ việc
+
+- **Dùng khi:** vụ việc phức tạp, nhiều bên, nhiều văn bản, hoặc bạn cần tài liệu để làm việc với cơ quan nhà nước, tòa án.
+- **Cách gọi:** "Lập hồ sơ vụ tranh chấp công nợ với công ty X".
+- **Bạn nhận được:** một thư mục trong thư mục làm việc của bạn, gồm:
+  - `nhat-ky-tra-cuu.md`: ghi lần lượt từng lần tra, gồm mục đích, nguồn, câu trích, mâu thuẫn tìm thấy, quyết định đào sâu hay mở rộng. Chỉ ghi thêm, không xóa.
+  - `bao-cao-tu-van.md`: báo cáo đầy đủ theo khung 7 phần.
+  - Cuối nhật ký có 3 mục: **đã chắc chắn** (kèm nguồn), **hành động**, **còn bỏ ngỏ**.
+- **Lưu ý:** skill hỏi bạn trước khi tạo file.
+
+#### 8. Cập nhật căn cứ
+
+- **Dùng khi:** ngày căn cứ đã cũ (skill tự nhắc khi quá 3 tháng), hoặc bạn nghe tin có luật, nghị định mới.
+- **Cách gọi:** "Cập nhật căn cứ", "Kiểm tra văn bản mới về thuế".
+- **Skill làm gì:**
+  - Hỏi phạm vi: toàn bộ, một nhóm, hay chỉ các dòng còn nhãn ⚠️ (mặc định ưu tiên nhóm thuế và lao động).
+  - Tra lại từng văn bản: còn hiệu lực không, đã bị sửa hay thay thế chưa. Tìm văn bản mới ban hành sau ngày căn cứ. Kiểm tra các dự thảo đang theo dõi đã được ban hành chưa.
+  - Lập **bảng đề xuất thay đổi** gồm dòng cũ, dòng mới, nguồn, nhãn mới, rồi **chờ bạn duyệt** trước khi ghi.
+- **Bạn nhận được:** danh mục mới, ngày căn cứ mới, và gợi ý nâng số phiên bản, ghi nhật ký thay đổi, chạy lại bộ câu hỏi kiểm thử.
+- **Lưu ý:** thay đổi bạn tự làm trên máy sẽ bị ghi đè khi cài bản chính thức tiếp theo. Gemini Gem không ghi được file, nên chỉ xuất bảng đề xuất để bạn tự cập nhật.
 
 ### Tra được gì
 

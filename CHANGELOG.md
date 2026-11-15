@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.2.5 — 15/11/2026
+
+- README: mục **Skill làm được gì** viết chi tiết cho từng chức năng (dùng khi nào, cách gọi, skill làm gì, kết quả nhận được, giới hạn).
+
 ## 1.2.4 — 15/11/2026
 
 - README: viết lại phần **Giới thiệu** theo mạch nỗi đau, vấn đề, giải pháp; thêm bảng **Skill làm được gì** (8 chức năng) và **Tra được gì** (8 nhóm, nội dung và câu hỏi ví dụ). Đưa phần Giới thiệu lên ngay sau khối miễn trừ trách nhiệm.
