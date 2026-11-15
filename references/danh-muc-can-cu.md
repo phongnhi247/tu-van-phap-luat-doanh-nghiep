@@ -1,7 +1,7 @@
 # Danh mục căn cứ
 
 Baseline: 14/11/2026
-Phiên bản: 1.2.3
+Phiên bản: 1.2.4
 
 Đây là **nơi duy nhất** trong skill ghi số hiệu văn bản. Các file khác chỉ dùng **mã** ở cột đầu tiên. Khi có văn bản mới thay thế, chỉ sửa dòng tương ứng ở đây; mã giữ nguyên để các module không phải sửa theo.
 

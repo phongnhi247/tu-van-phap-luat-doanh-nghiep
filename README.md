@@ -7,6 +7,62 @@
 > - Với vụ việc có giá trị lớn, có dấu hiệu hình sự, đang bị thanh tra, kiểm tra, hoặc đang tranh chấp, hãy hỏi luật sư hoặc cơ quan có thẩm quyền.
 > - Skill được phát hành theo giấy phép MIT (xem `LICENSE`), **cung cấp nguyên trạng, không kèm bất kỳ bảo đảm nào**.
 
+## Giới thiệu
+
+### Vì sao có skill này
+
+**Nỗi đau của người làm giấy tờ trong doanh nghiệp**
+
+- Chỉ riêng năm 2025–2026, Luật Quản lý thuế, thuế GTGT, TNDN, TNCN, hóa đơn điện tử, lương tối thiểu, xử phạt BHXH, Luật Đầu tư, Luật Doanh nghiệp... đều có văn bản mới thay thế. Mẫu tờ khai, kỳ khai và hạn nộp cũng đổi theo.
+- Kế toán, nhân sự, chủ doanh nghiệp nhỏ không có luật sư bên cạnh. Mỗi lần cần câu trả lời phải lục nhiều trang, đọc bài phân tích, rồi vẫn không chắc văn bản đó còn hiệu lực hay không.
+- Hỏi AI thì nhanh, nhưng AI hay **trả lời tự tin bằng trí nhớ cũ**: trích nghị định đã bị thay, nêu mức phạt không có nguồn, thậm chí mô tả cả một văn bản không tồn tại.
+
+**Vấn đề cốt lõi:** câu trả lời pháp lý chỉ có giá trị khi **đúng văn bản đang có hiệu lực tại thời điểm sự việc**, và người đọc **kiểm tra lại được**. Một câu trả lời nghe hợp lý nhưng không có nguồn còn nguy hiểm hơn không có câu trả lời.
+
+**Giải pháp**
+
+Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
+
+- **Chỉ nói khi có căn cứ.** Mọi con số (mức phạt, thời hạn, tỷ lệ) phải kèm câu trích nguyên văn. Mỗi kết luận có nhãn: ✅ đã đối chiếu, ⚠️ chưa chắc chắn, ❓ không tìm thấy. Không tìm thấy thì nói "không biết", không bịa.
+- **Một danh mục căn cứ duy nhất** gồm 120 văn bản, cập nhật đến 14/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
+- **Kho trích dẫn đã xác minh** từ file gốc (nhiều file có chữ ký số): hạn nộp tờ khai thuế, khai TNCN theo quý, xử lý hóa đơn sai sót, mức phạt chậm đóng BHXH, trình tự kỷ luật lao động, chuẩn trình bày văn bản...
+- **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
+- **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
+
+Skill đã đạt 20 câu kiểm thử, kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
+
+**Dành cho:** chủ doanh nghiệp, kế toán, nhân sự, nhân viên làm hồ sơ, và người tư vấn cần một bản nháp có căn cứ để kiểm tra lại.
+
+**Không làm:** hôn nhân, thừa kế, đất đai hộ gia đình, hình sự cá nhân.
+
+### Skill làm được gì
+
+| Chức năng | Bạn nói | Skill trả về |
+|---|---|---|
+| Tư vấn chuyên sâu | Hỏi tự nhiên về một tình huống | Câu trả lời 7 phần: kết luận, giả định, căn cứ trích nguyên văn, phân tích, phương án và khuyến nghị, checklist việc cần làm, rủi ro |
+| Lịch tuân thủ | "Tháng 1/2027 công ty phải nộp gì?" | Bảng hạn nộp theo ngày (tờ khai, tạm nộp, BHXH...), mỗi hạn có trích dẫn; lưu ý hạn trùng ngày nghỉ |
+| Rà soát văn bản | Dán hoặc gửi hợp đồng, nội quy, quyết định, điều lệ | Bảng lỗi theo vị trí, căn cứ, mức rủi ro, đề xuất sửa; có checklist cho hợp đồng lao động, nội quy, quyết định kỷ luật, hợp đồng mua bán, điều lệ |
+| Soạn văn bản | "Soạn giúp quyết định / biên bản / công văn..." | Bản nháp có phần căn cứ, trình bày theo chuẩn Nghị định 30/2020 (Phụ lục I), kèm cài đặt định dạng cho Word. Văn bản có mẫu bắt buộc (tờ khai, hồ sơ đăng ký...) thì hướng dẫn lấy mẫu chính thức và cách điền |
+| Hồ sơ doanh nghiệp | Khai một lần loại hình, số lao động, cách kê khai thuế... | Lưu thành file trong thư mục của bạn; các câu trả lời sau tự áp đúng doanh nghiệp |
+| Cảnh báo cần luật sư | Tình huống có dấu hiệu hình sự, đang thanh tra, tranh chấp lớn | Cảnh báo ở đầu câu trả lời, chỉ tư vấn cách khắc phục hợp pháp |
+| Lập hồ sơ vụ việc | "Lập hồ sơ vụ ..." | Thư mục gồm nhật ký tra cứu và báo cáo tư vấn |
+| Cập nhật căn cứ | "Cập nhật căn cứ" | Tra văn bản mới, lập bảng đề xuất thay đổi để bạn duyệt rồi mới ghi |
+
+### Tra được gì
+
+| Nhóm | Ví dụ nội dung tra được | Ví dụ câu hỏi |
+|---|---|---|
+| 1. Khởi sự và đầu tư | Chọn loại hình doanh nghiệp; hồ sơ đăng ký doanh nghiệp theo quy định 2025–2026; chủ sở hữu hưởng lợi; ngành nghề kinh doanh có điều kiện; nhà đầu tư nước ngoài theo Luật Đầu tư 2025; hộ kinh doanh chuyển lên doanh nghiệp; lệ phí môn bài đã bãi bỏ từ 2026 | "Nhà đầu tư nước ngoài góp thêm vốn vào công ty thì làm thủ tục gì trước?" |
+| 2. Quản trị và vốn | Chuyển nhượng vốn và quyền ưu tiên mua; tăng, giảm vốn điều lệ; họp và biểu quyết HĐTV, ĐHĐCĐ; thay người đại diện theo pháp luật; tạm ngừng kinh doanh | "Thành viên công ty TNHH muốn bán vốn cho người ngoài thì phải làm gì?" |
+| 3. Hợp đồng và thương mại | Phạt vi phạm, bồi thường, bất khả kháng; hợp đồng mẫu với người tiêu dùng và các điều khoản bị cấm; thương mại điện tử; quảng cáo, người có ảnh hưởng (KOL); khuyến mại; hợp đồng điện tử, chữ ký số; cạnh tranh | "Hợp đồng mẫu ghi 'không hoàn tiền trong mọi trường hợp' có hiệu lực không?" |
+| 4. Lao động, BHXH, an toàn lao động | Hợp đồng lao động, thử việc; lương tối thiểu 2026 và từ 2027; kỷ luật, sa thải, chấm dứt hợp đồng; BHXH, BHYT, BHTN và mức phạt chậm đóng từ 10/09/2026; lao động nước ngoài; hợp đồng lao động điện tử; huấn luyện an toàn lao động | "Nhân viên nghỉ không phép 6 ngày, sa thải thế nào cho đúng trình tự?" |
+| 5. Thuế, hóa đơn, kế toán | Hạn nộp tờ khai tháng, quý, năm, quyết toán; khai TNCN theo quý từ 01/07/2026; thuế GTGT, khấu trừ, hoàn thuế; thuế TNDN, chi phí được trừ, miễn thuế cho doanh nghiệp doanh thu nhỏ; hóa đơn điện tử và xử lý sai sót; xử phạt thuế, hóa đơn; giao dịch liên kết; chế độ kế toán mới từ 2026; khai bổ sung khi đang bị thanh tra | "Xuất hóa đơn sai đơn giá, khách đã kê khai rồi, xử lý sao?" |
+| 6. Tuân thủ chuyên ngành | Bảo vệ dữ liệu cá nhân (luật mới từ 2026); đăng ký và bảo vệ nhãn hiệu; giấy phép môi trường; phòng cháy, chữa cháy | "Công ty thu thập dữ liệu khách hàng cần làm hồ sơ gì?" |
+| 7. Tranh chấp và rút lui | Khởi kiện tại Tòa án nhân dân khu vực, trọng tài, hòa giải; khiếu nại, khởi kiện quyết định hành chính; thanh tra, xử phạt hành chính; thi hành án dân sự (luật mới từ 01/07/2026); giải thể; phục hồi, phá sản | "Công ty còn nợ thì có giải thể được không?" |
+| 8. Hải quan và xuất nhập khẩu | Thủ tục thông quan; doanh nghiệp chế xuất mua bán với nội địa; xuất nhập khẩu tại chỗ; hàng cấm, hạn chế xuất nhập khẩu (quy định mới từ 9/2026); thuế xuất nhập khẩu; xử phạt hải quan (nghị định mới từ 01/07/2026) | "Doanh nghiệp chế xuất bán hàng cho công ty trong nước làm thủ tục gì?" |
+
+Danh sách đầy đủ văn bản, kèm tình trạng hiệu lực và link nguồn: xem `references/danh-muc-can-cu.md`.
+
 ## Ghi công
 
 Skill này được phát triển dựa trên skill **"Tư vấn pháp luật" của tác giả Nguyễn Duy Tùng**, tải miễn phí tại https://duytung.vn/tai-nguyen/tu-van-phap-luat (© 2026 Nguyễn Duy Tùng).
@@ -35,15 +91,6 @@ Mọi nội dung, nhãn hiệu và tài liệu tại các trang trên **thuộc 
 - Danh mục căn cứ chỉ đúng đến ngày baseline ghi trong `references/danh-muc-can-cu.md`. Văn bản ban hành sau ngày đó không được phản ánh, trừ khi người dùng chạy lệnh cập nhật.
 - Skill không phải dịch vụ pháp lý. Mọi quyết định áp dụng là của người dùng.
 - Chủ sở hữu nội dung nào cho rằng skill sử dụng nội dung của mình chưa phù hợp, vui lòng mở Issue trên kho GitHub này. Người phát hành sẽ xem xét chỉnh sửa hoặc gỡ bỏ phần liên quan.
-
-## Giới thiệu
-
-Skill AI hỗ trợ tra cứu pháp lý chuyên sâu cho doanh nghiệp Việt Nam. Dành cho chủ doanh nghiệp, kế toán và nhân viên làm giấy tờ.
-
-- **Làm được:** thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại (gồm khuyến mại, hợp đồng điện tử), lao động, BHXH, BHYT và an toàn lao động, thuế, hóa đơn và kế toán, dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC, tranh chấp, thanh tra, giải thể, phá sản, hải quan và xuất nhập khẩu. Có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, soạn văn bản theo mẫu, hồ sơ doanh nghiệp lưu lại, và lệnh tự cập nhật căn cứ.
-- **Cách trả lời:** chuyên sâu theo 7 phần: kết luận, giả định, căn cứ trích nguyên văn, phân tích, phương án và khuyến nghị, checklist hồ sơ, rủi ro.
-- **Nguyên tắc:** chỉ nói khi có căn cứ. Mỗi kết luận có nhãn ✅ (đã đối chiếu nguyên văn), ⚠️ (chưa chắc chắn) hoặc ❓ (không tìm thấy). Không tìm thấy thì nói "không biết", không bịa.
-- **Không làm:** hôn nhân, thừa kế, đất đai hộ gia đình, hình sự cá nhân.
 
 > Nội dung mang tính tham khảo, **không thay thế ý kiến pháp lý chính thức** của luật sư hoặc cơ quan có thẩm quyền.
 

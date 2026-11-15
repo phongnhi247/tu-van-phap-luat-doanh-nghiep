@@ -1,5 +1,9 @@
 # Nhật ký thay đổi
 
+## 1.2.4 — 15/11/2026
+
+- README: viết lại phần **Giới thiệu** theo mạch nỗi đau, vấn đề, giải pháp; thêm bảng **Skill làm được gì** (8 chức năng) và **Tra được gì** (8 nhóm, nội dung và câu hỏi ví dụ). Đưa phần Giới thiệu lên ngay sau khối miễn trừ trách nhiệm.
+
 ## 1.2.3 — 15/11/2026
 
 - README: thêm mục **Nguồn tham khảo** (các trang đã dùng để tra cứu, xác minh, và cách dùng từng nhóm nguồn) và mục **Không chịu trách nhiệm**; thêm kênh yêu cầu chỉnh sửa hoặc gỡ bỏ qua GitHub Issues.
