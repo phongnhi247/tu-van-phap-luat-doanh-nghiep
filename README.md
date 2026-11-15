@@ -7,6 +7,16 @@
 > - Với vụ việc có giá trị lớn, có dấu hiệu hình sự, đang bị thanh tra, kiểm tra, hoặc đang tranh chấp, hãy hỏi luật sư hoặc cơ quan có thẩm quyền.
 > - Skill được phát hành theo giấy phép MIT (xem `LICENSE`), **cung cấp nguyên trạng, không kèm bất kỳ bảo đảm nào**.
 
+## Ghi công
+
+Skill này được phát triển dựa trên skill **"Tư vấn pháp luật" của tác giả Nguyễn Duy Tùng**, tải miễn phí tại https://duytung.vn/tai-nguyen/tu-van-phap-luat (© 2026 Nguyễn Duy Tùng).
+
+- **Kế thừa từ bản gốc:** ý tưởng và phương pháp tra cứu, gồm tra chéo văn bản theo 3 chiều, xây bảng căn cứ trích dẫn nguyên văn có tọa độ (Source of Truth), quy tắc xử lý xung đột văn bản, và cách lưu vết quá trình tra cứu.
+- **Phần làm lại:** chuyển sang phạm vi doanh nghiệp; viết lại toàn bộ hướng dẫn; danh mục căn cứ duy nhất cập nhật đến năm 2026; nguyên tắc "chỉ nói khi có căn cứ" với nhãn tin cậy; kho trích dẫn đã xác minh; 8 nhóm nghiệp vụ; các tính năng lịch tuân thủ, rà soát văn bản, soạn văn bản theo mẫu, cập nhật căn cứ; bộ câu hỏi kiểm thử.
+- Trang gốc không công bố giấy phép cho việc sửa đổi hay phát hành lại. **Trước khi chia sẻ công khai bản phái sinh này, cần có sự đồng ý của tác giả gốc.** Giấy phép MIT trong file `LICENSE` chỉ áp dụng cho phần do người phát hành skill này viết.
+
+## Giới thiệu
+
 Skill AI hỗ trợ tra cứu pháp lý chuyên sâu cho doanh nghiệp Việt Nam. Dành cho chủ doanh nghiệp, kế toán và nhân viên làm giấy tờ.
 
 - **Làm được:** thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại (gồm khuyến mại, hợp đồng điện tử), lao động, BHXH, BHYT và an toàn lao động, thuế, hóa đơn và kế toán, dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC, tranh chấp, thanh tra, giải thể, phá sản, hải quan và xuất nhập khẩu. Có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, soạn văn bản theo mẫu, hồ sơ doanh nghiệp lưu lại, và lệnh tự cập nhật căn cứ.
