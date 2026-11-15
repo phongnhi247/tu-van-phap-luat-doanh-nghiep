@@ -59,7 +59,7 @@ Bên A: Công ty TNHH ABC. Bên B: Nguyễn Văn X, vị trí: Nhân viên kinh 
 
 ## Kết quả chạy gần nhất
 
-Ghi trong báo cáo phát hành của từng phiên bản. Bản 1.0.0: xem `plans/.../reports/ket-qua-kiem-thu.md` trong thư mục dự án phát triển skill.
+Ghi trong báo cáo phát hành của từng phiên bản. Bản 1.3.1: câu 21–26 đạt (15/11/2026). Bản 1.0.0: xem `plans/.../reports/ket-qua-kiem-thu.md` trong thư mục dự án phát triển skill.
 
 ## Ghi chú chấm điểm
 

@@ -33,6 +33,7 @@ Theo thứ tự ưu tiên:
 Ví dụ:
 - ✅ "Người sử dụng lao động phải báo trước... [trích nguyên văn]" — [mã văn bản], Điều X, Khoản Y. Link.
 - ⚠️ "Mức phạt quy định tại [mã] Điều X. Chưa đọc được nguyên văn nên không nêu con số. Cần mở Điều X để đối chiếu trước khi áp dụng." (Nhãn ⚠️ **không được** kèm con số lấy từ bài viết.)
+- Số hiệu mẫu biểu (tờ khai, bảng kê, cam kết...) chỉ thấy ở nguồn thứ cấp: được nêu kèm ⚠️, link nguồn và câu "cần mở văn bản ban hành mẫu để đối chiếu trước khi dùng". Không bao giờ gắn ✅, không nêu số hiệu theo trí nhớ.
 - ❓ "Không tìm thấy quy định riêng về trường hợp này. Nên gửi văn bản hỏi cơ quan thuế quản lý trực tiếp để có hướng dẫn bằng văn bản."
 
 ## 3. Con số

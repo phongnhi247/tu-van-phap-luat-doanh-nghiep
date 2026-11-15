@@ -29,7 +29,7 @@ Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
 - **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
 - **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
 
-Bộ kiểm thử có 26 câu (20 câu đã chạy đạt; 6 câu mới của bản 1.3 chưa chạy bằng phiên làm việc độc lập), kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
+Skill đã đạt cả 26 câu kiểm thử, kể cả các câu bẫy hỏi về văn bản không có thật hoặc đã hết hiệu lực.
 
 **Dành cho:** chủ doanh nghiệp, kế toán, nhân sự, nhân viên làm hồ sơ, và người tư vấn cần một bản nháp có căn cứ để kiểm tra lại.
 

@@ -26,6 +26,8 @@ Thuế GTGT đầu vào cũng cần chứng từ thanh toán không dùng tiền
 
 **Lưu ý khi tư vấn:** chuyển tiền mặt vào tài khoản người bán không phải là thanh toán không dùng tiền mặt theo cách hiểu phổ biến. Điểm này phải tra ND-GTGT trước khi kết luận; chưa tra thì nhãn ⚠️.
 
+**Nhân viên trả hộ: điều kiện TNDN và GTGT khác nhau.** Điểm c2 ND-TNDN không nói công ty hoàn tiền cho nhân viên bằng hình thức gì. Theo bản tóm tắt ND-GTGT Điều 26 (chưa đọc nguyên văn, ⚠️), muốn khấu trừ thuế GTGT đầu vào thì công ty phải hoàn tiền cho nhân viên bằng hình thức không dùng tiền mặt. Khuyến nghị an toàn: luôn hoàn bằng chuyển khoản. Đọc nguyên văn ND-GTGT Điều 26 và các nghị định sửa đổi trước khi khẳng định.
+
 ## 2. Mua hàng không có hóa đơn ✅
 
 ND-TNDN Điều 9 khoản 1 điểm b, đoạn 2. Áp dụng khi mua:
@@ -40,6 +42,8 @@ Bộ chứng từ:
 - [ ] Mua của một hộ, cá nhân trong ngày từ 05 triệu đồng trở lên: thanh toán không dùng tiền mặt.
 - [ ] **Bảng kê thu mua hàng hóa, dịch vụ**, do người đại diện theo pháp luật hoặc người được ủy quyền ký và chịu trách nhiệm. Mẫu bảng kê: tra văn bản hướng dẫn hiện hành (TT-TNDN hoặc TT-QLT), **không** dùng số hiệu mẫu cũ theo trí nhớ.
 - [ ] Nên lưu thêm: giấy tờ tùy thân của người bán, hợp đồng hoặc biên bản giao nhận, để chứng minh giao dịch có thật (khuyến nghị thực tế, không phải quy định).
+
+**Dự thảo đang theo dõi (chưa có hiệu lực, không áp dụng):** dự thảo nghị định sửa ND-TNDN đăng tháng 8/2026 đề xuất bỏ điều kiện thanh toán không dùng tiền mặt khi mua có bảng kê của hộ, cá nhân ở địa bàn có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn. Link: https://datafiles.chinhphu.vn/cpp/files/duthaovbpl/2026/Thang8/dtnd-sua-nq320.pdf. Trước khi trả lời câu hỏi mua hàng có bảng kê, kiểm tra dự thảo đã được ban hành chưa và ngày hiệu lực.
 
 ## 3. Chi lương, thưởng, phúc lợi cho người lao động ✅
 

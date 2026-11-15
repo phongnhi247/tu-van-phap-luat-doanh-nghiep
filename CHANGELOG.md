@@ -1,5 +1,14 @@
 # Nhật ký thay đổi
 
+## 1.3.1 — 15/11/2026
+
+Chạy 6 câu kiểm thử mới (21–26) bằng phiên làm việc độc lập: cả 6 câu đạt. Sửa theo góp ý:
+
+- **SKILL.md:** Bước 0 thêm cách làm khi không hỏi lại được người dùng (trả lời với `[Giả định]`, liệt kê câu hỏi ở cuối). Câu hỏi đối chiếu công nợ, thời hiệu, đòi nợ đọc thêm nhóm 3 và nhóm 7.
+- **Nguyên tắc căn cứ:** quy tắc nêu số hiệu mẫu biểu chỉ thấy ở nguồn thứ cấp.
+- **Chứng từ chi phí:** thêm điểm khác nhau giữa TNDN và GTGT khi nhân viên trả hộ; thêm mục dự thảo đang theo dõi.
+- **Kho trích dẫn:** mục LQLT ghi nhãn tối đa ⚠️.
+
 ## 1.3.0 — 15/11/2026
 
 Chủ đề: bộ chứng từ chứng minh chi phí được trừ.

@@ -25,6 +25,7 @@ Trước khi trả lời câu hỏi đầu tiên:
 2. Có file: đọc và dùng. Câu hỏi nhắc đến doanh nghiệp khác thì hỏi người dùng đang hỏi cho doanh nghiệp nào.
 3. Chưa có file: hỏi các trường cần thiết theo `references/ho-so-doanh-nghiep-mau.md`. Chỉ hỏi những trường ảnh hưởng đến câu hỏi hiện tại, không bắt khai hết một lần. Hỏi xong thì đề nghị lưu thành file.
 4. Người dùng không muốn khai: trả lời với `[Giả định]` rõ ràng cho từng thông tin còn thiếu.
+5. Không hỏi lại được (chạy tự động, chạy dưới dạng agent con): không dừng lại chờ. Trả lời ngay với `[Giả định]`, cuối câu trả lời liệt kê các câu hỏi cần xác nhận và đề nghị lưu hồ sơ. Không tự tạo file.
 
 ## 3. Chế độ làm việc
 
@@ -37,6 +38,8 @@ Trước khi trả lời câu hỏi đầu tiên:
 | "cập nhật căn cứ", "kiểm tra văn bản mới" | Cập nhật danh mục | `cap-nhat-can-cu.md` |
 | "soạn giúp", "viết quyết định / biên bản / công văn / thông báo" | Soạn văn bản theo mẫu | `soan-van-ban.md` |
 | "chi phí được trừ", "cần chứng từ gì", "đề nghị thanh toán", "tạm ứng", "hoàn ứng", "bảng kê", "chi lương, thưởng, phúc lợi", "thuê cá nhân", "khấu trừ 10%", "nghiệm thu", "thanh lý hợp đồng", "đối chiếu công nợ", "hủy hàng" | Bộ chứng từ chi phí | `chung-tu-chi-phi.md` + nhóm 5 |
+
+Câu hỏi về đối chiếu công nợ, nghiệm thu, thanh lý mà trọng tâm là đòi nợ, thời hiệu, khởi kiện thì đọc thêm nhóm 3 và nhóm 7; nhóm 5 chỉ cần khi có câu hỏi về thuế, chứng từ.
 
 Ở mọi chế độ, khi thấy dấu hiệu nguy hiểm thì đọc `references/nguong-chuyen-luat-su.md` và cảnh báo.
 

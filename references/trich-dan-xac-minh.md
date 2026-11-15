@@ -100,7 +100,7 @@ Chưa đối chiếu trong kho: Phụ lục II (viết hoa), Phụ lục III (ch
 
 ## LQLT — Luật Quản lý thuế
 
-Đối chiếu ngày 14/11/2026, từ bản Công báo số 38 ngày 22/01/2026 (đăng lại).
+Đối chiếu ngày 14/11/2026, từ bản Công báo số 38 ngày 22/01/2026 (bản đăng lại, nhãn tối đa ⚠️).
 
 - **Điều 12 khoản 8:** "Chính phủ quy định chi tiết [...] kỳ tính thuế; thời hạn nộp hồ sơ khai thuế, khoản thu khác, trừ trường hợp quy định tại khoản 9 Điều này [...]"
 - **Điều 14 khoản 1 điểm a:** "Trường hợp người nộp thuế tự tính thuế [...] thì thời hạn nộp thuế [...] chậm nhất là ngày cuối cùng của thời hạn nộp hồ sơ khai thuế [...]"
