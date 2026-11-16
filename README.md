@@ -1,5 +1,9 @@
 # Tư vấn pháp luật doanh nghiệp
 
+Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghiệp Việt Nam: thuế, hóa đơn điện tử, lao động, BHXH, hợp đồng, chứng từ chi phí, kinh doanh khóa học và bán hàng online. Mỗi câu trả lời có trích nguyên văn điều luật, nhãn độ tin cậy và checklist hồ sơ.
+
+*Từ khóa: tư vấn pháp luật doanh nghiệp, tu van phap luat doanh nghiep, luật thuế, hóa đơn điện tử, luật lao động, Vietnamese business law, Vietnam tax, AI legal assistant.*
+
 > **MIỄN TRỪ TRÁCH NHIỆM — ĐỌC TRƯỚC KHI DÙNG**
 >
 > - Đây là **công cụ hỗ trợ tra cứu và nghiên cứu pháp luật** chạy trên trợ lý AI. Đây **không phải dịch vụ tư vấn pháp luật**, không do luật sư hay tổ chức hành nghề luật sư cung cấp, và không thiết lập quan hệ luật sư – khách hàng.
@@ -24,7 +28,7 @@
 Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
 
 - **Chỉ nói khi có căn cứ.** Mọi con số (mức phạt, thời hạn, tỷ lệ) phải kèm câu trích nguyên văn. Mỗi kết luận có nhãn: ✅ đã đối chiếu, ⚠️ chưa chắc chắn, ❓ không tìm thấy. Không tìm thấy thì nói "không biết", không bịa.
-- **Một danh mục căn cứ duy nhất** gồm 120 văn bản, cập nhật đến 14/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
+- **Một danh mục căn cứ duy nhất** gồm 136 văn bản, cập nhật đến 16/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
 - **Kho trích dẫn đã xác minh** từ file gốc (nhiều file có chữ ký số): hạn nộp tờ khai thuế, khai TNCN theo quý, xử lý hóa đơn sai sót, mức phạt chậm đóng BHXH, trình tự kỷ luật lao động, chuẩn trình bày văn bản...
 - **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
 - **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
