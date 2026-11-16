@@ -61,7 +61,7 @@ Ví dụ:
 ## 6. Khi không tra được web
 
 1. Ghi ở đầu câu trả lời: "Lần trả lời này không tra được văn bản trực tuyến. Căn cứ chỉ dựa trên danh mục tính đến <baseline>."
-2. Chỉ nêu tên và số hiệu văn bản từ danh mục. Không nêu con số. Nhãn tối đa là ⚠️.
+2. Chỉ nêu tên và số hiệu văn bản từ danh mục. Không nêu con số. Nhãn tối đa là ⚠️. **Ngoại lệ:** điều, khoản đã có nguyên văn trong `trich-dan-xac-minh.md` được tính là đã tra: được nêu con số trong đoạn trích và giữ nhãn ghi ở mục đó, kèm "(theo kho trích dẫn, đối chiếu ngày <ngày>)".
 3. Liệt kê các điều, khoản người dùng cần tự mở ra kiểm tra.
 
 ## 7. Mâu thuẫn giữa các nguồn

@@ -88,6 +88,15 @@ Quy tắc ký: ký thay mặt tập thể ghi "TM."; được giao quyền cấp
 
 Chưa đối chiếu trong kho: Phụ lục II (viết hoa), Phụ lục III (chữ viết tắt tên loại văn bản), sơ đồ vị trí các ô tại mục IV.
 
+## ND-QLT — Điều 74. Hiệu lực thi hành
+
+Đối chiếu ngày 16/11/2026, từ file ký số (bản scan), trang 132. ✅
+
+- **K1:** "Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2026."
+- **K2 (mốc 31/12/2026):** "Quy định về phân bổ thuế giá trị gia tăng phải nộp tại điểm a.2, a.3, a.4, a.5 và a.6 (trừ trường hợp phân bổ số thuế giá trị gia tăng đầu vào) khoản 2 Điều 15 Nghị định này thực hiện đến hết ngày 31 tháng 12 năm 2026."
+- **K4:** [ND-XPT] (được sửa đổi, bổ sung bởi [các nghị định sửa đổi]) "tiếp tục có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2026 cho đến khi có văn bản thay thế."
+- **Chưa đọc trong lần này:** nội dung điểm a.2–a.6 khoản 2 Điều 15 (các trường hợp phân bổ). Phải đọc trước khi trả lời doanh nghiệp có đơn vị phụ thuộc, địa điểm kinh doanh ở tỉnh khác hỏi về việc khai, phân bổ GTGT từ năm 2027.
+
 ## ND-QLT — Điều 24. Tạm nộp theo quý
 
 Đối chiếu ngày 14/11/2026, từ file ký số (bản scan), trang 47–48.
@@ -95,7 +104,8 @@ Chưa đối chiếu trong kho: Phụ lục II (viết hoa), Phụ lục III (ch
 - **Khoản 1 điểm a:** "Thuế thu nhập doanh nghiệp;"
 - **Khoản 2:** "Thời hạn tạm nộp quý chậm nhất là ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ thuế, khoản thu khác."
 - **Khoản 3 điểm a:** "Người nộp thuế phải tự xác định số thuế, khoản thu khác tạm nộp hằng quý nhưng tổng số thuế, khoản thu khác đã tạm nộp của 04 quý không được thấp hơn 80% số thuế, khoản thu khác phải nộp theo quyết toán năm của người nộp thuế tự kê khai;"
-- **Khoản 3 điểm b:** nộp thiếu thì "phải nộp tiền chậm nộp [...] kể từ ngày tiếp theo liền kề của ngày cuối cùng của thời hạn tạm nộp quý 04 [...]"
+- **Khoản 3 điểm b (đọc trọn ngày 16/11/2026, trang 48):** "Trường hợp người nộp thuế nộp thiếu so với số thuế, khoản thu khác phải tạm nộp 04 quý theo quy định tại điểm a khoản này thì phải nộp tiền chậm nộp tính trên số thuế, khoản thu khác nộp thiếu kể từ ngày tiếp theo liền kề của ngày cuối cùng của thời hạn tạm nộp quý 04 đến ngày liền kề trước của ngày số tiền còn thiếu được nộp vào ngân sách nhà nước, bao gồm trường hợp người nộp thuế kê khai bổ sung;" Như vậy tiền chậm nộp tính trên phần nộp thiếu **so với mức phải tạm nộp theo điểm a** (mức 80%).
+- **Khoản 3 điểm c:** trường hợp thanh tra, kiểm tra phát hiện tăng số phải nộp sau quyết toán thì tiền chậm nộp tính theo khoản 2 Điều 26 của nghị định này (chưa đọc Điều 26).
 - **Khoản 4:** Bộ trưởng Bộ Tài chính hướng dẫn. Thông tư hướng dẫn **chưa có trong danh mục**.
 
 ## LQLT — Luật Quản lý thuế
@@ -133,7 +143,42 @@ Chưa đối chiếu trong kho: Phụ lục II (viết hoa), Phụ lục III (ch
 - **Điều 5 khoản 1:** "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2027."
 - **Điều 5 khoản 2:** Nghị định lương tối thiểu hiện hành (ND-LTT) "hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành."
 
-Mức của các vùng II, III, IV: chưa ghi vào kho. Phải đọc lại bảng ở Điều 3.
+- **Điều 3 khoản 1 (cả bảng, đọc lại 16/11/2026 từ cùng file, có lớp chữ):** Vùng I 5.700.000 đồng/tháng, 27.400 đồng/giờ; Vùng II 5.080.000 đồng/tháng, 24.400 đồng/giờ; Vùng III 4.450.000 đồng/tháng, 21.400 đồng/giờ; Vùng IV 4.040.000 đồng/tháng, 19.400 đồng/giờ.
+- **Điều 3 khoản 3 điểm b:** "Người sử dụng lao động có đơn vị, chi nhánh hoạt động trên các địa bàn có mức lương tối thiểu khác nhau thì đơn vị, chi nhánh hoạt động ở địa bàn nào, áp dụng mức lương tối thiểu quy định đối với địa bàn đó."
+- **Điều 4 khoản 1:** "Mức lương tối thiểu tháng là mức lương thấp nhất làm cơ sở để thỏa thuận và trả lương đối với người lao động áp dụng hình thức trả lương theo tháng, bảo đảm mức lương theo công việc hoặc chức danh của người lao động làm việc đủ thời giờ làm việc bình thường trong tháng và hoàn thành định mức lao động hoặc công việc đã thỏa thuận không được thấp hơn mức lương tối thiểu tháng."
+- **Điều 5 khoản 3 (việc doanh nghiệp phải làm):** "Người sử dụng lao động có trách nhiệm tổ chức rà soát lại các thoả thuận trong hợp đồng lao động, thoả ước lao động tập thể và các quy chế, quy định của người sử dụng lao động để điều chỉnh, bổ sung cho phù hợp; không được xoá bỏ hoặc cắt giảm các chế độ tiền lương khi người lao động làm thêm giờ, làm việc vào ban đêm, chế độ bồi dưỡng bằng hiện vật và các chế độ khác theo quy định của pháp luật lao động. [...]"
+- **Phụ lục danh mục địa bàn:** chưa đọc. Khi người dùng hỏi doanh nghiệp ở địa bàn nào thuộc vùng nào, phải đọc phụ lục.
+
+## LBHXH — Điều 31, 32, 33 khoản 1 điểm a. Bản Công báo (có lớp chữ) trên datafiles.chinhphu.vn, trang 25–26. Đối chiếu 16/11/2026. ✅
+
+- **Điều 31 khoản 1 điểm b:** "Người lao động thuộc đối tượng thực hiện chế độ tiền lương do người sử dụng lao động quyết định thì tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc là tiền lương tháng, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác được thỏa thuận trả thường xuyên, ổn định trong mỗi kỳ trả lương."
+- **Điều 31 khoản 1 điểm đ:** "Tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc thấp nhất bằng mức tham chiếu và cao nhất bằng 20 lần mức tham chiếu tại thời điểm đóng."
+- **Điều 7 khoản 1:** "Mức tham chiếu là mức tiền do Chính phủ quyết định dùng để tính mức đóng, mức hưởng một số chế độ bảo hiểm xã hội quy định trong Luật này." Con số mức tham chiếu **chưa có trong danh mục**; không nêu số khi chưa tra văn bản quy định.
+- **Điều 32 khoản 1:** "a) 3% tiền lương làm căn cứ đóng bảo hiểm xã hội vào quỹ ốm đau và thai sản; b) 22% tiền lương làm căn cứ đóng bảo hiểm xã hội vào quỹ hưu trí và tử tuất."
+- **Điều 33 khoản 1 điểm a (phần người lao động):** "Mức đóng hằng tháng bằng 8% tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc vào quỹ hưu trí và tử tuất;"
+- **Suy luận khi trả lời về mốc 01/01/2027 (ghi rõ là suy luận):** luật không lấy lương tối thiểu vùng làm sàn đóng BHXH; sàn là mức tham chiếu. Nhưng tiền lương theo công việc, chức danh không được thấp hơn lương tối thiểu vùng (ND-LTT-2027 Điều 4), và tiền lương đóng BHXH gồm mức lương đó (Điều 31 khoản 1 điểm b). Vì vậy khi lương tối thiểu vùng tăng, người lao động đang hưởng mức lương thấp hơn mức mới phải được điều chỉnh lương, kéo theo tiền lương đóng BHXH tăng từ tháng 01/2027.
+
+## LCDOAN — Điều 29 khoản 1 điểm b. Bản Công báo (có lớp chữ) trên datafiles.chinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- "Kinh phí công đoàn do cơ quan, tổ chức, đơn vị, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đóng bằng 2% quỹ tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc cho người lao động;"
+- Khoản 2: "Chính phủ quy định phương thức, thời hạn và nguồn đóng [...]" Văn bản Chính phủ này chưa có trong danh mục.
+
+## NQ-HDLDDT — Điều 1, Điều 2 khoản 1. File ký số (có lớp chữ) trên datafiles.chinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- **Điều 1 khoản 1 điểm a:** "Trong thời gian chờ kết nối eContract với Nền tảng hợp đồng lao động điện tử, Nhà cung cấp eContract được tiếp tục cung cấp dịch vụ giao kết hợp đồng lao động điện tử đến hết ngày 31 tháng 12 năm 2026."
+- **Điều 1 khoản 1 điểm b:** "Hợp đồng lao động điện tử được giao kết trong thời gian chờ kết nối theo quy định tại điểm a khoản này có giá trị như hợp đồng lao động bằng văn bản giấy, được thực hiện theo quy định của pháp luật lao động và pháp luật giao dịch điện tử đến hết thời hạn của hợp đồng lao động điện tử."
+- **Điều 1 khoản 1 điểm d:** "Từ ngày 01 tháng 01 năm 2027, việc giao kết hợp đồng lao động điện tử phải đảm bảo điều kiện, phương thức quy định tại Điều 6 [ND-HDLDDT]."
+- **Điều 1 khoản 2:** Nền tảng hợp đồng lao động điện tử tạm dừng vận hành chính thức "nhưng chậm nhất đến ngày 15 tháng 12 năm 2026 Nền tảng hợp đồng lao động điện tử phải được vận hành chính thức."
+- **Điều 2 khoản 1:** "Nghị quyết này có hiệu lực thi hành kể từ ngày ký ban hành. Các nội dung quy định tại khoản 1 Điều 1 Nghị quyết này được áp dụng từ ngày 01 tháng 7 năm 2026."
+
+## ND-GTGT-GIAM — Điều 1 khoản 2, 3, 5, 6; Điều 2 khoản 1. File ký số (bản scan) trên datafiles.chinhphu.vn, trang 1–2. Đối chiếu 16/11/2026. ✅
+
+- **Điều 1 khoản 2 điểm a:** "Cơ sở kinh doanh tính thuế giá trị gia tăng theo phương pháp khấu trừ được áp dụng mức thuế suất thuế giá trị gia tăng 8% đối với hàng hóa, dịch vụ quy định tại khoản 1 Điều này."
+- **Điều 1 khoản 3 điểm a:** "[...] khi lập hoá đơn giá trị gia tăng cung cấp hàng hóa, dịch vụ thuộc đối tượng giảm thuế giá trị gia tăng, tại dòng thuế suất thuế giá trị gia tăng ghi "8%"; tiền thuế giá trị gia tăng; tổng số tiền người mua phải thanh toán. [...]"
+- **Điều 1 khoản 5:** "Trường hợp cơ sở kinh doanh đã lập hóa đơn và đã kê khai theo mức thuế suất hoặc mức tỷ lệ % để tính thuế giá trị gia tăng chưa được giảm theo quy định tại Nghị định này thì người bán và người mua xử lý hóa đơn đã lập theo quy định pháp luật về hóa đơn, chứng từ. Căn cứ vào hóa đơn sau khi xử lý, người bán kê khai điều chỉnh thuế đầu ra, người mua kê khai điều chỉnh thuế đầu vào (nếu có)."
+- **Điều 1 khoản 6:** cơ sở kinh doanh kê khai hàng hóa, dịch vụ được giảm thuế "theo Mẫu số 01 tại Phụ lục III ban hành kèm theo Nghị định này cùng với Tờ khai thuế giá trị gia tăng."
+- **Điều 2 khoản 1:** "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025 đến hết ngày 31 tháng 12 năm 2026."
+- **Chưa tìm thấy (❓):** quy định riêng về thuế suất ghi trên hóa đơn điều chỉnh, thay thế lập từ 01/01/2027 cho hóa đơn gốc lập năm 2026 với mức 8%, và kỳ kê khai của hóa đơn điều chỉnh đó. Nghị định này và các đoạn đã đọc của TT-HDDT Điều 10 không nói. Khi trả lời phải nêu: thời điểm xác định thuế là thời điểm chuyển giao hàng hóa, hoàn thành dịch vụ hoặc lập hóa đơn (LGTGT Điều 8); hóa đơn gốc lập trong thời gian giảm thuế thì áp mức 8%; còn mức thuế trên hóa đơn điều chỉnh lập sau 31/12/2026 là ❓, cần hỏi cơ quan thuế hoặc chờ văn bản hướng dẫn.
 
 ## LDN — Luật Doanh nghiệp
 
@@ -270,6 +315,14 @@ Các mục dưới đây phục vụ câu hỏi về thuế GTGT, hóa đơn c�
 ## LGTGT — Điều 5, 7, 8, 9 và NQ-GTGT-GIAM. Văn bản hợp nhất năm 2026, file PDF trên datafiles.chinhphu.vn. Đối chiếu 15/11/2026. ✅
 
 - **Điều 5 khoản 13 (không chịu thuế):** "Hoạt động dạy học, dạy nghề theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp."
+- **Điều 7 khoản 1 điểm a (giá tính thuế khi bán):** "Đối với hàng hóa, dịch vụ do cơ sở kinh doanh bán ra là giá bán chưa có thuế giá trị gia tăng; [...]" (đọc 16/11/2026)
+- **Điều 7 khoản 1 điểm c đoạn 1 (tiêu dùng nội bộ, biếu, tặng):** "Đối với hàng hóa, dịch vụ dùng để trao đổi, tiêu dùng nội bộ, biếu, tặng, cho là giá tính thuế giá trị gia tăng của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh các hoạt động này." (đọc 16/11/2026)
+- **Điều 7 khoản 1 điểm đ (trả góp, trả chậm):** "Đối với hàng hóa bán theo phương thức trả góp, trả chậm là giá tính theo giá bán trả một lần chưa có thuế giá trị gia tăng của hàng hóa đó, không bao gồm khoản lãi trả góp, lãi trả chậm;" (đọc 16/11/2026)
+- **Điều 7 khoản 1 điểm i (đại lý, môi giới):** "Đối với hoạt động đại lý, môi giới mua bán hàng hóa và dịch vụ hưởng hoa hồng là tiền hoa hồng thu được từ các hoạt động này chưa có thuế giá trị gia tăng;" (đọc 16/11/2026)
+- **Điều 7 khoản 1 điểm k (giá đã gồm thuế):** "Đối với hàng hóa, dịch vụ được sử dụng hóa đơn thanh toán ghi giá thanh toán là giá đã có thuế giá trị gia tăng thì giá tính thuế được xác định theo công thức sau: Giá chưa có thuế giá trị gia tăng = Giá thanh toán / (1 + thuế suất của hàng hóa, dịch vụ (%))" (đọc 16/11/2026)
+- **Điều 7 khoản 2 (phụ thu):** "Giá tính thuế đối với hàng hóa, dịch vụ quy định tại khoản 1 Điều này bao gồm cả khoản phụ thu và phí thu thêm mà cơ sở kinh doanh được hưởng." (đọc 16/11/2026)
+- **Điều 8 khoản 1 điểm a (thời điểm xác định thuế với hàng hóa):** "Đối với hàng hóa là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua hoặc thời điểm lập hóa đơn, không phân biệt đã thu được tiền hay chưa thu được tiền;" (đọc 16/11/2026)
+- **Lưu ý:** văn bản hợp nhất này có từ tháng 02/2026, chưa gồm sửa đổi của LTNCN-SD Điều 2 (khoản 25 Điều 5, ngưỡng doanh thu của hộ, cá nhân kinh doanh). Trích khoản 25 Điều 5 thì dùng mục LTNCN-SD bên dưới.
 - **Điều 7 khoản 1 điểm c đoạn 2 (khuyến mại):** "Đối với hàng hóa, dịch vụ dùng để khuyến mại theo quy định của pháp luật về thương mại, giá tính thuế được xác định bằng không (0);"
 - **Điều 8 khoản 1 điểm b (thời điểm xác định thuế):** "Đối với dịch vụ là thời điểm hoàn thành việc cung cấp dịch vụ hoặc thời điểm lập hóa đơn cung cấp dịch vụ, không phân biệt đã thu được tiền hay chưa thu được tiền."
 - **Điều 9 khoản 3 (thuế suất 10%):** "Mức thuế suất 10% áp dụng đối với hàng hóa, dịch vụ không quy định tại khoản 1 và khoản 2 Điều này [...]"
@@ -424,3 +477,82 @@ Các mục dưới đây phục vụ câu hỏi về thuế GTGT, hóa đơn c�
 
 - **K1:** "Hoạt động kinh doanh theo phương thức đa cấp chỉ được thực hiện đối với hàng hóa. Mọi hoạt động kinh doanh theo phương thức đa cấp với đối tượng không phải là hàng hóa đều bị cấm, trừ trường hợp pháp luật có quy định khác."
 - **K2 điểm b:** "Hàng hóa kinh doanh theo phương thức đa cấp không thuộc một trong các loại sau đây: [...] b) Sản phẩm nội dung số."
+
+## Thuế thu nhập kỳ 2026, 2027 và chuyển mốc 01/01/2027
+
+Các mục dưới đây phục vụ câu hỏi về quyết toán thuế TNDN, TNCN năm 2026, ưu đãi giảm thuế năm 2026, 2027 và các việc vắt qua mốc 01/01/2027.
+
+## NQ-TN-GIAM — Điều 1, Điều 2. File ký số (bản scan, 2 trang) trên xdcs.cdnchinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- **Điều 1 khoản 1 (TNCN):** "Giảm 30% số thuế thu nhập cá nhân phải nộp của kỳ tính thuế năm 2026 và năm 2027 đối với thu nhập từ kinh doanh của cá nhân cư trú có mức doanh thu hằng năm của năm 2026, năm 2027 không quá 10 tỷ đồng."
+- **Điều 1 khoản 2 (TNDN):** "Giảm 30% số thuế thu nhập doanh nghiệp phải nộp của kỳ tính thuế năm 2026 và năm 2027 đối với thu nhập của doanh nghiệp, tổ chức được thành lập theo quy định của pháp luật Việt Nam có mức doanh thu hằng năm của năm 2026, năm 2027 không quá 10 tỷ đồng; trừ các doanh nghiệp được hình thành từ việc chia, tách doanh nghiệp sau ngày Nghị quyết này có hiệu lực, mà tổng doanh thu hằng năm của năm 2026, năm 2027 của các doanh nghiệp sau chia, tách trên 10 tỷ đồng. Trường hợp doanh nghiệp đang được ưu đãi thuế theo quy định của Luật Thuế thu nhập doanh nghiệp hoặc các luật, nghị quyết khác của Quốc hội thì số thuế thu nhập doanh nghiệp được giảm quy định tại khoản này tính trên số thuế thu nhập doanh nghiệp phải nộp sau khi đã trừ ưu đãi thuế."
+- **Điều 2 khoản 1:** "Nghị quyết này có hiệu lực thi hành từ ngày 24 tháng 8 năm 2026 và áp dụng cho kỳ tính thuế năm 2026, năm 2027."
+- **Lưu ý đọc:** khoản 1 chỉ nói thu nhập **từ kinh doanh** của cá nhân. Không thấy quy định giảm thuế TNCN đối với tiền lương, tiền công của người lao động.
+
+## ND-TN-GIAM — Điều 3 (doanh nghiệp), Điều 4. File ký số (bản scan, 5 trang nội dung và phụ lục mẫu) trên datafiles.chinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- **Điều 3 khoản 1 (đối tượng):** áp dụng cho "a) Doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam. b) Hợp tác xã, liên hiệp hợp tác xã được thành lập theo Luật Hợp tác xã. c) Đơn vị sự nghiệp được thành lập theo quy định của pháp luật Việt Nam. d) Tổ chức khác được thành lập theo quy định của pháp luật Việt Nam có hoạt động sản xuất kinh doanh có thu nhập."
+- **Điều 3 khoản 2 (cách tính):** "Số thuế thu nhập doanh nghiệp được giảm của kỳ tính thuế năm 2026, năm 2027 được tính trên toàn bộ thu nhập của doanh nghiệp có kỳ tính thuế theo năm, không phân biệt phương pháp tính thuế thu nhập doanh nghiệp, bao gồm cả các khoản thu nhập quy định tại khoản 3 Điều 18 Luật Thuế thu nhập doanh nghiệp. Số thuế thu nhập doanh nghiệp được giảm được tính trên số thuế thu nhập doanh nghiệp phải nộp của kỳ tính thuế năm 2026, năm 2027."
+- **Điều 3 khoản 3 (doanh thu làm căn cứ):** "Doanh thu năm làm căn cứ xác định doanh nghiệp thuộc đối tượng được giảm thuế thu nhập doanh nghiệp bao gồm doanh thu từ hoạt động bán hàng, cung cấp dịch vụ (không bao gồm các khoản giảm trừ doanh thu), doanh thu từ hoạt động tài chính và thu nhập khác."
+- **Điều 3 khoản 3 điểm a (kỳ tính thuế ngắn):** "Trường hợp kỳ tính thuế năm đầu tiên đối với doanh nghiệp mới thành lập hoặc kỳ tính thuế năm cuối cùng đối với doanh nghiệp chuyển đổi loại hình doanh nghiệp, chuyển đổi hình thức sở hữu, hợp nhất, sáp nhập, chia, tách, giải thể, phá sản mà có thời gian ngắn hơn 03 tháng và doanh nghiệp được cộng vào kỳ tính thuế năm 2026, năm 2027 để hình thành một kỳ tính thuế thu nhập doanh nghiệp thì việc xác định doanh thu và số thuế được giảm áp dụng đối với 12 tháng của kỳ tính thuế năm 2026, năm 2027."
+- **Điều 3 khoản 3 điểm b (đơn vị phụ thuộc):** "Trường hợp doanh nghiệp có đơn vị phụ thuộc, địa điểm kinh doanh thì doanh thu trong kỳ tính thuế thu nhập doanh nghiệp bao gồm doanh thu của đơn vị phụ thuộc, địa điểm kinh doanh thể hiện trên báo cáo tài chính tổng hợp năm."
+- **Điều 3 khoản 4 điểm a (tạm nộp quý):** "Doanh nghiệp dự kiến doanh thu trong kỳ tính thuế năm 2026, năm 2027 nếu không quá 10 tỷ đồng thì tự xác định số thuế được giảm khi tạm nộp thuế thu nhập doanh nghiệp hằng quý."
+- **Điều 3 khoản 4 điểm b (doanh thu thực tế vượt 10 tỷ):** "Trường hợp tổng doanh thu thực tế trong kỳ tính thuế vượt quá 10 tỷ đồng thì doanh nghiệp thực hiện kê khai, nộp thuế thu nhập doanh nghiệp theo quy định. Doanh nghiệp phải nộp đủ số tiền thuế thiếu so với số phải nộp và việc xử lý tiền chậm nộp thực hiện theo quy định tại khoản 3 Điều 24 [ND-QLT] [...]"
+- **Điều 3 khoản 4 điểm c, d (khai bổ sung, thanh tra):** số thuế tăng thêm do khai bổ sung hoặc theo kết luận thanh tra, kiểm tra "được giảm 30% theo quy định của Nghị định này nếu doanh nghiệp vẫn đáp ứng điều kiện được giảm thuế"; trường hợp số thuế giảm đi thì "điều chỉnh giảm số thuế thu nhập doanh nghiệp được giảm [...] và xử lý số tiền thuế nộp thừa (nếu có) theo quy định của pháp luật về quản lý thuế."
+- **Điều 4:** "Nghị định này có hiệu lực thi hành kể từ ngày 29 tháng 10 năm 2026 và áp dụng cho kỳ tính thuế năm 2026, năm 2027."
+- **Chưa đọc trong lần này:** Điều 2 khoản 3 trở đi (kê khai của cá nhân kinh doanh) và các mẫu phụ lục. Khi trả lời câu hỏi về cá nhân kinh doanh, phải đọc trang 2–3 và phụ lục của file ký số.
+
+## LTNCN-SD — Điều 1, 2, 3, 5. File ký số (bản scan, 2 trang) trên datafiles.chinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- **Điều 1 (sửa khoản 1 Điều 7 LTNCN):** "1. Cá nhân cư trú có hoạt động sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống không phải nộp thuế thu nhập cá nhân. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách, Chính phủ quy định mức doanh thu năm phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ."
+- **Điều 2 (sửa khoản 25 Điều 5 LGTGT, đoạn đầu):** "25. Hàng hóa, dịch vụ của hộ, cá nhân sản xuất, kinh doanh có doanh thu năm từ mức quy định của Chính phủ trở xuống; [...] Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách, Chính phủ quy định mức doanh thu năm tại khoản này phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ."
+- **Điều 3 (bổ sung khoản 14a Điều 4 LTNDN):** "14a. Thu nhập của doanh nghiệp, tổ chức được thành lập theo quy định của pháp luật Việt Nam có tổng doanh thu năm từ mức quy định của Chính phủ trở xuống được miễn thuế thu nhập doanh nghiệp. Căn cứ các chỉ số kinh tế vĩ mô, khả năng cân đối ngân sách, Chính phủ quy định mức tổng doanh thu năm phù hợp với bối cảnh kinh tế - xã hội trong từng thời kỳ."
+- **Điều 5:** "1. Luật này có hiệu lực thi hành từ ngày được thông qua, trừ quy định tại khoản 2 Điều này. 2. Quy định tại các điều 1, 2 và 3 của Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026." Luật được thông qua ngày 24/04/2026.
+- **Liên hệ:** mức doanh thu cụ thể để được miễn TNDN do Chính phủ quy định tại ND-TNDN-SD (mục ngay dưới).
+
+## ND-TNDN-SD — Điều 2, 3, 4. File ký số (bản scan, 4 trang) trên datafiles.chinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- **Điều 2 (bổ sung khoản 15 Điều 4 ND-TNDN), đoạn mở đầu:** "15. Thu nhập của doanh nghiệp, tổ chức được thành lập theo quy định của pháp luật Việt Nam có tổng doanh thu năm từ 01 tỷ đồng trở xuống, cụ thể như sau:"
+- **Điểm a (doanh thu làm căn cứ):** "Tổng doanh thu năm làm căn cứ xác định doanh nghiệp thuộc đối tượng được miễn thuế thu nhập doanh nghiệp là tổng doanh thu từ hoạt động bán hàng, cung cấp dịch vụ (không bao gồm các khoản giảm trừ doanh thu), doanh thu từ hoạt động tài chính và thu nhập khác trên Phụ lục kết quả hoạt động sản xuất, kinh doanh kèm theo tờ khai quyết toán thuế thu nhập doanh nghiệp của kỳ tính thuế năm trước liền kề;"
+- **Điểm c (doanh nghiệp mới thành lập):** "Trường hợp doanh nghiệp mới thành lập trong kỳ tính thuế và dự kiến tổng doanh thu trong kỳ tính thuế không quá 01 tỷ đồng thì doanh nghiệp không phải tạm nộp thuế thu nhập doanh nghiệp. Kết thúc kỳ tính thuế, trường hợp tổng doanh thu thực tế trong kỳ tính thuế vượt mức 01 tỷ đồng thì doanh nghiệp thực hiện kê khai, quyết toán thuế thu nhập doanh nghiệp theo quy định và không phải tính tiền chậm nộp;"
+- **Điểm d (loại trừ):** "Quy định miễn thuế tại khoản này không áp dụng đối với doanh nghiệp được thành lập theo quy định của pháp luật Việt Nam là công ty con hoặc công ty có quan hệ liên kết mà doanh nghiệp trong quan hệ liên kết không phải là doanh nghiệp đáp ứng điều kiện miễn thuế quy định tại khoản này."
+- **Chưa đọc trong lần này:** điểm b (doanh nghiệp hoạt động dưới 12 tháng năm trước) đọc được phần đầu ở trang 2, phần cuối ở trang 3. Đọc lại trọn điểm b trước khi trả lời trường hợp này.
+- **Điều 3:** "Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026."
+- **Điều 4 khoản 2 (đã tạm nộp quý I/2026):** "Trường hợp doanh nghiệp đã tạm nộp thuế thu nhập doanh nghiệp quý I năm 2026 mà doanh nghiệp đáp ứng điều kiện quy định tại Điều 2 Nghị định này thì không phải tạm nộp thuế thu nhập doanh nghiệp các quý tiếp theo, được bù trừ, hoàn trả, hoàn trả kiêm bù trừ thu ngân sách theo quy định của pháp luật về quản lý thuế đối với số thuế nộp thừa."
+- **Quan hệ với NQ-TN-GIAM:** doanh nghiệp đủ điều kiện miễn theo mục này thì không còn số thuế TNDN phải nộp để giảm; doanh nghiệp không được miễn mà có doanh thu năm không quá 10 tỷ thì xét giảm 30% theo NQ-TN-GIAM (đây là suy luận từ hai văn bản, chưa thấy văn bản nào nói trực tiếp về việc kết hợp hai mức). Hai mức dùng hai cách xác định doanh thu khác nhau (miễn: doanh thu năm trước liền kề; giảm 30%: doanh thu của chính năm 2026, 2027), phải nêu rõ khi trả lời.
+
+## ND-LDNN-26 — Điều 36, Điều 37 khoản 6 điểm đ. File ký số (bản scan, 60 trang) trên datafiles.chinhphu.vn. Đối chiếu 16/11/2026. ✅
+
+- **Điều 36 khoản 1, 2:** "1. Nghị định này có hiệu lực thi hành từ ngày 05 tháng 12 năm 2026. 2. [ND-LDNN] ngày 07 tháng 8 năm 2025 của Chính phủ quy định về người lao động nước ngoài làm việc tại Việt Nam hết hiệu lực thi hành kể từ ngày Nghị định này có hiệu lực."
+- **Điều 37 khoản 6 điểm đ (người sử dụng lao động):** "Quản lý thông tin về người lao động nước ngoài bằng bản giấy hoặc bản điện tử; báo cáo định kỳ trước ngày 05 tháng 6 và ngày 05 tháng 12 hằng năm theo Phụ lục IV kèm theo Nghị định này hoặc đột xuất khi cơ quan nhà nước có thẩm quyền tại địa phương yêu cầu hoặc có sự thay đổi về sử dụng người lao động nước ngoài, trừ trường hợp thông tin về người lao động nước ngoài khai thác được trong cơ sở dữ liệu người lao động nước ngoài làm việc tại Việt Nam;"
+- **Chưa đọc trong lần này:** Điều 35 (chuyển tiếp với giấy phép đã cấp theo ND-LDNN). Trang 29 cho thấy giấy phép, giấy xác nhận đã cấp theo ND-LDNN được tiếp tục sử dụng trong một số trường hợp; phải đọc trọn Điều 35 trước khi trả lời.
+
+## Quyết toán thuế TNDN, TNCN năm 2026
+
+Các mục dưới đây bổ sung cho phần quyết toán. Hạn nộp hồ sơ quyết toán xem mục ND-QLT Điều 10 khoản 5 ở đầu file; tạm nộp quý và mức 80% xem ND-QLT Điều 24; tiền chậm nộp 0,03%/ngày xem LQLT Điều 16; khai bổ sung xem LQLT Điều 12 khoản 5; ủy quyền quyết toán TNCN xem ND-TNCN Điều 51 ở mục chứng từ chi phí và mục ngay dưới.
+
+## LTNDN — Điều 7, 9 khoản 2, 10, 16, 18 khoản 4. File ký số (bản scan) trên datafiles.chinhphu.vn, trang 6–10, 18, 20. Đối chiếu 16/11/2026. ✅
+
+- **Điều 7 khoản 1 (thu nhập tính thuế):** "Thu nhập tính thuế = Thu nhập chịu thuế - (Thu nhập được miễn thuế + Các khoản lỗ được kết chuyển theo quy định)."
+- **Điều 7 khoản 3 câu 2 (bù trừ lỗ giữa các hoạt động):** "Trường hợp có hoạt động sản xuất, kinh doanh bị lỗ thì được bù trừ số lỗ vào thu nhập chịu thuế của các hoạt động sản xuất, kinh doanh có thu nhập do doanh nghiệp tự lựa chọn (trừ thu nhập từ hoạt động chuyển nhượng bất động sản, chuyển nhượng dự án đầu tư, chuyển nhượng quyền tham gia dự án đầu tư không bù trừ với thu nhập của hoạt động sản xuất, kinh doanh đang được hưởng ưu đãi thuế)."
+- **Điều 9 khoản 1 điểm c (điều kiện chung):** "Các khoản chi có đủ hoá đơn, chứng từ thanh toán không dùng tiền mặt theo quy định của pháp luật, trừ các trường hợp đặc thù theo quy định của Chính phủ." Chi tiết ở ND-TNDN Điều 9, 10 (mục chứng từ chi phí).
+- **Điều 9 khoản 2 (khoản chi không được trừ hay gặp khi quyết toán):** "b) Khoản tiền phạt do vi phạm hành chính;" — "h) Tiền lương, tiền công của chủ doanh nghiệp tư nhân, chủ công ty trách nhiệm hữu hạn một thành viên do cá nhân làm chủ; thù lao trả cho sáng lập viên doanh nghiệp không trực tiếp tham gia điều hành sản xuất, kinh doanh; tiền lương, tiền công, các khoản hạch toán chi khác để chi trả cho người lao động nhưng thực tế không chi trả hoặc không có hóa đơn, chứng từ theo quy định của pháp luật;" — "l) Phần thuế giá trị gia tăng đầu vào đã được khấu trừ [...]; thuế thu nhập doanh nghiệp; các khoản thuế, phí, lệ phí, thu khác không được tính vào chi phí theo quy định của pháp luật và tiền chậm nộp theo quy định của pháp luật về quản lý thuế;" — "m) Khoản chi không tương ứng với doanh thu tính thuế, trừ các khoản chi quy định tại điểm b khoản 1 Điều này; khoản chi không đáp ứng điều kiện chi, nội dung chi theo quy định của pháp luật chuyên ngành;"
+- **Điều 10 khoản 1–3 (thuế suất):** "1. Thuế suất thuế thu nhập doanh nghiệp là 20%, trừ trường hợp quy định tại các khoản 2, 3 và 4 Điều này và đối tượng được ưu đãi về thuế suất quy định tại Điều 13 của Luật này. 2. Thuế suất 15% áp dụng đối với doanh nghiệp có tổng doanh thu năm không quá 03 tỷ đồng. 3. Thuế suất 17% áp dụng đối với doanh nghiệp có tổng doanh thu năm từ trên 03 tỷ đồng đến không quá 50 tỷ đồng. Doanh thu làm căn cứ xác định doanh nghiệp thuộc đối tượng được áp dụng thuế suất 15% và 17% quy định tại khoản 2, khoản 3 Điều này là tổng doanh thu của kỳ tính thuế thu nhập doanh nghiệp trước liền kề. [...]"
+- **Điều 18 khoản 4:** "Thuế suất 15% và 17% quy định tại khoản 2, khoản 3 Điều 10 của Luật này không áp dụng đối với doanh nghiệp là công ty con hoặc công ty có quan hệ liên kết mà doanh nghiệp trong quan hệ liên kết không phải là doanh nghiệp đáp ứng điều kiện áp dụng thuế suất quy định tại khoản 2, khoản 3 Điều 10 của Luật này."
+- **Điều 16 khoản 1 (chuyển lỗ):** "Doanh nghiệp có lỗ được chuyển lỗ sang năm sau; số lỗ này được trừ vào thu nhập chịu thuế. Thời gian được chuyển lỗ tính liên tục không quá 05 năm, kể từ năm tiếp theo năm phát sinh lỗ."
+- **Lưu ý khi trả lời doanh nghiệp nhỏ:** kỳ 2026 có ba mốc doanh thu khác nhau: miễn thuế (ND-TNDN-SD, doanh thu năm trước từ 1 tỷ trở xuống); thuế suất 15% hoặc 17% (doanh thu kỳ trước liền kề đến 3 tỷ hoặc đến 50 tỷ); giảm 30% số thuế phải nộp (NQ-TN-GIAM, doanh thu của chính năm 2026 không quá 10 tỷ). Phải xét lần lượt và nêu rõ năm doanh thu dùng cho từng mốc.
+
+## LTNCN — Điều 8 khoản 2, Điều 9 khoản 2, Điều 10 khoản 1, 3. Bản scan có chữ ký trên datafiles.chinhphu.vn, trang 8–9. Đối chiếu 16/11/2026. ✅
+
+- **Điều 9 khoản 2 (biểu thuế lũy tiến từng phần, chép lại từ bảng):** bậc 1 đến 120 triệu đồng/năm (đến 10 triệu/tháng): 5%; bậc 2 trên 120 đến 360 triệu (trên 10 đến 30 triệu/tháng): 10%; bậc 3 trên 360 đến 720 triệu (trên 30 đến 60 triệu/tháng): 20%; bậc 4 trên 720 đến 1.200 triệu (trên 60 đến 100 triệu/tháng): 30%; bậc 5 trên 1.200 triệu (trên 100 triệu/tháng): 35%.
+- **Điều 10 khoản 1:** "a) Mức giảm trừ đối với người nộp thuế là 15,5 triệu đồng/tháng (186 triệu đồng/năm); b) Mức giảm trừ đối với mỗi người phụ thuộc là 6,2 triệu đồng/tháng."
+- **Điều 10 khoản 3:** "Việc xác định mức giảm trừ gia cảnh đối với người phụ thuộc thực hiện theo nguyên tắc mỗi người phụ thuộc chỉ được tính giảm trừ một lần vào một người nộp thuế."
+- **Điều 8 khoản 2 (thu nhập tính thuế):** tổng thu nhập chịu thuế "trừ (-) đi các khoản đóng góp bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm trách nhiệm nghề nghiệp đối với một số ngành, nghề phải tham gia bảo hiểm bắt buộc, khoản đóng góp tham gia bảo hiểm hưu trí bổ sung theo quy định của Luật Bảo hiểm xã hội, mua bảo hiểm hưu trí tự nguyện, bảo hiểm nhân thọ không vượt quá mức do Chính phủ quy định và các khoản giảm trừ quy định tại Điều 10 và Điều 11 của Luật này."
+- **Lưu ý:** Điều 29 khoản 2 cho áp dụng quy định về tiền lương, tiền công từ kỳ tính thuế 2026, nên quyết toán TNCN năm 2026 dùng biểu thuế và mức giảm trừ trên cho cả năm.
+
+## ND-TNCN — Điều 51 khoản 1, khoản 2 điểm b. File ký số (bản scan) trên datafiles.chinhphu.vn, trang 38–39. Đối chiếu 16/11/2026. ✅
+
+- **K1:** "Tổ chức, cá nhân trả thu nhập; cá nhân cư trú có thu nhập từ tiền lương, tiền công có trách nhiệm quyết toán thuế theo năm, trừ các trường hợp sau: a) Cá nhân có số thuế phải nộp nhỏ hơn số thuế đã nộp trong kỳ tính thuế mà không có yêu cầu hoàn thuế hoặc bù trừ thuế vào kỳ sau; b) Cá nhân có thêm thu nhập ở nơi khác mà phần thu nhập này bình quân tháng trong năm không quá 15 triệu đồng đã được tổ chức, cá nhân chi trả thu nhập thực hiện khấu trừ thuế thu nhập cá nhân theo tỷ lệ 10% trên thu nhập quy định tại khoản 2 Điều 50 của Nghị định này thì không phải quyết toán thuế đối với phần thu nhập này."
+- **K1 đoạn cuối:** "Trường hợp cá nhân lựa chọn quyết toán thuế trực tiếp với cơ quan thuế thì hệ thống thông tin quản lý thuế sẽ hỗ trợ tổng hợp tất cả các nguồn thu nhập từ tiền lương, tiền công phát sinh trong năm tính thuế và được trừ số thuế đã được tổ chức, cá nhân chi trả thu nhập thực hiện khấu trừ thuế thu nhập cá nhân trong năm tính thuế."
+- **K2 điểm b:** được ủy quyền khi "Cá nhân chỉ có một nguồn thu nhập từ tiền lương, tiền công ký hợp đồng lao động từ 03 tháng trở lên phát sinh tại một tổ chức và thực tế đang làm việc tại đó vào thời điểm quyết toán thuế và có nguồn thu nhập khác đã thực hiện khấu trừ thuế quy định tại điểm b khoản 1 Điều này."
+- **Suy luận (ghi rõ khi trả lời):** người đã nghỉ việc tại thời điểm quyết toán không đáp ứng điều kiện "thực tế đang làm việc tại đó vào thời điểm quyết toán thuế" ở điểm a, b khoản 2, nên không ủy quyền cho công ty cũ được; phải tự quyết toán nếu thuộc diện phải quyết toán theo khoản 1.

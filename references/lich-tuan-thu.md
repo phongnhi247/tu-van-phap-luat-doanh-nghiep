@@ -31,9 +31,9 @@ Dùng khi người dùng hỏi "tháng hoặc quý này phải nộp gì", "hạ
 | Phụ lục giao dịch liên kết (nộp cùng quyết toán TNDN) | Doanh nghiệp có giao dịch liên kết | ND-GDLK |
 | Báo cáo tài chính năm: nộp cho cơ quan thuế và các cơ quan khác theo quy định | Doanh nghiệp | LKT, TT-KTDN, TT-KTDNNV hoặc TT-KTSN, LQLT |
 | Đóng BHXH, BHYT, BHTN hằng tháng (hoặc theo phương thức đã đăng ký) | Người sử dụng lao động | LBHXH, ND-BHXH, TT-BHXH, LBHYT, LBHYT-SD, LVL, ND-BHTN |
-| Kinh phí công đoàn | Người sử dụng lao động | LCDOAN (⚠️ chưa kiểm tra trong đợt lập danh mục) |
+| Kinh phí công đoàn: 2% quỹ tiền lương làm căn cứ đóng BHXH bắt buộc | Người sử dụng lao động | LCDOAN Điều 29 khoản 1 điểm b (✅, xem `trich-dan-xac-minh.md`). Phương thức, thời hạn đóng do Chính phủ quy định, văn bản này chưa có trong danh mục |
 | Báo cáo tình hình sử dụng lao động (định kỳ) | Người sử dụng lao động | BLLD, ND-QHLD. Phải kiểm tra vì có dự thảo sửa đổi năm 2026 đơn giản hóa chế độ báo cáo |
-| Báo cáo sử dụng người lao động nước ngoài | Doanh nghiệp có lao động nước ngoài | ND-LDNN |
+| Báo cáo sử dụng người lao động nước ngoài: định kỳ trước ngày 05/6 và 05/12 hằng năm (từ 05/12/2026), trừ khi thông tin đã có trong cơ sở dữ liệu người lao động nước ngoài | Doanh nghiệp có lao động nước ngoài | ND-LDNN-26 Điều 37 khoản 6 điểm đ (✅, xem `trich-dan-xac-minh.md`); trước 05/12/2026 là ND-LDNN |
 | Báo cáo công tác bảo vệ môi trường | Cơ sở thuộc diện | ND-BVMT |
 | Lệ phí môn bài | **Không còn từ năm 2026** | NQ-KTTN |
 
@@ -51,7 +51,25 @@ Bảng này là danh sách để kiểm tra, không phải danh sách đầy đ�
 | Chuyển nhượng vốn của cá nhân | Khai thuế TNCN | LTNCN, ND-TNCN, LQLT |
 | Rò rỉ dữ liệu cá nhân | Thông báo trong thời hạn | LBVDLCN, ND-BVDLCN |
 
-## 4. Mẫu trả lời
+## 4. Lịch quý 1/2027 (dựng sẵn)
+
+Mục này là ngoại lệ của nguyên tắc "không ghi hạn cố định": dựng sẵn vì quý 1/2027 có nhiều mốc dồn lại. Ngày được tính từ các điều khoản đã đọc nguyên văn. Trước khi dùng vẫn phải: (1) chạy "cập nhật căn cứ" để chắc không có văn bản mới thay đổi hạn; (2) lọc theo hồ sơ doanh nghiệp; (3) kiểm tra lịch nghỉ Tết Nguyên đán 2027 (mùng 1 Tết là thứ Bảy 06/02/2027; lịch nghỉ chính thức chưa có trong danh mục).
+
+**Hạn trùng ngày nghỉ:** LQLT và ND-QLT không có quy định riêng. Áp dụng quy tắc chung của BLDS về ngày cuối cùng của thời hạn là ngày nghỉ (⚠️, chưa đọc nguyên văn điều của BLDS). Luôn khuyến nghị nộp trước ngày nghỉ.
+
+| Hạn | Thứ | Việc | Ai làm | Căn cứ | Nhãn |
+|---|---|---|---|---|---|
+| 01/01/2027 | Thứ Sáu | Áp dụng lương tối thiểu vùng mới; hết mức giảm thuế GTGT 8% (nếu không gia hạn); hợp đồng lao động điện tử giao kết theo điều kiện mới | Người sử dụng lao động; người bán hàng | ND-LTT-2027 Điều 5; NQ-GTGT-GIAM Điều 2; NQ-HDLDDT Điều 1 | ✅ |
+| 20/01/2027 | Thứ Tư | Tờ khai GTGT tháng 12/2026 (doanh nghiệp khai theo tháng) | Doanh nghiệp khai GTGT theo tháng | ND-QLT Điều 10 khoản 2 | ✅ |
+| 31/01/2027 | Chủ nhật | Tờ khai GTGT quý 4/2026 (khai theo quý); tờ khai khấu trừ TNCN quý 4/2026; hạn tạm nộp TNDN quý 4/2026 (kiểm tra mức 80%) | Doanh nghiệp tương ứng | ND-QLT Điều 10 khoản 3, Điều 24 khoản 2, 3; TT-QLT Điều 22 | ✅ ngày theo điều khoản; ⚠️ cách lùi khi trùng ngày nghỉ |
+| 20/02/2027 | Thứ Bảy | Tờ khai GTGT tháng 01/2027 | Doanh nghiệp khai theo tháng | ND-QLT Điều 10 khoản 2 | ✅ ngày; ⚠️ trùng ngày nghỉ, kiểm tra lịch nghỉ Tết |
+| 20/03/2027 | Thứ Bảy | Tờ khai GTGT tháng 02/2027 | Doanh nghiệp khai theo tháng | ND-QLT Điều 10 khoản 2 | ✅ ngày; ⚠️ trùng ngày nghỉ |
+| 31/03/2027 | Thứ Tư | Quyết toán thuế TNDN năm 2026 và nộp số thuế còn thiếu; quyết toán thuế TNCN năm 2026 của tổ chức trả thu nhập (gồm quyết toán thay); phụ lục giao dịch liên kết | Doanh nghiệp; tổ chức trả thu nhập | ND-QLT Điều 10 khoản 5 điểm a; LQLT Điều 14; ND-GDLK | ✅ (LQLT ⚠️) |
+| 30/04/2027 | Thứ Sáu, ngày lễ | Cá nhân tự quyết toán thuế TNCN năm 2026 | Cá nhân | ND-QLT Điều 10 khoản 5 điểm c | ✅ ngày; ⚠️ trùng ngày nghỉ lễ |
+
+Không ghi vào bảng các nghĩa vụ chưa đọc được hạn nguyên văn: đóng BHXH hằng tháng, kinh phí công đoàn, báo cáo tài chính năm, báo cáo tình hình sử dụng lao động. Với các nghĩa vụ này, tra căn cứ ở mục 2 trước khi nêu ngày. Xem thêm `quyet-toan-va-chuyen-nam.md`.
+
+## 5. Mẫu trả lời
 
 > **Lịch tuân thủ tháng MM/YYYY — <Tên doanh nghiệp>** (theo hồ sơ: kê khai GTGT theo quý, có khấu trừ TNCN theo tháng, N lao động)
 >

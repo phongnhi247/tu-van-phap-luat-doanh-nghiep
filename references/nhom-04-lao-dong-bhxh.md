@@ -30,7 +30,7 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 | 3 | Hợp đồng lao động điện tử: điều kiện, nền tảng, chữ ký số, lộ trình | ND-HDLDDT, TT-HDLDDT, NQ-HDLDDT |
 | 4 | Lương không thấp hơn mức tối thiểu vùng tại thời điểm trả lương | ND-LTT, ND-LTT-2027 |
 | 5 | Tham gia BHXH, BHYT, BHTN: đối tượng, thời điểm, mức đóng | LBHXH, ND-BHXH, TT-BHXH, LBHYT, LBHYT-SD, LVL, ND-BHTN |
-| 6 | Lao động nước ngoài: giấy phép lao động hoặc xác nhận miễn | ND-LDNN |
+| 6 | Lao động nước ngoài: giấy phép lao động hoặc xác nhận miễn | ND-LDNN (đến hết 04/12/2026); ND-LDNN-26 (từ 05/12/2026, có điều khoản chuyển tiếp) |
 
 ### 3.2 Xử lý kỷ luật lao động và sa thải
 
@@ -79,10 +79,10 @@ tuyển dụng, thử việc, hợp đồng lao động, hợp đồng lao độ
 
 - Sa thải khi nội quy không quy định hành vi đó, hoặc không tổ chức họp xử lý kỷ luật. Căn cứ: BLLD, ND-QHLD.
 - Xử lý kỷ luật khi đã quá thời hiệu. Căn cứ: BLLD.
-- Trả lương thấp hơn lương tối thiểu sau khi mức mới có hiệu lực. Mức mới áp dụng từ 01/01/2027. Căn cứ: ND-LTT-2027.
+- Trả lương thấp hơn lương tối thiểu sau khi mức mới có hiệu lực. Mức mới áp dụng từ 01/01/2027. Căn cứ: ND-LTT-2027. Danh sách việc phải làm trước và sau mốc này (rà hợp đồng, BHXH, kinh phí công đoàn, hợp đồng lao động điện tử): `quyet-toan-va-chuyen-nam.md` mục C.
 - Ký hợp đồng cộng tác viên, khoán việc để tránh đóng BHXH trong khi bản chất là quan hệ lao động. Căn cứ: BLLD, LBHXH.
 - Chậm đóng BHXH. Từ 10/09/2026 chế tài tăng. Căn cứ: ND-XPLD.
-- Lao động nước ngoài làm việc khi giấy phép đã hết hạn hoặc làm sai vị trí công việc. Căn cứ: ND-LDNN.
+- Lao động nước ngoài làm việc khi giấy phép đã hết hạn hoặc làm sai vị trí công việc. Căn cứ: ND-LDNN cho sự việc đến hết 04/12/2026, ND-LDNN-26 từ 05/12/2026.
 - Áp dụng mức phạt theo bài báo mà không đọc nguyên văn nghị định. Phải trích nguyên văn.
 
 ## 5. Khi nào chuyển sang luật sư

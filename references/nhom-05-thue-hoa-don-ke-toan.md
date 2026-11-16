@@ -35,8 +35,8 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 | Hồ sơ khai, kỳ khai, hạn nộp hồ sơ và tiền thuế (từ 01/07/2026). Hạn nộp đã có trong `trich-dan-xac-minh.md` | LQLT, ND-QLT |
 | Mẫu tờ khai, hồ sơ khai thuế cụ thể (Phụ lục I); khai thuế TNCN đối với tiền lương, tiền công **theo quý** từ 01/07/2026; danh sách thông tư bị bãi bỏ | TT-QLT. Trích dẫn Điều 22, Điều 99 có trong `trich-dan-xac-minh.md` |
 | Sự việc trước 01/07/2026 | Luật và nghị định quản lý thuế cũ (xem mục hết hiệu lực trong danh mục) cùng điều khoản chuyển tiếp của LQLT |
-| Tạm nộp TNDN theo quý, quyết toán năm | LTNDN, ND-TNDN, ND-TNDN-SD, TT-TNDN, LQLT |
-| Khấu trừ TNCN, quyết toán thay cho người lao động | LTNCN, ND-TNCN, LQLT |
+| Tạm nộp TNDN theo quý, quyết toán năm (năm 2026: dùng `quyet-toan-va-chuyen-nam.md`, có bảng ba mốc doanh thu và các điểm hay sai) | LTNDN, ND-TNDN, ND-TNDN-SD, TT-TNDN, LQLT, NQ-TN-GIAM, ND-TN-GIAM |
+| Khấu trừ TNCN, quyết toán thay cho người lao động (năm 2026: xem `quyet-toan-va-chuyen-nam.md` mục B) | LTNCN, ND-TNCN, LQLT |
 | Tiền chậm nộp: cách tính, miễn tiền chậm nộp | LQLT, ND-QLT |
 
 ### 3.2 Thuế GTGT và hoàn thuế
@@ -55,7 +55,8 @@ khai thuế, nộp thuế, kỳ kê khai tháng hoặc quý, quyết toán, tạ
 | Thu nhập chịu thuế, thu nhập miễn thuế | LTNDN, ND-TNDN |
 | Chi phí được trừ và không được trừ | LTNDN, ND-TNDN, ND-TNDN-SD, TT-TNDN |
 | Ưu đãi thuế, chuyển lỗ | LTNDN, ND-TNDN |
-| Trường hợp miễn thuế TNDN theo ngưỡng doanh thu (bổ sung năm 2026; ngày hiệu lực các nguồn mâu thuẫn, phải đọc nguyên văn) | ND-TNDN-SD |
+| Trường hợp miễn thuế TNDN theo ngưỡng doanh thu (tổng doanh thu năm trước liền kề từ 1 tỷ đồng trở xuống, từ 01/01/2026; có trường hợp loại trừ với công ty con, công ty liên kết) | LTNCN-SD Điều 3, ND-TNDN-SD Điều 2 (✅, xem `trich-dan-xac-minh.md`) |
+| Giảm 30% số thuế TNDN phải nộp kỳ 2026, 2027 khi doanh thu năm không quá 10 tỷ đồng: đối tượng, doanh thu làm căn cứ, tự giảm khi tạm nộp quý, nộp bù khi doanh thu thực tế vượt 10 tỷ | NQ-TN-GIAM, ND-TN-GIAM Điều 3 (✅, xem `trich-dan-xac-minh.md`) |
 | Hộ, cá nhân kinh doanh: chính sách thuế, thời hạn khai | ND-THKD, ND-QLT |
 | Chi phí lãi vay và giao dịch liên kết | ND-GDLK |
 
@@ -89,7 +90,7 @@ Trả lại hàng, đổi hàng làm thay đổi giá trị, hủy dịch vụ �
 | **Bước đầu tiên:** xác định doanh nghiệp có phải doanh nghiệp nhỏ và vừa hoặc siêu nhỏ không, và đang đăng ký chế độ kế toán nào. Tiêu chí doanh nghiệp siêu nhỏ, nhỏ, vừa: LHTDNNVV, ND-DNNVV (đang có dự án luật thay thế năm 2026, phải kiểm tra). Không mặc định doanh nghiệp dùng TT-KTDN | Hồ sơ doanh nghiệp, TT-KTDN, TT-KTDNNV, TT-KTSN |
 | Chứng từ, sổ sách, kỳ kế toán, lưu trữ, người làm kế toán | LKT, LKT-SD |
 | Chế độ kế toán doanh nghiệp thông thường từ năm tài chính 2026 | TT-KTDN |
-| Doanh nghiệp nhỏ và vừa | TT-KTDNNV (có dự thảo thay thế, phải kiểm tra) |
+| Doanh nghiệp nhỏ và vừa | TT-KTDNNV. Đến 16/11/2026 vẫn còn hiệu lực; văn bản thay thế mới là dự thảo. TT-KTSN **không** thay TT-KTDNNV |
 | Doanh nghiệp siêu nhỏ | TT-KTSN |
 
 ### 3.7 Lệ phí môn bài

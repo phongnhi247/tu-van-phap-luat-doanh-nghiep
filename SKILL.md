@@ -39,6 +39,9 @@ Trước khi trả lời câu hỏi đầu tiên:
 | "soạn giúp", "viết quyết định / biên bản / công văn / thông báo" | Soạn văn bản theo mẫu | `soan-van-ban.md` |
 | "chi phí được trừ", "cần chứng từ gì", "đề nghị thanh toán", "tạm ứng", "hoàn ứng", "bảng kê", "chi lương, thưởng, phúc lợi", "thuê cá nhân", "khấu trừ 10%", "nghiệm thu", "thanh lý hợp đồng", "đối chiếu công nợ", "hủy hàng" | Bộ chứng từ chi phí | `chung-tu-chi-phi.md` + nhóm 5 |
 | "mở khóa học", "khóa học online", "coaching", "gói thành viên", "học phí", "chứng chỉ", "hoàn học phí", "học viên", "bán hàng online", "bán trên sàn", "COD", "hoàn hàng", "quảng cáo khóa học", "cam kết đầu ra", "cảm nhận học viên", "hoa hồng giới thiệu", "affiliate" | Kinh doanh khóa học và bán hàng trực tuyến | `ban-hang-truc-tuyen.md` + nhóm 3, 5 (thêm nhóm 1, 6 khi hỏi giấy phép, dữ liệu, bản quyền) |
+| "quyết toán", "quyết toán thuế năm 2026", "tạm nộp thiếu", "miễn thuế TNDN", "giảm 30% thuế", "chuyển lỗ", "ủy quyền quyết toán", "giảm trừ gia cảnh", "cuối năm", "đầu năm", "chuyển năm", "năm 2027", "hết giảm thuế GTGT", "lương tối thiểu 2027", "BHXH 2027", "mức đóng BHXH", "chế độ kế toán", "Thông tư 133" | Quyết toán năm 2026 và chuyển mốc 01/01/2027 | `quyet-toan-va-chuyen-nam.md` + nhóm 4, 5; lịch nộp ở `lich-tuan-thu.md` mục 4 |
+
+Câu hỏi về quyết toán năm 2026 hoặc việc làm quanh 01/01/2027: luôn nêu các điểm liên quan trong mục D "Các điểm hay sai" của `quyet-toan-va-chuyen-nam.md`, và nói rõ doanh thu của năm nào được dùng cho từng mức miễn, giảm.
 
 Câu hỏi về doanh nghiệp đào tạo, khóa học, coaching: luôn nêu các điểm liên quan trong mục D "Những điểm dễ có vấn đề" của `ban-hang-truc-tuyen.md`, kể cả khi người dùng không hỏi trực tiếp.
 

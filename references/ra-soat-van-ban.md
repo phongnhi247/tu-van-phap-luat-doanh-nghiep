@@ -47,7 +47,7 @@ Mỗi dòng là một điểm cần kiểm tra. Nội dung chi tiết phải tra
 - [ ] Không có điều khoản cấm: giữ giấy tờ tùy thân hoặc văn bằng gốc, buộc đặt cọc, buộc làm việc để trả nợ — BLLD
 - [ ] Điều khoản bảo mật, không cạnh tranh: phạm vi hợp lý, có đối chiếu luật — BLLD
 - [ ] Hợp đồng lao động điện tử: đáp ứng điều kiện về nền tảng và chữ ký — ND-HDLDDT, TT-HDLDDT
-- [ ] Người lao động nước ngoài: có giấy phép lao động hoặc xác nhận miễn, thời hạn hợp đồng không vượt thời hạn giấy phép — ND-LDNN
+- [ ] Người lao động nước ngoài: có giấy phép lao động hoặc xác nhận miễn, thời hạn hợp đồng không vượt thời hạn giấy phép — ND-LDNN (đến hết 04/12/2026), ND-LDNN-26 (từ 05/12/2026)
 
 ### 3.2 Nội quy lao động
 

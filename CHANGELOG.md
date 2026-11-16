@@ -1,5 +1,18 @@
 # Nhật ký thay đổi
 
+## 1.5.0 — 16/11/2026
+
+Chủ đề: quyết toán năm 2026, chuyển mốc 01/01/2027 và nâng chất lượng căn cứ.
+
+- **Tính năng mới `quyet-toan-va-chuyen-nam.md`:** hạn nộp quyết toán TNDN, TNCN năm 2026; bảng xét lần lượt miễn thuế TNDN (doanh thu năm trước từ 1 tỷ trở xuống), thuế suất 15%/17%, giảm 30% số thuế phải nộp kỳ 2026, 2027 (doanh thu năm không quá 10 tỷ), ghi rõ doanh thu của năm nào dùng cho từng mốc; tạm nộp 80%, chuyển lỗ 5 năm, chi phí bị loại; ai phải quyết toán TNCN, ai được ủy quyền, biểu thuế và giảm trừ gia cảnh mới; 8 việc nên làm trước 31/12/2026 (lương tối thiểu vùng mới, BHXH, kinh phí công đoàn, hợp đồng lao động điện tử, hết mức giảm GTGT 8%, phân bổ GTGT, lao động nước ngoài); 12 điểm hay sai; chế độ kế toán doanh nghiệp nhỏ và vừa (văn bản năm 2016 vẫn còn hiệu lực).
+- **Lịch tuân thủ:** thêm lịch quý 1/2027 theo ngày, có thứ trong tuần và đánh dấu hạn trùng ngày nghỉ.
+- **Danh mục căn cứ:** tiêu chí ✅ mới: chỉ khi đã đọc file có chữ ký số, văn bản hợp nhất hoặc bản Công báo trên nguồn chính thức, và ngày hiệu lực đọc từ điều khoản thi hành; mỗi dòng ⚠️ ghi lý do. Đã đọc lại hai nhóm thuế, kế toán và lao động, BHXH: 41 dòng đạt tiêu chí mới; số dòng ⚠️ giảm từ 80 xuống 60. Thêm nghị quyết và nghị định giảm 30% thuế TNDN, TNCN kỳ 2026, 2027; nghị định hướng dẫn giảm thuế GTGT; nghị định mới về người lao động nước ngoài (từ 05/12/2026). Sửa: luật sửa đổi năm 2026 sửa cả bốn luật thuế; thông tư hợp đồng lao động điện tử có hiệu lực 01/07/2026; thông tư kế toán doanh nghiệp năm 2025 hạ xuống ⚠️ (chỉ có bản đăng lại). Baseline 16/11/2026.
+- **Kho trích dẫn:** thêm nguyên văn từ file ký số: LTNDN Điều 7, 9, 10, 16, 18; LTNCN Điều 8, 9, 10; ND-TNCN Điều 51; ND-TNDN-SD Điều 2–4; NQ-TN-GIAM; ND-TN-GIAM Điều 3, 4; LTNCN-SD; ND-QLT Điều 74; LGTGT Điều 7, 8; ND-LTT-2027 (đủ bốn vùng); LBHXH Điều 7, 31–33; LCDOAN Điều 29; NQ-HDLDDT; ND-GTGT-GIAM; ND-LDNN-26.
+- **Còn ❓:** thuế suất và kỳ kê khai của hóa đơn điều chỉnh lập sau 31/12/2026 cho hóa đơn 8% năm 2026 (chưa có văn bản).
+- **SKILL.md:** thêm định tuyến cho quyết toán, cuối năm, chuyển năm, lương tối thiểu 2027, chế độ kế toán; yêu cầu luôn nêu các điểm hay sai.
+- **Bộ kiểm thử:** thêm câu 45–57, chạy bằng phiên làm việc độc lập: cả 13 câu đạt, chạy lại hai câu cũ về hóa đơn và chi phí đạt. Sửa theo góp ý: quy tắc gắn nhãn khi không tra web (kho trích dẫn được tính là đã tra); chép đủ quy định tiền chậm nộp khi tạm nộp thiếu (tính trên phần thiếu so với mức 80%); từ khóa BHXH 2027.
+- Bản Gem: `cac-tinh-nang.md` gộp thêm `quyet-toan-va-chuyen-nam.md`.
+
 ## 1.4.0 — 16/11/2026
 
 Chủ đề: kinh doanh khóa học và bán hàng trực tuyến.

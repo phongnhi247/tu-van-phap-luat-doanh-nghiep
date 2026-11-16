@@ -1,6 +1,6 @@
 # Tư vấn pháp luật doanh nghiệp
 
-Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghiệp Việt Nam: thuế, hóa đơn điện tử, lao động, BHXH, hợp đồng, chứng từ chi phí, kinh doanh khóa học và bán hàng online. Mỗi câu trả lời có trích nguyên văn điều luật, nhãn độ tin cậy và checklist hồ sơ.
+Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghiệp Việt Nam: thuế, hóa đơn điện tử, lao động, BHXH, hợp đồng, chứng từ chi phí, quyết toán thuế năm và việc chuyển năm, kinh doanh khóa học và bán hàng online. Mỗi câu trả lời có trích nguyên văn điều luật, nhãn độ tin cậy và checklist hồ sơ.
 
 *Từ khóa: tư vấn pháp luật doanh nghiệp, tu van phap luat doanh nghiep, luật thuế, hóa đơn điện tử, luật lao động, Vietnamese business law, Vietnam tax, AI legal assistant.*
 
@@ -28,7 +28,7 @@ Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghi
 Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
 
 - **Chỉ nói khi có căn cứ.** Mọi con số (mức phạt, thời hạn, tỷ lệ) phải kèm câu trích nguyên văn. Mỗi kết luận có nhãn: ✅ đã đối chiếu, ⚠️ chưa chắc chắn, ❓ không tìm thấy. Không tìm thấy thì nói "không biết", không bịa.
-- **Một danh mục căn cứ duy nhất** gồm 136 văn bản, cập nhật đến 16/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
+- **Một danh mục căn cứ duy nhất** gồm 140 văn bản, cập nhật đến 16/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
 - **Kho trích dẫn đã xác minh** từ file gốc (nhiều file có chữ ký số): hạn nộp tờ khai thuế, khai TNCN theo quý, xử lý hóa đơn sai sót, mức phạt chậm đóng BHXH, trình tự kỷ luật lao động, chuẩn trình bày văn bản...
 - **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
 - **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
@@ -100,6 +100,14 @@ Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên
 - **Skill làm gì:** đối chiếu Luật Giáo dục và nghị định điều kiện kinh doanh giáo dục mới năm 2026, Luật Thuế GTGT và nghị quyết giảm thuế, nghị định và thông tư hóa đơn, Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo, Luật Sở hữu trí tuệ, Luật Bảo vệ dữ liệu cá nhân, nghị định đa cấp.
 - **Bạn nhận được:** có cần giấy phép không và tên gọi "chứng chỉ", "học viện"; thuế suất học phí và mốc 31/12/2026 của mức 8%; thời điểm xuất hóa đơn, hoàn tiền, doanh thu gói nhiều kỳ; hợp đồng với học viên (giao dịch từ xa, gói từ 03 tháng, điều khoản bị cấm); quảng cáo, lời chứng thực, KOL, khóa đầu tư chứng khoán, hoa hồng giới thiệu; quyền tác giả bài giảng, hình ảnh và dữ liệu học viên; hóa đơn, trả hàng, sàn, COD, chứng từ nguồn gốc khi bán hàng hóa; bộ chứng từ một đơn; danh sách điểm dễ có vấn đề và checklist ra mắt khóa học.
 - **Giới hạn:** nhiều văn bản mới (Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo, nghị định giáo dục 2026, nghị định đa cấp) mới đọc được bản đăng lại nên nhãn tối đa ⚠️. Chưa có mức phạt về quảng cáo, chứng khoán, dữ liệu. Chưa có căn cứ cho việc doanh nghiệp không lập trung tâm có cần phép không.
+
+#### 3c. Quyết toán năm 2026 và chuyển mốc 01/01/2027 (mới ở bản 1.5)
+
+- **Dùng khi:** kế toán chuẩn bị quyết toán thuế TNDN, TNCN năm 2026, hoặc cần biết việc phải làm trước và sau 01/01/2027.
+- **Cách gọi:** "Hạn quyết toán TNDN năm 2026 là ngày nào?", "Doanh thu năm ngoái 2,5 tỷ, năm nay 8 tỷ thì được ưu đãi thuế gì?", "Nhân viên nghỉ việc giữa năm có ủy quyền quyết toán được không?", "Từ 01/01/2027 lương tối thiểu vùng là bao nhiêu, phải làm gì?", "Tháng 1/2027 phải nộp những gì?"
+- **Skill làm gì:** đối chiếu Luật Quản lý thuế và nghị định hướng dẫn, Luật Thuế TNDN, Luật Thuế TNCN, nghị quyết và nghị định giảm 30% thuế thu nhập kỳ 2026, 2027, nghị định miễn thuế TNDN cho doanh nghiệp doanh thu từ 1 tỷ trở xuống, nghị định lương tối thiểu từ 01/01/2027, Luật BHXH, Luật Công đoàn, nghị quyết về hợp đồng lao động điện tử, nghị quyết và nghị định giảm thuế GTGT. Tất cả đọc nguyên văn từ file có chữ ký số.
+- **Bạn nhận được:** hạn nộp; bảng xét lần lượt miễn thuế, thuế suất 15%/17%, giảm 30% (mỗi mức dùng doanh thu của năm nào); tạm nộp 80%, chuyển lỗ, chi phí bị loại; quyết toán TNCN và ủy quyền; danh sách việc trước 31/12/2026 và từ 01/01/2027; 12 điểm hay sai; lịch quý 1/2027 theo ngày.
+- **Giới hạn:** chưa có văn bản quy định thuế suất và kỳ kê khai của hóa đơn điều chỉnh lập năm 2027 cho hóa đơn 8% năm 2026, nên skill trả lời ❓. Chưa có mức tham chiếu BHXH, lịch nghỉ Tết 2027, số hiệu mẫu tờ khai quyết toán.
 
 #### 4. Soạn văn bản theo chuẩn Nghị định 30/2020
 
