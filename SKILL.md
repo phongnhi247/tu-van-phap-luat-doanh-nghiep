@@ -1,6 +1,6 @@
 ---
 name: tu-van-phap-luat-doanh-nghiep
-description: TƯ VẤN PHÁP LÝ DOANH NGHIỆP VIỆT NAM CHUYÊN SÂU — thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại, lao động và BHXH, thuế, hóa đơn và kế toán, tuân thủ chuyên ngành (dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC), tranh chấp, thanh tra, giải thể và phá sản, hải quan và xuất nhập khẩu. Trả lời có căn cứ trích nguyên văn, có phương án, khuyến nghị và checklist hồ sơ; có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, hồ sơ doanh nghiệp lưu lại, soạn văn bản theo mẫu, lệnh "cập nhật căn cứ". Kích hoạt khi người dùng hỏi về công ty, doanh nghiệp, hộ kinh doanh chuyển đổi, cổ đông, góp vốn, hợp đồng thương mại, hợp đồng lao động, sa thải, lương, BHXH, thuế GTGT, TNDN, TNCN, hóa đơn, quyết toán, báo cáo tài chính, xử phạt, thanh tra thuế, giải thể, phá sản; hoặc nói "tháng này phải nộp gì", "rà soát hợp đồng này", "cập nhật căn cứ". KHÔNG dùng cho vấn đề pháp lý cá nhân ngoài doanh nghiệp (ly hôn, thừa kế, đất đai hộ gia đình, hình sự cá nhân).
+description: TƯ VẤN PHÁP LÝ DOANH NGHIỆP VIỆT NAM CHUYÊN SÂU — thành lập và đầu tư, quản trị và vốn, hợp đồng và thương mại, lao động và BHXH, thuế, hóa đơn và kế toán, tuân thủ chuyên ngành (dữ liệu cá nhân, nhãn hiệu, môi trường, PCCC), tranh chấp, thanh tra, giải thể và phá sản, hải quan và xuất nhập khẩu. Trả lời có căn cứ trích nguyên văn, có phương án, khuyến nghị và checklist hồ sơ; có lịch tuân thủ, rà soát hợp đồng và văn bản nội bộ, hồ sơ doanh nghiệp lưu lại, soạn văn bản theo mẫu, bộ mẫu bán hàng (báo giá, hợp đồng mua bán, đại lý, chính sách đổi trả), kiểm tra sức khỏe pháp lý, lệnh "cập nhật căn cứ". Kích hoạt khi người dùng hỏi về công ty, doanh nghiệp, hộ kinh doanh chuyển đổi, cổ đông, góp vốn, hợp đồng thương mại, bán hàng hóa cho người tiêu dùng hoặc doanh nghiệp, website bán hàng, livestream, nhãn hàng hóa, xuất xứ, đổi trả, bảo hành, khuyến mại, chiết khấu, hợp đồng lao động, sa thải, lương, BHXH, thuế GTGT, TNDN, TNCN, hóa đơn, quyết toán, báo cáo tài chính, xử phạt, thanh tra thuế, giải thể, phá sản; hoặc nói "tháng này phải nộp gì", "rà soát hợp đồng này", "kiểm tra công ty tôi", "cập nhật căn cứ". KHÔNG dùng cho vấn đề pháp lý cá nhân ngoài doanh nghiệp (ly hôn, thừa kế, đất đai hộ gia đình, hình sự cá nhân).
 ---
 
 # Tư vấn pháp luật doanh nghiệp
@@ -33,17 +33,22 @@ Trước khi trả lời câu hỏi đầu tiên:
 |---|---|---|
 | Câu hỏi pháp lý bất kỳ (mặc định) | Tư vấn chuyên sâu, trả lời trong chat theo khung 7 phần | `khung-tra-loi.md` + module nhóm |
 | "lập hồ sơ", hoặc vụ việc nhiều bên, nhiều văn bản, cần lưu vết | Lập hồ sơ: tạo thư mục và file báo cáo | `khung-tra-loi.md` (mục Lập hồ sơ) |
-| "tháng/quý này phải nộp gì", "lịch nộp", "hạn nộp" | Lịch tuân thủ | `lich-tuan-thu.md` |
+| "tháng/quý này phải nộp gì", "lịch nộp", "hạn nộp", "nhắc lịch hằng tháng", "tự nhắc mỗi tháng" | Lịch tuân thủ (kể cả cách cài nhắc lịch tự động) | `lich-tuan-thu.md` |
 | Dán hoặc gửi hợp đồng, nội quy, quyết định, điều lệ và nhờ xem | Rà soát văn bản | `ra-soat-van-ban.md` |
 | "cập nhật căn cứ", "kiểm tra văn bản mới" | Cập nhật danh mục | `cap-nhat-can-cu.md` |
 | "soạn giúp", "viết quyết định / biên bản / công văn / thông báo" | Soạn văn bản theo mẫu | `soan-van-ban.md` |
 | "chi phí được trừ", "cần chứng từ gì", "đề nghị thanh toán", "tạm ứng", "hoàn ứng", "bảng kê", "chi lương, thưởng, phúc lợi", "thuê cá nhân", "khấu trừ 10%", "nghiệm thu", "thanh lý hợp đồng", "đối chiếu công nợ", "hủy hàng" | Bộ chứng từ chi phí | `chung-tu-chi-phi.md` + nhóm 5 |
 | "mở khóa học", "khóa học online", "coaching", "gói thành viên", "học phí", "chứng chỉ", "hoàn học phí", "học viên", "bán hàng online", "bán trên sàn", "COD", "hoàn hàng", "quảng cáo khóa học", "cam kết đầu ra", "cảm nhận học viên", "hoa hồng giới thiệu", "affiliate" | Kinh doanh khóa học và bán hàng trực tuyến | `ban-hang-truc-tuyen.md` + nhóm 3, 5 (thêm nhóm 1, 6 khi hỏi giấy phép, dữ liệu, bản quyền) |
+| "bán hàng hóa", "bán lẻ", "bán buôn", "bán cho đại lý", "website bán hàng", "livestream", "nhãn hàng hóa", "nhãn phụ", "xuất xứ", "sản xuất tại Việt Nam", "đổi trả", "bảo hành", "khuyến mại", "giảm giá", "mua X tặng Y", "voucher", "chiết khấu", "báo giá", "đơn đặt hàng", "hợp đồng mua bán", "phạt chậm thanh toán", "giao nhiều đợt", "hàng mất khi vận chuyển", "hàng không rõ nguồn gốc", "KOL" | Bán hàng hóa cho người tiêu dùng và doanh nghiệp | `ban-hang-hoa.md` + nhóm 3, 5 (thêm nhóm 6 khi hỏi dữ liệu khách hàng, nhóm 7 khi đòi nợ, khởi kiện) |
+| "soạn báo giá", "soạn hợp đồng mua bán", "hợp đồng đại lý", "biên bản giao nhận", "chính sách đổi trả", "điều kiện giao dịch chung", "quy chế bán hàng" | Bộ mẫu văn bản | `mau-van-ban-doanh-nghiep.md` + `soan-van-ban.md` + `ban-hang-hoa.md` |
+| "kiểm tra công ty tôi", "kiểm tra sức khỏe pháp lý", "rà soát tuân thủ", "công ty tôi đang thiếu gì" | Kiểm tra sức khỏe pháp lý | `kiem-tra-suc-khoe-phap-ly.md` + hồ sơ doanh nghiệp |
 | "quyết toán", "quyết toán thuế năm 2026", "tạm nộp thiếu", "miễn thuế TNDN", "giảm 30% thuế", "chuyển lỗ", "ủy quyền quyết toán", "giảm trừ gia cảnh", "cuối năm", "đầu năm", "chuyển năm", "năm 2027", "hết giảm thuế GTGT", "lương tối thiểu 2027", "BHXH 2027", "mức đóng BHXH", "chế độ kế toán", "Thông tư 133" | Quyết toán năm 2026 và chuyển mốc 01/01/2027 | `quyet-toan-va-chuyen-nam.md` + nhóm 4, 5; lịch nộp ở `lich-tuan-thu.md` mục 4 |
 
 Câu hỏi về quyết toán năm 2026 hoặc việc làm quanh 01/01/2027: luôn nêu các điểm liên quan trong mục D "Các điểm hay sai" của `quyet-toan-va-chuyen-nam.md`, và nói rõ doanh thu của năm nào được dùng cho từng mức miễn, giảm.
 
 Câu hỏi về doanh nghiệp đào tạo, khóa học, coaching: luôn nêu các điểm liên quan trong mục D "Những điểm dễ có vấn đề" của `ban-hang-truc-tuyen.md`, kể cả khi người dùng không hỏi trực tiếp.
+
+Câu hỏi về bán hàng hóa: luôn nêu các điểm liên quan trong mục H "Các điểm hay sai" của `ban-hang-hoa.md`, phân biệt rõ người mua là người tiêu dùng hay doanh nghiệp, và nhắc rằng luật sửa đổi Luật Thương mại, Luật Bảo vệ quyền lợi người tiêu dùng đã được thông qua nhưng chưa có hiệu lực tại baseline. Câu hỏi ngắn có–không thì dùng khung trả lời nhanh (`khung-tra-loi.md` mục A1).
 
 Câu hỏi về đối chiếu công nợ, nghiệm thu, thanh lý mà trọng tâm là đòi nợ, thời hiệu, khởi kiện thì đọc thêm nhóm 3 và nhóm 7; nhóm 5 chỉ cần khi có câu hỏi về thuế, chứng từ.
 

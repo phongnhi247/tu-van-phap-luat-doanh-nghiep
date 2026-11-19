@@ -1,6 +1,8 @@
 # Nhóm 3: Hợp đồng, thương mại và cạnh tranh
 
-> Module chỉ ghi **mã căn cứ**. Tra số hiệu trong `danh-muc-can-cu.md`. Mức trần phạt vi phạm, thời hiệu khởi kiện và các ngưỡng khác phải tra nguyên văn. Luật Thương mại, Luật Cạnh tranh và Luật Bảo vệ quyền lợi người tiêu dùng **đang có dự án luật sửa đổi năm 2026**. Khi trả lời phải kiểm tra xem luật sửa đổi đã được thông qua và có hiệu lực chưa.
+> Module chỉ ghi **mã căn cứ**. Tra số hiệu trong `danh-muc-can-cu.md`. Mức trần phạt vi phạm, thời hiệu khởi kiện và các ngưỡng khác phải tra nguyên văn. Luật Thương mại, Luật Cạnh tranh và Luật Bảo vệ quyền lợi người tiêu dùng **đã có luật sửa đổi được Quốc hội thông qua ngày 13/11/2026**, chưa đăng Công báo và chưa rõ ngày hiệu lực tại baseline (xem dòng LTM trong danh mục). Khi trả lời phải kiểm tra luật sửa đổi đã có hiệu lực chưa.
+>
+> Bán hàng hóa cho người tiêu dùng hoặc doanh nghiệp (mở bán, nhãn, xuất xứ, đổi trả, bảo hành, giao nhận, chuyển rủi ro, phạt vi phạm, lãi chậm trả, đại lý, khuyến mại, quảng cáo): dùng `ban-hang-hoa.md`, có trích dẫn đã đối chiếu. Mẫu báo giá, hợp đồng mua bán, hợp đồng đại lý, chính sách đổi trả: `mau-van-ban-doanh-nghiep.md`.
 
 ## 1. Từ khóa nhận diện
 
@@ -36,7 +38,7 @@ hợp đồng mua bán hàng hóa, hợp đồng dịch vụ, hợp đồng nguy
 | 4 | Thuế của người bán trên sàn, nghĩa vụ khấu trừ của sàn | LQLT, ND-QLT |
 | 5 | Dữ liệu cá nhân của khách hàng | LBVDLCN, ND-BVDLCN (nhóm 6) |
 
-Bán khóa học, dịch vụ đào tạo, hoặc câu hỏi về hóa đơn, đổi trả, đối soát sàn khi bán hàng online: xem thêm `ban-hang-truc-tuyen.md`.
+Bán khóa học, dịch vụ đào tạo, đối soát sàn: xem thêm `ban-hang-truc-tuyen.md`. Bán hàng hóa (website, sàn, livestream, nhãn, đổi trả, hóa đơn): `ban-hang-hoa.md`.
 
 ### 3.3 Quảng cáo và khuyến mại
 

@@ -18,6 +18,14 @@ Dùng khi người dùng hỏi "tháng hoặc quý này phải nộp gì", "hạ
 6. Thêm phần **"Cần lưu ý thêm"**: nghĩa vụ phát sinh theo sự kiện, không định kỳ (mục 3), nếu doanh nghiệp có thể gặp trong khoảng thời gian đó.
 7. Đề nghị người dùng lưu lịch vào file `lich-tuan-thu-<nam>.md` trong thư mục làm việc nếu họ muốn.
 
+**Nhắc lịch tự động hằng tháng** (người dùng hỏi "làm sao để Claude tự nhắc mỗi tháng"): skill không tự chạy theo lịch. Hướng dẫn:
+- Chỉ làm được trên Claude Code (ứng dụng Claude tab Code hoặc CLI): tạo tác vụ định kỳ (scheduled task; trong CLI có thể gõ `/schedule`), ví dụ ngày 1 hằng tháng lúc 8 giờ sáng. Tên menu có thể khác theo phiên bản.
+- Lời nhắc gợi ý: "Dùng skill tu-van-phap-luat-doanh-nghiep, đọc `ho-so-doanh-nghiep.md` trong thư mục <đường dẫn>, trả lời: tháng này công ty phải nộp những gì, kèm hạn và căn cứ."
+- Tác vụ chạy trên máy thì đọc được hồ sơ trong thư mục làm việc. Tác vụ chạy trên đám mây chỉ đọc được kho được chọn: không đưa hồ sơ doanh nghiệp lên kho công khai; ghi thông tin không nhạy cảm (loại hình, kỳ kê khai GTGT, số lao động) vào lời nhắc.
+- Mỗi lần chạy vẫn tra nguyên văn hạn nộp như bước 4; không lưu sẵn các ngày cố định.
+- Gemini Gem, Gemini app, Claude.ai trên web không có tính năng này: tự hỏi "tháng này phải nộp gì" vào đầu mỗi tháng.
+- Không tự tạo tác vụ khi người dùng chưa đồng ý.
+
 ## 2. Nghĩa vụ định kỳ
 
 | Nghĩa vụ | Đối tượng | Căn cứ để tra hạn nộp và mẫu biểu |

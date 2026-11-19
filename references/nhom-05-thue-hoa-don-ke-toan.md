@@ -1,5 +1,7 @@
 # Nhóm 5: Thuế, hóa đơn và kế toán
 
+> Hóa đơn khi bán hàng hóa (giao nhiều lần, hàng khuyến mại, hàng tặng, chiết khấu thương mại, trả hàng, COD) và điều kiện để khách doanh nghiệp tính chi phí, khấu trừ thuế: `ban-hang-hoa.md` mục D.6, D.7, E.1, F.
+
 > Module chỉ ghi **mã căn cứ**. Tra số hiệu trong `danh-muc-can-cu.md`. Thuế suất, hạn nộp, ngưỡng doanh thu và mức phạt phải tra nguyên văn khi trả lời.
 >
 > **Năm 2025–2026 là giai đoạn chuyển đổi lớn.** Gần như toàn bộ hệ thống thuế đã thay đổi:

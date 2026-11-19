@@ -1,6 +1,6 @@
 # Tư vấn pháp luật doanh nghiệp
 
-Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghiệp Việt Nam: thuế, hóa đơn điện tử, lao động, BHXH, hợp đồng, chứng từ chi phí, quyết toán thuế năm và việc chuyển năm, kinh doanh khóa học và bán hàng online. Mỗi câu trả lời có trích nguyên văn điều luật, nhãn độ tin cậy và checklist hồ sơ.
+Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghiệp Việt Nam: thuế, hóa đơn điện tử, lao động, BHXH, hợp đồng, chứng từ chi phí, quyết toán thuế năm và việc chuyển năm, kinh doanh khóa học, bán hàng hóa cho người tiêu dùng và doanh nghiệp, bộ mẫu văn bản bán hàng, kiểm tra sức khỏe pháp lý. Mỗi câu trả lời có trích nguyên văn điều luật, nhãn độ tin cậy và checklist hồ sơ.
 
 *Từ khóa: tư vấn pháp luật doanh nghiệp, tu van phap luat doanh nghiep, luật thuế, hóa đơn điện tử, luật lao động, Vietnamese business law, Vietnam tax, AI legal assistant.*
 
@@ -28,7 +28,7 @@ Skill cho Claude, Gemini và Antigravity giúp tra cứu pháp luật doanh nghi
 Skill biến trợ lý AI thành một trợ lý tra cứu có kỷ luật:
 
 - **Chỉ nói khi có căn cứ.** Mọi con số (mức phạt, thời hạn, tỷ lệ) phải kèm câu trích nguyên văn. Mỗi kết luận có nhãn: ✅ đã đối chiếu, ⚠️ chưa chắc chắn, ❓ không tìm thấy. Không tìm thấy thì nói "không biết", không bịa.
-- **Một danh mục căn cứ duy nhất** gồm 140 văn bản, cập nhật đến 16/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
+- **Một danh mục căn cứ duy nhất** gồm 145 văn bản, cập nhật đến 18/11/2026, ghi rõ văn bản nào thay văn bản nào. Hỏi theo văn bản cũ, skill sẽ báo văn bản đó đã hết hiệu lực và chỉ ra văn bản thay thế.
 - **Kho trích dẫn đã xác minh** từ file gốc (nhiều file có chữ ký số): hạn nộp tờ khai thuế, khai TNCN theo quý, xử lý hóa đơn sai sót, mức phạt chậm đóng BHXH, trình tự kỷ luật lao động, chuẩn trình bày văn bản...
 - **Trả lời để làm được ngay:** kết luận, căn cứ, phân tích, phương án kèm khuyến nghị, và **checklist hồ sơ** (biểu mẫu, nơi nộp, thời hạn, rủi ro nếu làm trễ).
 - **Dễ cập nhật:** gõ "cập nhật căn cứ", skill tự tra văn bản mới và đề xuất sửa danh mục để bạn duyệt.
@@ -99,7 +99,7 @@ Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên
 - **Cách gọi:** "Mở khóa kỹ năng online có cần giấy phép không?", "Học phí chịu thuế GTGT bao nhiêu?", "Thu trước học phí thì xuất hóa đơn khi nào?", "Gói 12 tháng học viên xin nghỉ có phải hoàn tiền không?", "Bán trên sàn, ship COD thì ghi doanh thu thế nào?"
 - **Skill làm gì:** đối chiếu Luật Giáo dục và nghị định điều kiện kinh doanh giáo dục mới năm 2026, Luật Thuế GTGT và nghị quyết giảm thuế, nghị định và thông tư hóa đơn, Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo, Luật Sở hữu trí tuệ, Luật Bảo vệ dữ liệu cá nhân, nghị định đa cấp.
 - **Bạn nhận được:** có cần giấy phép không và tên gọi "chứng chỉ", "học viện"; thuế suất học phí và mốc 31/12/2026 của mức 8%; thời điểm xuất hóa đơn, hoàn tiền, doanh thu gói nhiều kỳ; hợp đồng với học viên (giao dịch từ xa, gói từ 03 tháng, điều khoản bị cấm); quảng cáo, lời chứng thực, KOL, khóa đầu tư chứng khoán, hoa hồng giới thiệu; quyền tác giả bài giảng, hình ảnh và dữ liệu học viên; hóa đơn, trả hàng, sàn, COD, chứng từ nguồn gốc khi bán hàng hóa; bộ chứng từ một đơn; danh sách điểm dễ có vấn đề và checklist ra mắt khóa học.
-- **Giới hạn:** nhiều văn bản mới (Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo, nghị định giáo dục 2026, nghị định đa cấp) mới đọc được bản đăng lại nên nhãn tối đa ⚠️. Chưa có mức phạt về quảng cáo, chứng khoán, dữ liệu. Chưa có căn cứ cho việc doanh nghiệp không lập trung tâm có cần phép không.
+- **Giới hạn:** nghị định giáo dục 2026 và nghị định đa cấp mới đọc được bản đăng lại nên nhãn tối đa ⚠️ (Luật Bảo vệ quyền lợi người tiêu dùng, Luật Quảng cáo đã đối chiếu bản Công báo từ bản 1.6). Phần bán hàng hóa đã chuyển sang mục 3d. Chưa có mức phạt về quảng cáo, chứng khoán, dữ liệu. Chưa có căn cứ cho việc doanh nghiệp không lập trung tâm có cần phép không.
 
 #### 3c. Quyết toán năm 2026 và chuyển mốc 01/01/2027 (mới ở bản 1.5)
 
@@ -108,6 +108,25 @@ Skill có 8 chức năng. Bạn không cần nhớ lệnh: cứ nói tự nhiên
 - **Skill làm gì:** đối chiếu Luật Quản lý thuế và nghị định hướng dẫn, Luật Thuế TNDN, Luật Thuế TNCN, nghị quyết và nghị định giảm 30% thuế thu nhập kỳ 2026, 2027, nghị định miễn thuế TNDN cho doanh nghiệp doanh thu từ 1 tỷ trở xuống, nghị định lương tối thiểu từ 01/01/2027, Luật BHXH, Luật Công đoàn, nghị quyết về hợp đồng lao động điện tử, nghị quyết và nghị định giảm thuế GTGT. Tất cả đọc nguyên văn từ file có chữ ký số.
 - **Bạn nhận được:** hạn nộp; bảng xét lần lượt miễn thuế, thuế suất 15%/17%, giảm 30% (mỗi mức dùng doanh thu của năm nào); tạm nộp 80%, chuyển lỗ, chi phí bị loại; quyết toán TNCN và ủy quyền; danh sách việc trước 31/12/2026 và từ 01/01/2027; 12 điểm hay sai; lịch quý 1/2027 theo ngày.
 - **Giới hạn:** chưa có văn bản quy định thuế suất và kỳ kê khai của hóa đơn điều chỉnh lập năm 2027 cho hóa đơn 8% năm 2026, nên skill trả lời ❓. Chưa có mức tham chiếu BHXH, lịch nghỉ Tết 2027, số hiệu mẫu tờ khai quyết toán.
+
+#### 3d. Bán hàng hóa cho người tiêu dùng và doanh nghiệp (mới ở bản 1.6)
+
+- **Dùng khi:** doanh nghiệp bán hàng hóa vật lý qua website, sàn, mạng xã hội, livestream, cửa hàng; hoặc bán buôn, bán theo đơn đặt hàng, qua đại lý.
+- **Cách gọi:** "Mở website bán hàng riêng có phải báo cơ quan nào không?", "Livestream bán hàng cần ghi thông tin gì?", "Giảm giá 60% dịp Tết có được không?", "Mua 2 tặng 1 thì hóa đơn ghi thế nào?", "Khách đòi trả hàng sau 10 ngày dù hàng không lỗi?", "Hàng nhập khẩu bán online cần nhãn gì?", "Được ghi 'sản xuất tại Việt Nam' khi chỉ gia công một phần không?", "Giao 3 đợt cho đại lý thì xuất hóa đơn thế nào?", "Hợp đồng ghi phạt chậm thanh toán 15% có hiệu lực không?", "Hàng bị đơn vị vận chuyển làm mất, ai chịu?"
+- **Skill làm gì:** đối chiếu Luật Thương mại (văn bản hợp nhất), Bộ luật Dân sự, Luật Bảo vệ quyền lợi người tiêu dùng, Luật Thương mại điện tử và nghị định hướng dẫn, Luật Chất lượng sản phẩm, hàng hóa và nghị định về nhãn, nghị định xác định xuất xứ Việt Nam cho hàng lưu thông trong nước (từ 01/01/2027), nghị định khuyến mại (bản hợp nhất năm 2026), Luật Quảng cáo, nghị định quảng cáo và nghị định xử phạt quảng cáo, nghị định xử phạt thương mại, nghị định và thông tư hóa đơn. Đọc nguyên văn từ bản Công báo, văn bản hợp nhất hoặc file ký số.
+- **Bạn nhận được:** thủ tục và thông tin bắt buộc khi mở bán; nhãn, nhãn phụ, xuất xứ, chứng từ nguồn gốc; đổi trả, hoàn tiền, bảo hành, hàng lỗi; báo giá, hợp đồng, giao nhận, chuyển rủi ro, lãi chậm trả, trần phạt 8%, đại lý; khuyến mại (đã bỏ mức giảm giá tối đa từ 26/06/2026), hóa đơn hàng tặng, chiết khấu thương mại; quảng cáo, KOL; mức phạt có trích dẫn; bảng điểm hay sai, checklist mở bán, bộ chứng từ đơn bán lẻ và bán buôn.
+- **Giới hạn:** luật sửa đổi Luật Thương mại và Luật Bảo vệ quyền lợi người tiêu dùng đã được thông qua ngày 13/11/2026 nhưng chưa đăng Công báo tại baseline. Chưa có mức phạt về nhãn hàng hóa, vận chuyển hàng không có hóa đơn; chưa có điều kiện chi tiết của từng ngành hàng có điều kiện.
+
+#### 3e. Bộ mẫu văn bản bán hàng (mới ở bản 1.6)
+
+- **Cách gọi:** "Soạn báo giá kèm điều khoản ngắn cho khách doanh nghiệp", "Soạn chính sách đổi trả cho website", "Soạn hợp đồng đại lý", "Soạn quy chế bán hàng nội bộ".
+- **Bạn nhận được:** mẫu tham khảo cho báo giá, đơn đặt hàng, hợp đồng mua bán hàng hóa, hợp đồng đại lý, biên bản giao nhận, biên bản nghiệm thu, chính sách đổi trả và bảo hành, điều kiện giao dịch chung, quy chế bán hàng. Mỗi mẫu có bảng phân biệt phần **bắt buộc** (kèm căn cứ) và phần **khuyến nghị**. Đây là mẫu tham khảo, pháp luật không ban hành mẫu cho các văn bản này.
+
+#### 3f. Kiểm tra sức khỏe pháp lý (mới ở bản 1.6)
+
+- **Cách gọi:** "Kiểm tra công ty tôi".
+- **Skill làm gì:** đọc hồ sơ doanh nghiệp, rà theo danh sách dựng từ các module (đăng ký, giấy phép, lao động và BHXH, thuế và hóa đơn, hợp đồng, website và người tiêu dùng, nhãn và xuất xứ, quảng cáo và khuyến mại), xếp mức rủi ro Cao, Trung bình, Thấp và liệt kê câu cần hỏi thêm.
+- **Lưu ý:** đây là danh sách tự rà, không phải ý kiến pháp lý đầy đủ. Mục rủi ro cao có dấu hiệu nghiêm trọng thì skill khuyến nghị gặp luật sư.
 
 #### 4. Soạn văn bản theo chuẩn Nghị định 30/2020
 
@@ -272,8 +291,19 @@ Cứ hỏi tự nhiên. Ví dụ:
 - "Soạn giúp quyết định kỷ luật nhân viên A" (soạn văn bản theo mẫu)
 - "Doanh nghiệp chế xuất bán hàng vào nội địa làm thủ tục gì?" (hải quan, xuất nhập khẩu)
 - "Cập nhật căn cứ" (cập nhật danh mục văn bản)
+- "Đơn 8 triệu có cần ký hợp đồng không?" (khung trả lời nhanh)
+- "Kiểm tra công ty tôi" (kiểm tra sức khỏe pháp lý theo hồ sơ)
 
 **Hồ sơ doanh nghiệp:** lần đầu, skill hỏi một vài thông tin như loại hình, số lao động, cách kê khai thuế, rồi đề nghị lưu thành file `ho-so-doanh-nghiep.md` **trong thư mục làm việc của bạn**, không lưu trong thư mục skill. Lần sau bạn không phải khai lại. Làm cho nhiều doanh nghiệp thì mỗi doanh nghiệp một file `ho-so-<tên>.md`.
+
+**Nhắc lịch tuân thủ hằng tháng (chỉ trên Claude Code):** skill không tự chạy theo lịch. Bạn có thể tạo một tác vụ định kỳ để đầu mỗi tháng Claude hỏi skill "tháng này công ty phải nộp những gì" theo hồ sơ doanh nghiệp:
+
+1. Trên ứng dụng Claude (tab Code) hoặc Claude Code, tạo tác vụ định kỳ (scheduled task). Trong Claude Code có thể gõ `/schedule` rồi mô tả: "Ngày 1 hằng tháng lúc 8 giờ sáng". Tên menu có thể khác theo phiên bản; xem tài liệu của Claude Code nếu không thấy.
+2. Nội dung lời nhắc gợi ý: "Dùng skill tu-van-phap-luat-doanh-nghiep, đọc `ho-so-doanh-nghiep.md` trong thư mục <đường dẫn>, trả lời: tháng này công ty phải nộp những gì, kèm hạn và căn cứ."
+3. Tác vụ chạy trên máy của bạn thì đọc được hồ sơ trong thư mục làm việc. Tác vụ chạy trên đám mây chỉ đọc được những gì có trong kho được chọn: **không đưa hồ sơ doanh nghiệp lên kho công khai**; thay vào đó ghi các thông tin không nhạy cảm (loại hình, kỳ kê khai GTGT, số lao động) vào lời nhắc.
+4. Kết quả vẫn phải kiểm tra lại: hạn nộp có trích dẫn, ngày nghỉ lễ cần xem thông báo của năm đó.
+
+Gemini Gem, Gemini app và Claude.ai trên web không có tính năng này: hãy tự hỏi "tháng này phải nộp gì" vào đầu mỗi tháng.
 
 ---
 
@@ -309,7 +339,10 @@ tu-van-phap-luat-doanh-nghiep/
 │   ├── lich-tuan-thu.md, ra-soat-van-ban.md, ho-so-doanh-nghiep-mau.md
 │   ├── nguong-chuyen-luat-su.md, cap-nhat-can-cu.md, soan-van-ban.md
 │   ├── chung-tu-chi-phi.md     Bộ chứng từ chứng minh chi phí được trừ
-│   ├── ban-hang-truc-tuyen.md  Kinh doanh khóa học và bán hàng trực tuyến
+│   ├── ban-hang-truc-tuyen.md  Kinh doanh khóa học và dịch vụ trực tuyến
+│   ├── ban-hang-hoa.md         Bán hàng hóa cho người tiêu dùng và doanh nghiệp
+│   ├── mau-van-ban-doanh-nghiep.md  Bộ mẫu báo giá, hợp đồng, chính sách đổi trả
+│   ├── kiem-tra-suc-khoe-phap-ly.md Lệnh "kiểm tra công ty tôi"
 └── tests/bo-cau-hoi-kiem-thu.md
 ```
 
@@ -341,7 +374,7 @@ Chu kỳ gợi ý: **mỗi quý**, hoặc ngay khi có luật hoặc nghị đ�
    $s = "tu-van-phap-luat-doanh-nghiep\references"; $g = "gem-v$v"; New-Item -ItemType Directory -Force $g | Out-Null
    Copy-Item "$s\danh-muc-can-cu.md","$s\trich-dan-xac-minh.md","$s\nguyen-tac-can-cu.md","$s\khung-tra-loi.md","$s\tra-cuu-va-trich-dan.md" $g
    Get-Content -Encoding utf8 "$s\nhom-0*.md" | Set-Content -Encoding utf8 "$g\cac-nhom-nghiep-vu.md"
-   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md","$s\chung-tu-chi-phi.md","$s\ban-hang-truc-tuyen.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
+   Get-Content -Encoding utf8 "$s\lich-tuan-thu.md","$s\ra-soat-van-ban.md","$s\soan-van-ban.md","$s\ho-so-doanh-nghiep-mau.md","$s\nguong-chuyen-luat-su.md","$s\cap-nhat-can-cu.md","$s\chung-tu-chi-phi.md","$s\ban-hang-truc-tuyen.md","$s\ban-hang-hoa.md","$s\mau-van-ban-doanh-nghiep.md","$s\kiem-tra-suc-khoe-phap-ly.md" | Set-Content -Encoding utf8 "$g\cac-tinh-nang.md"
    Compress-Archive -Path "$g\*" -DestinationPath "tu-van-phap-luat-doanh-nghiep-gem-v$v.zip" -Force
    ```
 6. **Phân phối.** Nếu dùng git: commit, gắn tag `v<phiên bản>`, đẩy lên kho và đính kèm 2 file zip vào mục Releases. Nếu không dùng git: gửi 2 file zip kèm nội dung CHANGELOG. Cập nhật Gem chia sẻ nếu có.

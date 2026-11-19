@@ -2,6 +2,8 @@
 
 Dùng khi người dùng hỏi: khoản chi này có được tính vào chi phí được trừ khi tính thuế TNDN không, cần đủ những giấy tờ gì; chi lương, thưởng, phúc lợi; thuê cá nhân làm dịch vụ; mua hàng không có hóa đơn; giấy đề nghị thanh toán, tạm ứng, hoàn ứng; nghiệm thu, giao nhận, thanh lý, đối chiếu công nợ; hủy hàng, kiểm kê cuối năm.
 
+Bộ chứng từ của một đơn bán lẻ, một đơn bán buôn và chứng từ đại lý, chiết khấu: `ban-hang-hoa.md` mục J.
+
 Nguyên văn các điều khoản dưới đây nằm trong `trich-dan-xac-minh.md` (mục "Chứng từ và chi phí được trừ"). Khi trả lời, trích từ đó và giữ đúng nhãn ghi ở từng mục. Luôn kiểm tra thời điểm sự việc: ND-TNDN áp dụng từ kỳ tính thuế 2025, ND-TNCN có hiệu lực từ 01/07/2026, TT-KTDN áp dụng cho năm tài chính bắt đầu từ 01/01/2026. Sự việc trước các mốc này thì tra văn bản cũ trong mục hết hiệu lực của danh mục.
 
 ## 1. Ba điều kiện chung để khoản chi được trừ ✅

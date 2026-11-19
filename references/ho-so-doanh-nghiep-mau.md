@@ -48,6 +48,15 @@ Cập nhật: DD/MM/YYYY
 - Có giao dịch với bên liên kết không:
 - Có ưu đãi thuế không: (không / có: ...)
 
+## Bán hàng
+- Bán cho ai: (người tiêu dùng / doanh nghiệp / cả hai)
+- Kênh bán: (cửa hàng / website có giỏ hàng / sàn / mạng xã hội / livestream / đại lý)
+- Website đã được xác nhận thông báo chưa:
+- Hàng hóa: (tự sản xuất / đặt gia công / nhập khẩu / mua lại trong nước); nhóm hàng chung:
+- Có ghi "sản xuất tại Việt Nam" không:
+- Có dùng KOL, khuyến mại thường xuyên không:
+- Có hợp đồng, báo giá mẫu và chính sách đổi trả, bảo hành không:
+
 ## Tuân thủ khác
 - Xử lý dữ liệu cá nhân của khách hàng hoặc nhân viên ở quy mô lớn không:
 - Có sản xuất, phát sinh chất thải không:

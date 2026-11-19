@@ -1,8 +1,8 @@
 # Kinh doanh khóa học và bán hàng trực tuyến
 
-Dùng khi người dùng hỏi về: mở khóa học, coaching, mentoring, gói thành viên, bán khóa học online; có cần giấy phép không, được cấp "chứng chỉ" không; thuế GTGT của học phí; xuất hóa đơn khi thu tiền trước, trả nhiều lần, hoàn học phí; hợp đồng, chính sách hoàn tiền với học viên; quảng cáo khóa học, KOL, affiliate; quyền tác giả bài giảng, hình ảnh học viên, dữ liệu học viên. Phần B dùng khi bán hàng hóa qua website, sàn, mạng xã hội.
+Dùng khi người dùng hỏi về: mở khóa học, coaching, mentoring, gói thành viên, bán khóa học online; có cần giấy phép không, được cấp "chứng chỉ" không; thuế GTGT của học phí; xuất hóa đơn khi thu tiền trước, trả nhiều lần, hoàn học phí; hợp đồng, chính sách hoàn tiền với học viên; quảng cáo khóa học, KOL, affiliate; quyền tác giả bài giảng, hình ảnh học viên, dữ liệu học viên. Bán hàng hóa vật lý (cho người tiêu dùng hoặc doanh nghiệp) dùng `ban-hang-hoa.md`.
 
-Nguyên văn các điều khoản nằm trong `trich-dan-xac-minh.md` (mục nào chỉ là tóm tắt thì kho ghi rõ, không dùng làm trích dẫn nguyên văn), các mục: "Thuế, hóa đơn khi bán khóa học, dịch vụ", "Điều kiện kinh doanh khóa học, chứng chỉ", LGDDH-25, LQC, LBVNTD, "Nội dung khóa học, hình ảnh, dữ liệu người học", "Bán hàng hóa qua thương mại điện tử", TT-HDDT Điều 10 khoản 5, ND-TNDN Điều 8. Giữ đúng nhãn ghi ở từng mục: nhiều văn bản mới đọc được bản đăng lại nên nhãn tối đa là ⚠️.
+Nguyên văn các điều khoản nằm trong `trich-dan-xac-minh.md` (mục nào chỉ là tóm tắt thì kho ghi rõ, không dùng làm trích dẫn nguyên văn), các mục: "Thuế, hóa đơn khi bán khóa học, dịch vụ", "Điều kiện kinh doanh khóa học, chứng chỉ", LGDDH-25, LQC, LBVNTD, "Nội dung khóa học, hình ảnh, dữ liệu người học", "Bán hàng hóa qua thương mại điện tử", TT-HDDT Điều 10 khoản 5, ND-TNDN Điều 8. Giữ đúng nhãn ghi ở từng mục: một số văn bản mới đọc được bản đăng lại nên nhãn tối đa là ⚠️ (từ bản 1.6, LBVNTD và LQC đã đối chiếu với bản Công báo nên là ✅).
 
 Trước khi trả lời, hỏi (hoặc ghi `[Giả định]`): loại sản phẩm (khóa kỹ năng, ngoại ngữ, tin học, nghề, ôn thi, coaching, gói thành viên); có cấp giấy chứng nhận hay chứng chỉ không; doanh nghiệp đã có quyết định cho phép thành lập trung tâm hay đăng ký hoạt động giáo dục nghề nghiệp chưa; học trực tuyến, trực tiếp hay kết hợp; thời hạn gói; thu tiền một lần hay nhiều lần; bán cho cá nhân hay doanh nghiệp; có bán khóa của đối tác không.
 
@@ -22,7 +22,7 @@ Trước khi trả lời, hỏi (hoặc ghi `[Giả định]`): loại sản ph�
 ### 2. Tên gọi: "chứng chỉ", "học viện", "trung tâm"
 
 - **"Chứng chỉ"** theo Luật Giáo dục là văn bản của hệ thống giáo dục quốc dân, do cơ sở giáo dục cấp (LGD Điều 12 khoản 3, Điều 45 khoản 5, ✅). Doanh nghiệp không phải cơ sở giáo dục: khuyến nghị gọi là "giấy chứng nhận hoàn thành khóa học", không ghi "giá trị toàn quốc", "được Bộ công nhận".
-- **"Học viện"** là tên gọi của trường đại học (LGDDH-25 Điều 11, ✅). Chưa tìm thấy điều cấm thẳng doanh nghiệp dùng chữ này ❓; nhưng không được quảng cáo gây nhầm lẫn về khả năng cung cấp dịch vụ (LQC Điều 8 khoản 9, ⚠️). Khuyến nghị: không tự giới thiệu là trường, học viện, trung tâm được cấp phép; ghi rõ loại hình doanh nghiệp.
+- **"Học viện"** là tên gọi của trường đại học (LGDDH-25 Điều 11, ✅). Chưa tìm thấy điều cấm thẳng doanh nghiệp dùng chữ này ❓; nhưng không được quảng cáo gây nhầm lẫn về khả năng cung cấp dịch vụ (LQC Điều 8 khoản 9, ✅). Khuyến nghị: không tự giới thiệu là trường, học viện, trung tâm được cấp phép; ghi rõ loại hình doanh nghiệp.
 
 ### 3. Thuế GTGT của học phí
 
@@ -50,19 +50,19 @@ Có hai cách hiểu cụm "theo quy định của pháp luật về giáo dục
 
 ### 5. Hợp đồng với học viên
 
-- **Người tiêu dùng** là người mua cho mục đích tiêu dùng, sinh hoạt, không vì mục đích thương mại (LBVNTD Điều 3 khoản 1, ⚠️). Doanh nghiệp mua khóa cho nhân viên có phải người tiêu dùng không: chưa rõ ❓.
-- **Giao dịch từ xa** (bán online, chuyển khoản, không gặp trực tiếp): trước khi nhận tiền phải cung cấp đủ nội dung hợp đồng, cho người học xác nhận và tải về. Cung cấp thông tin sai hoặc thiếu thì người học được đơn phương chấm dứt trong 30 ngày; doanh nghiệp hoàn phần chưa dùng trong 30 ngày, quá hạn trả lãi, hoàn theo phương thức đã thanh toán (LBVNTD Điều 38, ⚠️).
-- **Dịch vụ liên tục** (gói từ 03 tháng trở lên): hợp đồng bằng văn bản; chỉ thu trước khi có thỏa thuận; báo trước tối thiểu 07 ngày làm việc trước khi hết hạn; nếu không có thỏa thuận khác, người học được chấm dứt bất kỳ lúc nào và chỉ trả phần đã dùng; không được ngừng, dời trái hợp đồng, phải ngừng thì báo trước tối thiểu 03 ngày làm việc (LBVNTD Điều 3 khoản 6, Điều 41, 42, ⚠️).
+- **Người tiêu dùng** là người mua cho mục đích tiêu dùng, sinh hoạt, không vì mục đích thương mại (LBVNTD Điều 3 khoản 1, ✅). Doanh nghiệp mua khóa cho nhân viên có phải người tiêu dùng không: chưa rõ ❓.
+- **Giao dịch từ xa** (bán online, chuyển khoản, không gặp trực tiếp): trước khi nhận tiền phải cung cấp đủ nội dung hợp đồng, cho người học xác nhận và tải về. Cung cấp thông tin sai hoặc thiếu thì người học được đơn phương chấm dứt trong 30 ngày; doanh nghiệp hoàn phần chưa dùng trong 30 ngày, quá hạn trả lãi, hoàn theo phương thức đã thanh toán (LBVNTD Điều 38, ✅).
+- **Dịch vụ liên tục** (gói từ 03 tháng trở lên): hợp đồng bằng văn bản; chỉ thu trước khi có thỏa thuận; báo trước tối thiểu 07 ngày làm việc trước khi hết hạn; nếu không có thỏa thuận khác, người học được chấm dứt bất kỳ lúc nào và chỉ trả phần đã dùng; không được ngừng, dời trái hợp đồng, phải ngừng thì báo trước tối thiểu 03 ngày làm việc (LBVNTD Điều 3 khoản 6, Điều 41, 42, ✅).
 - **"Trừ trường hợp các bên có thỏa thuận khác"** ở Điều 42 khoản 3 không cho phép thỏa thuận thuộc loại bị cấm ở Điều 25 (chế tài bất lợi hơn cho người tiêu dùng, trái thiện chí). Đây là cách đọc kết hợp hai điều, chưa có hướng dẫn hay án lệ (⚠️). Thời hạn hoàn tiền khi người tiêu dùng chấm dứt dịch vụ liên tục chưa có căn cứ ❓: không áp mốc 30 ngày của Điều 38 khoản 4 (chỉ dùng cho giao dịch từ xa cung cấp thông tin sai, thiếu); khuyến nghị ghi thời hạn cụ thể trong hợp đồng.
-- **Điều khoản bị cấm** (LBVNTD Điều 25, 15 loại, ⚠️). Hay gặp ở khóa học: doanh nghiệp được đơn phương đổi nội dung, lịch, giá; "không hoàn tiền trong mọi trường hợp" (chế tài bất lợi hơn cho người tiêu dùng); doanh nghiệp được tự giải thích khi hiểu khác nhau; bắt đồng ý cho dùng dữ liệu làm điều kiện mua; loại trừ trách nhiệm khi khóa do bên thứ ba dạy; tự gia hạn không báo trước.
-- Hợp đồng mẫu khóa học không thuộc danh mục phải đăng ký với cơ quan quản lý (theo bài tổng hợp, QD-HDM ⚠️).
-- Website chỉ có form đăng ký, không có chức năng đặt hàng: theo bài tư vấn chưa phải thông báo; có chức năng đặt hàng, thanh toán thì phải thông báo trước khi hoạt động, nơi tiếp nhận từ 01/07/2026 phải tra ND-TMDT (⚠️).
+- **Điều khoản bị cấm** (LBVNTD Điều 25, 15 loại, ✅). Hay gặp ở khóa học: doanh nghiệp được đơn phương đổi nội dung, lịch, giá; "không hoàn tiền trong mọi trường hợp" (chế tài bất lợi hơn cho người tiêu dùng); doanh nghiệp được tự giải thích khi hiểu khác nhau; bắt đồng ý cho dùng dữ liệu làm điều kiện mua; loại trừ trách nhiệm khi khóa do bên thứ ba dạy; tự gia hạn không báo trước.
+- Hợp đồng mẫu khóa học không thuộc danh mục phải đăng ký với cơ quan quản lý: danh mục chỉ có 8 mục, không có dịch vụ giáo dục (QD-HDM ✅).
+- Website chỉ có form đăng ký, không có chức năng đặt hàng: thủ tục xác nhận thông báo chỉ áp dụng cho nền tảng có chức năng đặt hàng trực tuyến (⚠️ cách đọc); có chức năng đặt hàng thì phải được UBND cấp tỉnh xác nhận thông báo trước khi vận hành (ND-TMDT Điều 23, 24 ✅). Chi tiết ở `ban-hang-hoa.md` mục A.
 
 ### 6. Quảng cáo, bán hàng
 
-- Nội dung phải "trung thực, chính xác, rõ ràng"; cấm quảng cáo gây nhầm lẫn về khả năng cung cấp dịch vụ; cấm "nhất", "duy nhất", "tốt nhất", "số một" và từ tương tự nếu không có tài liệu chứng minh (LQC Điều 8, 19, ⚠️). Luật không có điều riêng về cam kết thu nhập: rủi ro là không chứng minh được.
-- Dùng hình ảnh, lời nói, chữ viết của học viên phải được người đó đồng ý (LQC Điều 8 khoản 8, ⚠️).
-- KOL, affiliate: phải thông báo là quảng cáo ngay trước và trong khi đăng, không giới thiệu khi chưa dùng hoặc chưa hiểu, cùng chịu trách nhiệm nếu nội dung sai; bài trên mạng xã hội phải có dấu hiệu là quảng cáo (LQC Điều 15a, 23, ⚠️).
+- Nội dung phải "trung thực, chính xác, rõ ràng"; cấm quảng cáo gây nhầm lẫn về khả năng cung cấp dịch vụ; cấm "nhất", "duy nhất", "tốt nhất", "số một" và từ tương tự nếu không có tài liệu chứng minh (LQC Điều 8, 19, ✅). Luật không có điều riêng về cam kết thu nhập: rủi ro là không chứng minh được.
+- Dùng hình ảnh, lời nói, chữ viết của học viên phải được người đó đồng ý (LQC Điều 8 khoản 8, ✅).
+- KOL, affiliate: phải thông báo là quảng cáo ngay trước và trong khi đăng, không giới thiệu khi chưa dùng hoặc chưa hiểu, cùng chịu trách nhiệm nếu nội dung sai; bài trên mạng xã hội phải có dấu hiệu là quảng cáo (LQC Điều 15a, 23, ✅).
 - Khóa về đầu tư chứng khoán: dạy kiến thức, phương pháp thì được; phân tích và khuyến nghị mua, bán, nắm giữ mã cụ thể là tư vấn đầu tư chứng khoán, chỉ công ty chứng khoán được cấp phép mới được làm (LCK, ⚠️).
 - Hoa hồng giới thiệu nhiều tầng (người giới thiệu được hưởng từ giao dịch của người do người khác giới thiệu) là dấu hiệu kinh doanh theo phương thức đa cấp. Đa cấp đối với dịch vụ bị cấm (LBVNTD Điều 10 khoản 2 điểm d; ND-DACAP Điều 4 khoản 1, khóa học số còn là "sản phẩm nội dung số" bị loại; ⚠️ bản đăng lại). Luật không nêu số tầng tối thiểu ❓. Khuyến nghị: chỉ trả cho người giới thiệu trực tiếp; vi phạm về đa cấp có thể bị xử lý hình sự, cần luật sư nếu đã trả hoa hồng nhiều tầng.
 - Khuyến mại (giảm giá, tặng khóa, học lại miễn phí): hình thức và thủ tục theo LTM, ND-KM; hàng hóa, dịch vụ dùng để khuyến mại có giá tính thuế GTGT bằng 0 (LGTGT Điều 7, ✅). Quyền học lại miễn phí có phải là khuyến mại không: chưa có căn cứ ❓.
@@ -75,24 +75,13 @@ Có hai cách hiểu cụm "theo quy định của pháp luật về giáo dục
 
 ## B. Bán hàng hóa qua website, sàn, mạng xã hội
 
-| Vấn đề | Quy định | Căn cứ |
-|---|---|---|
-| Thời điểm lập hóa đơn, phát sinh thuế GTGT | Khi chuyển quyền sở hữu, quyền sử dụng hàng cho người mua (giao hàng), không phụ thuộc đã thu tiền. Đơn COD: lập khi giao thành công (cách áp dụng ⚠️, văn bản không nói riêng về COD) | ND-HDDT Điều 9 khoản 1 ✅; LGTGT Điều 8 khoản 1 điểm a ✅ |
-| Doanh thu TNDN | Khi chuyển quyền sở hữu; bán trả góp ghi theo giá trả một lần, không gồm lãi | ND-TNDN Điều 8 ✅ |
-| Gộp nhiều đơn bán lẻ trong ngày vào một hóa đơn | Chưa thấy quy định cho phép (trừ một số ngành); cơ quan thuế TP.HCM nói tháng 11/2026 là chưa cho phép | ⚠️ |
-| Khách từ chối nhận hàng | Chưa lập hóa đơn thì không phải lập (theo cơ quan thuế TP.HCM) | ⚠️ |
-| Khách trả lại hàng, đổi hàng làm thay đổi giá trị | Người bán lập hóa đơn điều chỉnh (hoặc người mua lập hóa đơn trả hàng nếu thỏa thuận); hai bên giữ hồ sơ trả hàng | TT-HDDT Điều 10 khoản 5 điểm c.1 ✅ |
-| Bán trên sàn | Doanh thu ghi theo giá bán cho khách, không theo tiền sàn chuyển về; phí sàn là chi phí, cần hóa đơn của sàn; sàn chỉ khấu trừ, nộp thay cho hộ, cá nhân, doanh nghiệp tự khai | ⚠️ |
-| Chứng từ đi kèm hàng | Hàng vận chuyển, lưu kho cần hóa đơn, chứng từ hợp pháp; phiếu xuất kho kiêm vận chuyển nội bộ, phiếu xuất kho hàng gửi bán đại lý được quản lý như hóa đơn. Không chứng minh được nguồn gốc có thể bị tạm giữ, phạt, tịch thu | ND-HDDT Điều 8 khoản 7 ✅; ND-XPTM ⚠️ |
-| Mua hàng của hộ, cá nhân có bảng kê | Được tính chi phí nếu đủ điều kiện; không dùng để khấu trừ thuế GTGT đầu vào | `chung-tu-chi-phi.md` mục 3 ✅; phần GTGT ⚠️ |
-| Đổi trả, bảo hành | Không có quyền trả hàng chung cho mua online; chỉ có quyền chấm dứt trong 30 ngày khi người bán cung cấp thông tin sai, thiếu. Chính sách tự công bố phải làm đúng | LBVNTD Điều 38 ⚠️ |
-| Nhãn hàng hóa | Nghị định nhãn mới từ 23/01/2026; nhãn in trước đó dùng tiếp tối đa hai năm; chưa thấy quy định riêng khi bán online. Ngành hàng có điều kiện tra riêng | ND-NHAN ⚠️ |
+Từ bản 1.6, toàn bộ nội dung bán hàng hóa (mở bán, nhãn, xuất xứ, đổi trả, bảo hành, bán buôn, khuyến mại, vận chuyển, thuế và hóa đơn, xử phạt) nằm ở **`ban-hang-hoa.md`**. Bảng thuế, hóa đơn trước đây ở mục này đã chuyển sang `ban-hang-hoa.md` mục F.
 
 ## C. Bộ chứng từ
 
 **Một đơn khóa học:** điều khoản hoặc hợp đồng gửi trước khi nhận tiền và bằng chứng đồng ý (email, form có tích chọn); chứng từ chuyển khoản; hóa đơn lập ngày nhận tiền; với gói từ 03 tháng: hợp đồng văn bản; chứng minh dịch vụ đã cung ứng (quyết định tổ chức lớp, danh sách, lịch, điểm danh, tài liệu, xác nhận hoàn thành; đây là khuyến nghị thực tế, không có danh sách bắt buộc); khi hoàn tiền: đề nghị hoặc xác nhận hủy, chứng từ hoàn tiền, hóa đơn điều chỉnh.
 
-**Một đơn hàng hóa:** đơn hàng; vận đơn và trạng thái giao; hóa đơn lập khi giao thành công; chứng từ thanh toán hoặc đối soát COD; khi hoàn hàng: trạng thái hoàn, biên bản hoặc xác nhận, hóa đơn điều chỉnh; hóa đơn, chứng từ đầu vào chứng minh nguồn gốc.
+**Một đơn hàng hóa:** xem `ban-hang-hoa.md` mục J.
 
 **Đối soát hằng tháng với sàn, cổng thanh toán, đơn vị vận chuyển:** tổng giá bán, voucher do ai chịu, phí sàn, phí thanh toán, phí vận chuyển, tiền về tài khoản; hóa đơn phí sàn; số đơn hoàn, hủy; khớp với số hóa đơn đã lập.
 

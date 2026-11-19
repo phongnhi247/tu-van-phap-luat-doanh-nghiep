@@ -1,5 +1,7 @@
 # Nhóm 6: Tuân thủ chuyên ngành
 
+> Nhãn hàng hóa, nhãn phụ, xuất xứ, nghĩa vụ chất lượng của người bán: `ban-hang-hoa.md` mục B. Dấu hiệu ngành hàng có điều kiện khi bán hàng: `ban-hang-hoa.md` mục B (chỉ nêu dấu hiệu, không có căn cứ chi tiết).
+
 > Module chỉ ghi **mã căn cứ**. Tra số hiệu trong `danh-muc-can-cu.md`. Bản này chỉ gồm dữ liệu cá nhân, sở hữu trí tuệ, môi trường và PCCC. Các ngành nghề có điều kiện riêng (thực phẩm, dược, xây dựng, vận tải...) **chưa có trong danh mục**: khi gặp, phải tra trực tiếp, gắn nhãn đúng mức tin cậy, và nói rõ đây là phạm vi chưa được chuẩn bị sẵn.
 
 ## 1. Từ khóa nhận diện

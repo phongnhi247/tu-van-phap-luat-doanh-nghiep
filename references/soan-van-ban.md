@@ -21,6 +21,8 @@ Dùng khi người dùng nhờ soạn văn bản nội bộ hoặc văn bản g�
    - Phụ lục II (viết hoa) và Phụ lục III (chữ viết tắt tên loại văn bản) chưa có trong kho: cần thì tra, gắn nhãn đúng mức.
 4. **Thẩm quyền ký:** xác định ai được ký theo luật, điều lệ và văn bản ủy quyền. Ghi chú nếu người ký cần được ủy quyền.
 
+Mẫu tham khảo cho doanh nghiệp bán hàng hóa (báo giá, đơn đặt hàng, hợp đồng mua bán, hợp đồng đại lý, biên bản giao nhận, nghiệm thu, chính sách đổi trả và bảo hành, điều kiện giao dịch chung, quy chế bán hàng): `mau-van-ban-doanh-nghiep.md`. Giữ đủ các nội dung đánh dấu [Bắt buộc] trong mẫu.
+
 ## 2. Quy trình
 
 1. Xác định loại văn bản, mục đích, người nhận, và văn bản có mẫu bắt buộc không.

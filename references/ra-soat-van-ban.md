@@ -2,6 +2,8 @@
 
 Dùng khi người dùng dán, gửi file, hoặc mô tả một hợp đồng, nội quy, quyết định hay điều lệ và nhờ kiểm tra.
 
+Hợp đồng mua bán hàng hóa, hợp đồng đại lý, báo giá, chính sách đổi trả, điều kiện giao dịch chung: đối chiếu với bảng [Bắt buộc] trong `mau-van-ban-doanh-nghiep.md` và mục H "Các điểm hay sai" của `ban-hang-hoa.md` (trần phạt 8%, hóa đơn từng đợt giao, điều khoản bị cấm với người tiêu dùng, không loại trừ trách nhiệm với hàng lỗi).
+
 ## 1. Quy trình
 
 1. **Xác định loại văn bản và thời điểm áp dụng:** ngày ký, hoặc ngày dự kiến ký.

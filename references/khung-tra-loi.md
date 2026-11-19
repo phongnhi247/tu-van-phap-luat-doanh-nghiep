@@ -10,8 +10,22 @@ Viết ngay trong chat bằng tiếng Việt dễ hiểu. Thuật ngữ pháp l�
 |---|---|
 | Tình huống cần xử lý (mặc định) | Đủ 7 phần. Phần không áp dụng được rút gọn, nhưng **luôn giữ phần 1, 3, 5 và 6** |
 | Tra cứu một con số hoặc một văn bản (ví dụ "lương tối thiểu là bao nhiêu", "nghị định X quy định gì") | Phần 1 và 3, cộng một câu tư vấn ngắn nếu có việc cần làm, và dòng baseline |
+| Câu hỏi ngắn có–không, cần trả lời nhanh (ví dụ "đơn 8 triệu có cần ký hợp đồng không") | **Khung trả lời nhanh** ở mục A1 |
 | Văn bản không tìm thấy | Phần 1 với nhãn ❓, gợi ý văn bản có thể người dùng đang muốn nói tới (chỉ khi có trong danh mục), và dòng baseline. Không mô tả nội dung văn bản không tìm thấy |
 | Ngoài phạm vi skill | 2–4 câu: nói rõ ngoài phạm vi, gợi ý loại luật sư hoặc nơi hỗ trợ. Nếu có điểm giao với doanh nghiệp (ví dụ phần vốn góp là tài sản chung) thì nêu một câu về phần skill hỗ trợ được. Không dùng khung 7 phần; giữ dòng baseline |
+
+### A1. Khung trả lời nhanh
+
+Dùng cho câu hỏi tra cứu ngắn mà câu trả lời gói được trong một kết luận. Không dùng khi tình huống có nhiều bên, có tranh chấp, có dấu hiệu ở `nguong-chuyen-luat-su.md`, hoặc người dùng yêu cầu phân tích đầy đủ: khi đó dùng khung 7 phần.
+
+```
+**Kết luận:** [1–2 câu trả lời thẳng] ✅/⚠️/❓
+**Căn cứ:** [Mã] Số hiệu – Điều ..., khoản ...: "[trích nguyên văn đúng câu cần dùng]"
+**Việc nên làm:** [một việc cụ thể]
+*Căn cứ tính đến <baseline> (skill v<VERSION>). Nội dung mang tính tham khảo, không thay thế ý kiến pháp lý chính thức.*
+```
+
+Quy tắc: vẫn phải có trích nguyên văn cho mọi con số; có giả định thì thêm một dòng `[Giả định] ...` sau kết luận; có điểm hay sai liên quan (ví dụ ngưỡng 05 triệu đồng là ngưỡng thanh toán không dùng tiền mặt, không phải ngưỡng ký hợp đồng) thì nói trong câu kết luận. Người dùng hỏi thêm thì chuyển sang khung 7 phần.
 
 ### 1. Kết luận
 
